@@ -10,6 +10,7 @@ export const RUNS = join(ROOT, "runs");
 export const JURY = join(ROOT, "jury");
 export const REFS = resolve(dirname(fileURLToPath(import.meta.url)), "../references");
 export const SMOKE_TIMEOUT_MS = 75_000;
+mkdirSync(JURY, { recursive: true });
 
 export const CRITERIA = [
   ["gtm_job_clarity", "GTM job clarity"],

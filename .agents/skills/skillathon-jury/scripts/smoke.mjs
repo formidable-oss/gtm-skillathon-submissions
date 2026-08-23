@@ -45,7 +45,7 @@ await pool(list, parallel, async (s) => {
   const duration = Date.now() - started;
   writeFileSync(logPath, result.log);
 
-  const changed = sh("git", ["-C", work, "status", "--porcelain"]).out.split("\n").filter(Boolean).map((l) => l.slice(3));
+  const changed = sh("git", ["-C", work, "status", "--porcelain"]).out.split("\n").filter(Boolean).map((l) => l.replace(/^\s*\S+\s+/, "").replace(/^.* -> /, ""));
   const timedOut = duration >= SMOKE_TIMEOUT_MS - 500 && (result.signal === "SIGTERM" || result.signal === "SIGKILL" || result.code === null);
   const status = timedOut ? "timeout" : result.code === 0 ? "pass" : "fail";
   const fallback = s.manifest?.output && existsSync(join(dir, "repo", s.manifest.output));
