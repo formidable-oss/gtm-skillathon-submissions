@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-23T17:00:22.372Z",
+  "generated_at": "2026-08-23T17:00:49.422Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
     "accepted": 0,
-    "rejected": 0,
-    "dry-run": 1,
+    "rejected": 1,
+    "dry-run": 0,
     "late": 0
   },
   "submissions": [
     {
-      "team": "E2E Test",
+      "team": "Bad SHA",
       "members": [
-        "Alex Constantin"
+        "X"
       ],
-      "track": "synthetic-buyer-simulations",
+      "track": "custom",
       "repo": "alexdevmotion/skillathon-e2e-test",
       "repo_url": "https://github.com/alexdevmotion/skillathon-e2e-test",
       "sha": null,
-      "status": "dry-run",
-      "issue": 1,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/1",
-      "submitted_at": "2026-08-23T17:00:00Z",
-      "attempts": 1,
+      "status": "rejected",
+      "issue": 2,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/2",
+      "submitted_at": "2026-08-23T17:00:35Z",
+      "attempts": 2,
       "warnings": 0,
       "slug": "skillathon-e2e-test"
     }
