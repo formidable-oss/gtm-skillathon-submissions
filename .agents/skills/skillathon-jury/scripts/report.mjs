@@ -20,12 +20,14 @@ const overrideCols = CRITERIA.map(([k]) => `override_${k}`);
 const header = ["slug", "team", ...JURY_COLUMNS, ...overrideCols, "note"];
 const existing = new Map();
 if (existsSync(csvPath)) {
-  const [h, ...lines] = readFileSync(csvPath, "utf8").split(/\r?\n/).filter(Boolean);
-  const cols = parseCsvLine(h);
-  for (const line of lines) { const cells = parseCsvLine(line); const row = Object.fromEntries(cols.map((c, i) => [c, cells[i] ?? ""])); existing.set(row.slug, row); }
+  const [cols, ...records] = parseCsv(readFileSync(csvPath, "utf8").replace(/^\uFEFF/, ""));
+  if (!cols?.includes("slug")) { console.error(`${csvPath} has no slug column; refusing to overwrite it. Fix the header or move the file.`); process.exit(1); }
+  for (const cells of records) { const row = Object.fromEntries(cols.map((c, i) => [c, cells[i] ?? ""])); if (row.slug) existing.set(row.slug, row); }
 }
 const list = submissions();
 const rows = list.map((s) => ({ ...Object.fromEntries(header.map((c) => [c, ""])), ...(existing.get(s.slug) ?? {}), slug: s.slug, team: s.team }));
+// Keep hand-entered rows for teams not in this run (for example a transient clone failure).
+for (const [slug, row] of existing) if (!rows.some((r) => r.slug === slug)) rows.push({ ...Object.fromEntries(header.map((c) => [c, ""])), ...row });
 writeFileSync(csvPath, [header.join(","), ...rows.map((r) => header.map((c) => csvCell(r[c])).join(","))].join("\n") + "\n");
 
 // ---- assemble -----------------------------------------------------------------------
@@ -111,14 +113,19 @@ console.log(`jury/scoreboard.md, scoreboard.csv, runbook.md, board.html — ${te
 
 // ---- helpers ------------------------------------------------------------------------
 function csvCell(v) { const s = v == null ? "" : String(v); return /[",\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s; }
-function parseCsvLine(line) {
-  const out = []; let cur = ""; let q = false;
-  for (let i = 0; i < line.length; i++) {
-    const ch = line[i];
-    if (q) { if (ch === '"' && line[i + 1] === '"') { cur += '"'; i++; } else if (ch === '"') q = false; else cur += ch; }
-    else if (ch === '"') q = true; else if (ch === ",") { out.push(cur); cur = ""; } else cur += ch;
+// Quote-aware CSV parser over the whole text, so quoted newlines in notes survive.
+function parseCsv(text) {
+  const rows = []; let row = []; let cur = ""; let q = false;
+  for (let i = 0; i < text.length; i++) {
+    const ch = text[i];
+    if (q) { if (ch === '"' && text[i + 1] === '"') { cur += '"'; i++; } else if (ch === '"') q = false; else cur += ch; continue; }
+    if (ch === '"') q = true;
+    else if (ch === ",") { row.push(cur); cur = ""; }
+    else if (ch === "\n" || ch === "\r") { if (ch === "\r" && text[i + 1] === "\n") i++; row.push(cur); rows.push(row); row = []; cur = ""; }
+    else cur += ch;
   }
-  out.push(cur); return out;
+  if (cur !== "" || row.length) { row.push(cur); rows.push(row); }
+  return rows.filter((r) => r.some((c) => c !== ""));
 }
 function boardHtml(rowsData, isFinal, seed) {
   const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));

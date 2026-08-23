@@ -20,7 +20,7 @@ const { loadRecords } = await import(join(ROOT, "scripts/lib.mjs"));
 const { force, flags } = args();
 const rehearsal = flags.has("--rehearsal");
 
-const records = (await loadRecords()).filter((r) => (r.current === "accepted" && r.state === "open") || (rehearsal && r.current === "dry-run"));
+const records = (await loadRecords()).filter((r) => r.current === "accepted" || (rehearsal && r.current === "dry-run"));
 // One per repository: the newest accepted.
 const byRepo = new Map();
 for (const r of records) {
@@ -43,7 +43,7 @@ for (const r of accepted) {
     git("init", "-q");
     git("remote", "add", "origin", `https://github.com/${r.repo}.git`);
     const f = git("fetch", "-q", "--depth", "1", "origin", r.sha);
-    if (!f.ok) { console.log(`  ✗ ${r.slug}: fetch failed — ${f.err.split("\n")[0]}`); writeJson(join(dir, "meta.json"), { ...r, clone_error: f.err.split("\n")[0] }); continue; }
+    if (!f.ok) { console.log(`  ✗ ${r.slug}: fetch failed — ${f.err.split("\n")[0]} (will retry next run)`); rmSync(dir, { recursive: true, force: true }); continue; }
     git("checkout", "-q", "FETCH_HEAD");
   }
   const v = sh("node", [join(ROOT, "scripts/validate.mjs"), repoDir, "--json"]);

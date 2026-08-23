@@ -35,7 +35,7 @@ Miruna Dragomir, CMO Planable · Alex Gavril, CEO Promocrat · Alex Constantin, 
 - A GitHub account, and git installed.
 - Your agent of choice installed and signed in. Codex users: the desktop app or CLI; run `codex` once so it is ready.
 - Node.js 18 or newer (`node --version`), used by the submission helper.
-- Optional: the `gh` CLI, signed in (`gh auth login`). It lets your agent submit for you; without it you submit through a prefilled web form.
+- The GitHub CLI, signed in: install from https://cli.github.com, then `gh auth login`. This lets your agent push and submit for you without passwords. Without it you can still submit through a prefilled web form, but pushing needs a personal access token.
 - One GTM problem you actually have. The more specific, the better.
 
 **Let your agent explain the rest**

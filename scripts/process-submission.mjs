@@ -12,7 +12,7 @@ import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import {
   SUBMISSIONS_REPO, TEMPLATE_REPO, VALIDATOR_URL, OPEN_AT, CLOSE_AT, TRACKS, VERDICTS,
-  gh, ghAll, parseIssueBody, parseRepoUrl, encodeRecord, decodeRecord, localTime, slugify,
+  gh, ghAll, parseIssueBody, parseRepoUrl, encodeRecord, loadBotComments, localTime, slugify,
 } from "./lib.mjs";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
@@ -22,6 +22,7 @@ if (!issueNumber) throw new Error("ISSUE_NUMBER is required");
 const issue = await gh(`/repos/${SUBMISSIONS_REPO}/issues/${issueNumber}`);
 const createdAt = issue.created_at;
 const fields = parseIssueBody(issue.body);
+if (!fields.isSubmission) { console.log(`#${issueNumber} is not a submission issue; ignoring`); process.exit(0); }
 const problems = [];
 const warnings = [];
 
@@ -46,14 +47,16 @@ if (repo && problems.length === 0) {
     repoMeta = await gh(`/repos/${repo.full}`);
     if (repoMeta.private) problems.push(`${repo.full} is private. Make it public and resubmit.`);
   } catch (e) {
-    problems.push(e.status === 404 ? `${repo.full} was not found or is not public.` : `Could not read ${repo.full}: ${e.message}`);
+    if (e.status !== 404) throw e; // infrastructure error: fail the run so it can be re-run, never reject
+    problems.push(`${repo.full} was not found or is not public.`);
   }
   if (repoMeta && !repoMeta.private) {
     try {
       const commit = await gh(`/repos/${repo.full}/commits/${fields.sha}`);
       fullSha = commit.sha;
     } catch (e) {
-      problems.push(e.status === 404 || e.status === 422 ? `Commit ${fields.sha} was not found in ${repo.full}. Push it, then resubmit with the exact SHA.` : `Could not read commit: ${e.message}`);
+      if (e.status !== 404 && e.status !== 422) throw e;
+      problems.push(`Commit ${fields.sha} was not found in ${repo.full}. Push it, then resubmit with the exact SHA.`);
     }
   }
 }
@@ -67,7 +70,11 @@ if (fullSha && !late) {
     const git = (...args) => execFileSync("git", ["-C", dir, ...args], { stdio: ["ignore", "pipe", "pipe"] });
     git("init", "-q");
     git("remote", "add", "origin", `https://github.com/${repo.full}.git`);
-    git("fetch", "-q", "--depth", "1", "origin", fullSha);
+    let fetched = false;
+    for (let attempt = 1; attempt <= 3 && !fetched; attempt++) {
+      try { git("fetch", "-q", "--depth", "1", "origin", fullSha); fetched = true; }
+      catch (e) { if (attempt === 3) throw e; await new Promise((r) => setTimeout(r, 3000 * attempt)); }
+    }
     git("checkout", "-q", "FETCH_HEAD");
 
     const validator = join(dir, ".skillathon-validate.mjs");
@@ -85,14 +92,12 @@ if (fullSha && !late) {
     } catch (e) {
       out = e.stdout?.toString() ?? "";
     }
-    try { validation = JSON.parse(out); } catch { problems.push("The validator could not run against the repository. Make sure it was created from the starter template."); }
+    try { validation = JSON.parse(out); } catch { throw new Error(`validator produced no report: ${out.slice(0, 500)}`); }
     if (validation) {
       summary = validation.summary;
       for (const e of validation.errors) problems.push(`\`${e.code}\`${e.path ? ` in \`${e.path}\`` : ""}: ${e.message}`);
       for (const w of validation.warnings) warnings.push(`\`${w.code}\`${w.path ? ` in \`${w.path}\`` : ""}: ${w.message}`);
     }
-  } catch (e) {
-    problems.push(`Could not fetch commit ${fullSha.slice(0, 7)} from ${repo.full}: ${String(e.stderr ?? e.message).split("\n")[0]}`);
   } finally {
     rmSync(dir, { recursive: true, force: true });
   }
@@ -118,7 +123,7 @@ const record = {
   repo: repo?.full ?? fields.repoUrl,
   repo_url: repo ? `https://github.com/${repo.full}` : fields.repoUrl,
   sha: fullSha ?? fields.sha,
-  slug: slugify(repo?.name ?? fields.team),
+  slug: slugify(repo ? `${repo.owner}-${repo.name}` : fields.team),
   warnings: warnings.length,
 };
 
@@ -159,11 +164,10 @@ if (verdict !== "accepted") {
 
 // ---- supersede earlier accepted submissions for the same repository ----------------
 if (verdict === "accepted") {
-  const open = await ghAll(`/repos/${SUBMISSIONS_REPO}/issues?state=open&labels=accepted`);
+  const [open, records] = await Promise.all([ghAll(`/repos/${SUBMISSIONS_REPO}/issues?state=all&labels=accepted`), loadBotComments()]);
   for (const other of open) {
     if (other.number === issueNumber) continue;
-    const comments = await ghAll(`/repos/${SUBMISSIONS_REPO}/issues/${other.number}/comments`);
-    const rec = comments.map((c) => decodeRecord(c.body)).filter(Boolean).pop();
+    const rec = records.get(other.number);
     if (!rec || rec.repo.toLowerCase() !== record.repo.toLowerCase()) continue;
     if (Date.parse(rec.submitted_at) > t) continue; // an even newer one already exists
     await gh(`/repos/${SUBMISSIONS_REPO}/issues/${other.number}/comments`, { method: "POST", body: { body: `Superseded by #${issueNumber} (commit \`${record.sha.slice(0, 7)}\`).` } });

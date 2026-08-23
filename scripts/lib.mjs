@@ -58,7 +58,7 @@ export function parseIssueBody(body = "") {
   const re = /^###\s+(.+?)\s*\r?\n+([\s\S]*?)(?=^###\s|\s*$)/gm;
   let m;
   while ((m = re.exec(body))) {
-    const value = m[2].trim().replace(/^_No response_$/i, "");
+    const value = m[2].trim().replace(/^_No response_$/i, "").replace(/^[`<\s]+|[`>\s]+$/g, "");
     fields[m[1].trim().toLowerCase()] = value;
   }
   return {
@@ -67,6 +67,7 @@ export function parseIssueBody(body = "") {
     track: fields["track"] ?? "",
     repoUrl: fields["repository url"] ?? "",
     sha: (fields["commit sha"] ?? "").trim(),
+    isSubmission: "repository url" in fields,
   };
 }
 
@@ -97,21 +98,39 @@ export function localTime(iso) {
   return new Date(iso).toLocaleTimeString("en-GB", { timeZone: "Europe/Bucharest", hour: "2-digit", minute: "2-digit", second: "2-digit" });
 }
 
-// Returns the bot's record for every issue that has one, newest first.
+// Bot verdict comments for the whole repository in a few paginated calls (not one call per
+// issue: GITHUB_TOKEN is limited to 1,000 requests/hour per repository, shared by all runs).
+export async function loadBotComments() {
+  const since = new Date(Date.parse(OPEN_AT) - 7 * 24 * 3600 * 1000).toISOString();
+  const all = await ghAll(`/repos/${SUBMISSIONS_REPO}/issues/comments?sort=created&direction=asc&since=${since}`);
+  const byIssue = new Map();
+  for (const c of all) {
+    if (!(c.user?.type === "Bot" || c.user?.login === "github-actions[bot]")) continue;
+    const record = decodeRecord(c.body);
+    if (!record) continue;
+    const issue = Number(c.issue_url.split("/").pop());
+    byIssue.set(issue, record); // later comments win
+  }
+  return byIssue;
+}
+
+// Returns the bot's record for every issue that has one, newest first. The verdict label on the
+// issue is authoritative (participants cannot change labels); issue state is ignored because
+// authors can close their own issues.
 export async function loadRecords() {
-  const issues = await ghAll(`/repos/${SUBMISSIONS_REPO}/issues?state=all&sort=created&direction=desc`);
-  const records = [];
+  const [issues, records] = await Promise.all([
+    ghAll(`/repos/${SUBMISSIONS_REPO}/issues?state=all&sort=created&direction=desc`),
+    loadBotComments(),
+  ]);
+  const out = [];
   for (const issue of issues) {
     if (issue.pull_request) continue;
-    const comments = issue.comments > 0 ? await ghAll(`/repos/${SUBMISSIONS_REPO}/issues/${issue.number}/comments`) : [];
-    const botComments = comments.filter((c) => c.user?.type === "Bot" || c.user?.login === "github-actions[bot]");
-    let record = null;
-    for (const c of botComments) record = decodeRecord(c.body) ?? record;
+    const record = records.get(issue.number);
     if (!record) continue;
     const labels = issue.labels.map((l) => l.name);
     record.current = VERDICTS.find((v) => labels.includes(v)) ?? record.verdict;
     record.state = issue.state;
-    records.push(record);
+    out.push(record);
   }
-  return records;
+  return out;
 }

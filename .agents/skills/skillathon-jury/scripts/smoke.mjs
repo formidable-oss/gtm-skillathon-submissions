@@ -30,23 +30,28 @@ await pool(list, parallel, async (s) => {
   const logPath = join(dir, "smoke.log");
   rmSync(lastMessage, { force: true });
   const started = Date.now();
+  let timedOut = false;
   const result = await new Promise((resolveRun) => {
+    // Detached so the whole process group (codex and anything it spawned) can be killed.
     const child = spawn("codex", [
       "exec", "-C", work, "--sandbox", "workspace-write", "-c", 'network_access="enabled"', "-c", 'approval_policy="never"',
       "--skip-git-repo-check", "--ephemeral", "--color", "never", "-o", lastMessage, s.seed_prompt,
-    ], { stdio: ["ignore", "pipe", "pipe"] });
+    ], { stdio: ["ignore", "pipe", "pipe"], detached: true });
     let log = "";
+    let done = false;
+    const finish = (r) => { if (done) return; done = true; clearTimeout(timer); clearTimeout(hard); resolveRun({ ...r, log }); };
+    const killGroup = (sig) => { try { process.kill(-child.pid, sig); } catch { try { child.kill(sig); } catch {} } };
     child.stdout.on("data", (d) => { log += d; });
     child.stderr.on("data", (d) => { log += d; });
-    const timer = setTimeout(() => { child.kill("SIGTERM"); setTimeout(() => child.kill("SIGKILL"), 5000); }, SMOKE_TIMEOUT_MS);
-    child.on("close", (code, signal) => { clearTimeout(timer); resolveRun({ code, signal, log }); });
-    child.on("error", (e) => { clearTimeout(timer); resolveRun({ code: -1, signal: null, log: String(e) }); });
+    const timer = setTimeout(() => { timedOut = true; killGroup("SIGTERM"); setTimeout(() => killGroup("SIGKILL"), 5000); }, SMOKE_TIMEOUT_MS);
+    const hard = setTimeout(() => finish({ code: null, signal: "SIGKILL" }), SMOKE_TIMEOUT_MS + 15000); // even if a pipe is held open
+    child.on("exit", (code, signal) => finish({ code, signal }));
+    child.on("error", (e) => { log += String(e); finish({ code: -1, signal: null }); });
   });
   const duration = Date.now() - started;
   writeFileSync(logPath, result.log);
 
   const changed = sh("git", ["-C", work, "status", "--porcelain"]).out.split("\n").filter(Boolean).map((l) => l.replace(/^\s*\S+\s+/, "").replace(/^.* -> /, ""));
-  const timedOut = duration >= SMOKE_TIMEOUT_MS - 500 && (result.signal === "SIGTERM" || result.signal === "SIGKILL" || result.code === null);
   const status = timedOut ? "timeout" : result.code === 0 ? "pass" : "fail";
   const fallback = s.manifest?.output && existsSync(join(dir, "repo", s.manifest.output));
   const smoke = {

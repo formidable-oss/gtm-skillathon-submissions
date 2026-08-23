@@ -14,7 +14,7 @@ const byRepo = new Map();
 for (const r of records) {
   const key = String(r.repo).toLowerCase();
   const cur = byRepo.get(key);
-  const isAccepted = r.current === "accepted" && r.state === "open";
+  const isAccepted = r.current === "accepted";
   if (!cur) { byRepo.set(key, { ...r, accepted: isAccepted, attempts: 1 }); continue; }
   cur.attempts += 1;
   if (isAccepted && !cur.accepted) byRepo.set(key, { ...r, accepted: true, attempts: cur.attempts });
