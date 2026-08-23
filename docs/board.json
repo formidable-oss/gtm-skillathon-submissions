@@ -1,31 +1,13 @@
 {
-  "generated_at": "2026-08-23T17:21:00.537Z",
+  "generated_at": "2026-08-23T17:23:01.968Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
     "accepted": 0,
     "rejected": 0,
-    "dry-run": 1,
+    "dry-run": 0,
     "late": 0
   },
-  "submissions": [
-    {
-      "team": "E2E Test",
-      "members": [
-        "Alex Constantin"
-      ],
-      "track": "synthetic-buyer-simulations",
-      "repo": "alexdevmotion/skillathon-e2e-test",
-      "repo_url": "https://github.com/alexdevmotion/skillathon-e2e-test",
-      "sha": null,
-      "status": "dry-run",
-      "issue": 3,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/3",
-      "submitted_at": "2026-08-23T17:20:43Z",
-      "attempts": 1,
-      "warnings": 0,
-      "slug": "alexdevmotion-skillathon-e2e-test"
-    }
-  ]
+  "submissions": []
 }

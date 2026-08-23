@@ -20,7 +20,9 @@ Requirements: `gh` logged in as an organizer, `codex` CLI logged in, Node 18+.
 | Report | `node .agents/skills/skillathon-jury/scripts/report.mjs [--final]` | `jury/scoreboard.md`, `jury/scoreboard.csv`, `jury/runbook.md`, `jury/board.html`, `jury/jury-scores.csv` |
 | All | `node .agents/skills/skillathon-jury/scripts/run.mjs` | pull → smoke → score → report |
 
-Flags: `--force` redo even if the SHA is unchanged; `--only=slug1,slug2`; `--parallel=3`; `--rehearsal` (pull only) includes dry-run issues opened before 18:00 so the pipeline can be rehearsed before the event.
+Flags: `--force` redo even if the SHA is unchanged; `--only=slug1,slug2`; `--parallel=3`; `--effort=medium` (smoke only) sets `model_reasoning_effort` for the run; `--rehearsal` (pull only) includes dry-run issues opened before 18:00 so the pipeline can be rehearsed before the event.
+
+Timing: in rehearsal a small Markdown-only skill took 50–75 s with `model_reasoning_effort = "high"`, right at the 75 s cap. Set the jury laptop's `~/.codex/config.toml` to `model_reasoning_effort = "medium"` for the event and pass `--effort=medium` to the smoke run so both measure the same thing.
 
 ## During the build window (18:00–20:30)
 

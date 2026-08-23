@@ -3,7 +3,8 @@
 // clone, with a 75-second cap, and records what happened in runs/<slug>/smoke.json.
 // Incremental: skips runs that already have a result for the current SHA.
 //
-// Usage: node smoke.mjs [--force] [--only=slug1,slug2] [--parallel=3]
+// Usage: node smoke.mjs [--force] [--only=slug1,slug2] [--parallel=3] [--effort=medium]
+//   --effort  sets model_reasoning_effort for the run; match the jury laptop's Codex config
 
 import { rmSync, cpSync, existsSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
@@ -35,6 +36,7 @@ await pool(list, parallel, async (s) => {
     // Detached so the whole process group (codex and anything it spawned) can be killed.
     const child = spawn("codex", [
       "exec", "-C", work, "--sandbox", "workspace-write", "-c", 'network_access="enabled"', "-c", 'approval_policy="never"',
+      ...(opts.effort ? ["-c", `model_reasoning_effort="${opts.effort}"`] : []),
       "--skip-git-repo-check", "--ephemeral", "--color", "never", "-o", lastMessage, s.seed_prompt,
     ], { stdio: ["ignore", "pipe", "pipe"], detached: true });
     let log = "";
