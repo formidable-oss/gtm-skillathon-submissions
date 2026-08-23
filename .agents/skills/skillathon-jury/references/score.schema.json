@@ -1,0 +1,37 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["gtm_job_clarity", "real_world_signal", "evidence", "skill_quality", "reusability", "gates", "one_liner", "strongest", "weakest"],
+  "properties": {
+    "gtm_job_clarity": { "$ref": "#/$defs/score" },
+    "real_world_signal": { "$ref": "#/$defs/score" },
+    "evidence": { "$ref": "#/$defs/score" },
+    "skill_quality": { "$ref": "#/$defs/score" },
+    "reusability": { "$ref": "#/$defs/score" },
+    "gates": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["fabrication_suspected", "personal_data", "needs_credentials", "notes"],
+      "properties": {
+        "fabrication_suspected": { "type": "boolean", "description": "True if eval results, fallback output, sources, or retrieval dates look invented or inconsistent with the repository." },
+        "personal_data": { "type": "boolean", "description": "True if the repository contains personal data about individuals without documented permission." },
+        "needs_credentials": { "type": "boolean", "description": "True if the seed prompt cannot produce a meaningful result without an API key, MCP server, or login." },
+        "notes": { "type": "string", "description": "One or two sentences of evidence for any true flag; empty otherwise." }
+      }
+    },
+    "one_liner": { "type": "string", "description": "What this skill does for whom, in one sentence, for the jury." },
+    "strongest": { "type": "string", "description": "The single strongest aspect, one sentence with a file path." },
+    "weakest": { "type": "string", "description": "The single weakest aspect, one sentence with a file path." }
+  },
+  "$defs": {
+    "score": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["score", "rationale"],
+      "properties": {
+        "score": { "type": "integer", "minimum": 1, "maximum": 5 },
+        "rationale": { "type": "string", "description": "One sentence citing the file or line that justifies the score." }
+      }
+    }
+  }
+}

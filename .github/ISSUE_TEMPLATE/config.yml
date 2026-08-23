@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Participant template and rules
+    url: https://github.com/formidable-oss/gtm-skillathon-starter
+    about: Start from the template. RULES.md has the timeline, rules, and judging criteria.
+  - name: Event page
+    url: https://luma.com/82q9aclg
+    about: Agenda, venue, jury, prizes.

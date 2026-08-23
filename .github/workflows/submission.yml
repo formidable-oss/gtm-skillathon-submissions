@@ -1,0 +1,43 @@
+name: Process submission
+
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: write
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Process the submission
+        if: github.event_name == 'issues'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: node scripts/process-submission.mjs
+      - name: Rebuild the board
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/build-board.mjs
+      - name: Commit the board
+        run: |
+          git config user.name "skillathon-bot"
+          git config user.email "skillathon-bot@users.noreply.github.com"
+          git add board.json BOARD.md docs/board.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Update board [skip ci]"
+          for attempt in 1 2 3 4 5 6; do
+            git push && exit 0
+            git pull --rebase -X theirs origin main || true
+            sleep $((attempt * 3))
+          done
+          echo "::warning::board push failed after retries; next run will regenerate it"

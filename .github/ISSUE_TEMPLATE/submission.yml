@@ -1,0 +1,54 @@
+name: Submission
+description: Submit your team's repository and commit for the GTM Skillathon. Open between 18:00 and 20:30 on 28 August 2026.
+title: "Submission: <team name>"
+labels: ["submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        One issue per submission. Resubmit by opening a new issue; the latest accepted one for your repository counts. The system replies here within about two minutes with **accepted** or **rejected** and why. Issues opened after 20:30 local time are rejected automatically.
+  - type: input
+    id: team
+    attributes:
+      label: Team name
+      placeholder: Acme Signals
+    validations:
+      required: true
+  - type: input
+    id: members
+    attributes:
+      label: Members
+      description: One or two names, comma-separated.
+      placeholder: Ana Pop, Dan Ionescu
+    validations:
+      required: true
+  - type: dropdown
+    id: track
+    attributes:
+      label: Track
+      options:
+        - ai-search-optimization
+        - personalized-growth-engines
+        - churn-detection
+        - synthetic-buyer-simulations
+        - plg-automation
+        - multi-agent-orchestration
+        - custom
+    validations:
+      required: true
+  - type: input
+    id: repo
+    attributes:
+      label: Repository URL
+      description: Public GitHub repository created from the starter template.
+      placeholder: https://github.com/your-org/your-repo
+    validations:
+      required: true
+  - type: input
+    id: sha
+    attributes:
+      label: Commit SHA
+      description: The exact commit to judge. `git rev-parse HEAD` after pushing.
+      placeholder: 0123456789abcdef0123456789abcdef01234567
+    validations:
+      required: true
