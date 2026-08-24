@@ -24,6 +24,19 @@ Flags: `--force` redo even if the SHA is unchanged; `--only=slug1,slug2`; `--par
 
 Timing: in rehearsal a small Markdown-only skill took 50–75 s with `model_reasoning_effort = "high"`, right at the 75 s cap. Set the jury laptop's `~/.codex/config.toml` to `model_reasoning_effort = "medium"` for the event and pass `--effort=medium` to the smoke run so both measure the same thing.
 
+## Adjusting the submission window
+
+Defaults are 18:00–20:30 local (15:00–17:30 UTC), hardcoded as fallbacks. Override without a commit via repository variables (ISO UTC), then rebuild the board so clients pick the new times up:
+
+```bash
+gh variable set SKILLATHON_CLOSE_AT --body "2026-08-28T18:00:00Z" -R formidable-oss/gtm-skillathon-submissions
+gh workflow run submission.yml -R formidable-oss/gtm-skillathon-submissions   # rebuilds board.json with the new window
+```
+
+`SKILLATHON_OPEN_AT` works the same. `gh variable delete <name> -R …` restores the default. New issues are judged against the effective window at processing time; the dashboard countdown and the participant submit script read the window from `board.json`, so they follow within a minute.
+
+To retro-accept an issue that was marked `late` before an extension: re-run its "Process submission" run from the Actions tab (the verdict is recomputed against the original issue timestamp and the new window), then remove the stale `late` label. Never extend after demos have started.
+
 ## During the build window (18:00–20:30)
 
 1. Every 20–30 minutes run `node .agents/skills/skillathon-jury/scripts/run.mjs`. New and resubmitted teams get cloned, smoke-tested, and scored; nothing else is touched.

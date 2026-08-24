@@ -54,8 +54,8 @@
 </table>
 <footer>Submit via <a href="https://github.com/formidable-oss/gtm-skillathon-submissions/issues/new/choose">a submission issue</a> or <code>$skillathon-submit</code>. Latest accepted submission per repository counts. Updated <span id="updated">—</span>.</footer>
 <script>
-  const OPEN_AT = Date.parse("2026-08-28T15:00:00Z");
-  const CLOSE_AT = Date.parse("2026-08-28T17:30:00Z");
+  let OPEN_AT = Date.parse("2026-08-28T15:00:00Z");
+  let CLOSE_AT = Date.parse("2026-08-28T17:30:00Z");
   const TZ = "Europe/Bucharest";
   const pad = (n) => String(n).padStart(2, "0");
   const hms = (ms) => { const s = Math.max(0, Math.floor(ms / 1000)); return `${pad(Math.floor(s / 3600))}:${pad(Math.floor(s % 3600 / 60))}:${pad(s % 60)}`; };
@@ -86,6 +86,8 @@
   }
 
   function render(board) {
+    if (board.open_at) OPEN_AT = Date.parse(board.open_at);
+    if (board.close_at) CLOSE_AT = Date.parse(board.close_at);
     const c = board.counts || {};
     document.getElementById("n-accepted").textContent = c.accepted ?? 0;
     document.getElementById("n-rejected").textContent = c.rejected ?? 0;

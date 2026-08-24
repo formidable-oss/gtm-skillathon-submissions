@@ -3,8 +3,10 @@
 export const SUBMISSIONS_REPO = process.env.GITHUB_REPOSITORY ?? "formidable-oss/gtm-skillathon-submissions";
 export const TEMPLATE_REPO = "formidable-oss/gtm-skillathon-starter";
 export const VALIDATOR_URL = `https://raw.githubusercontent.com/${TEMPLATE_REPO}/main/.agents/skills/skillathon-submit/scripts/validate.mjs`;
-export const OPEN_AT = "2026-08-28T15:00:00Z"; // 18:00 Europe/Bucharest
-export const CLOSE_AT = "2026-08-28T17:30:00Z"; // 20:30 Europe/Bucharest
+// Defaults for the event; override without a commit via repository variables
+// SKILLATHON_OPEN_AT / SKILLATHON_CLOSE_AT (ISO UTC), passed into the Action as env.
+export const OPEN_AT = process.env.SKILLATHON_OPEN_AT || "2026-08-28T15:00:00Z"; // 18:00 Europe/Bucharest
+export const CLOSE_AT = process.env.SKILLATHON_CLOSE_AT || "2026-08-28T17:30:00Z"; // 20:30 Europe/Bucharest
 export const TRACKS = [
   "ai-search-optimization",
   "personalized-growth-engines",
