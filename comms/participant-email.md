@@ -4,11 +4,11 @@ Attach the jury banner. The prompt block must stay copy-pasteable.
 
 ---
 
-**Subject:** GTM Skillathon on Thursday: agenda, jury, and a 5-minute prep
+**Subject:** GTM Skillathon on Friday: agenda, jury, and a 5-minute prep
 
 Hi,
 
-Thursday is the GTM Skillathon. Three things.
+Friday is the GTM Skillathon. Three things.
 
 **Agenda** (28 August, Builders House, AFI Park 1, floor 1, above BCR)
 17:00 doors · 17:30 intro and live Codex demo · 18:00 build starts, submissions open · **20:30 hard cutoff**, demos start · 21:45 launch party
@@ -29,6 +29,6 @@ Then explain to me, plainly: how the evening runs and the timeline; what I have 
 
 Template: <https://github.com/formidable-oss/gtm-skillathon-starter> · Event: <https://luma.com/82q9aclg>
 
-Laptop and charger. See you Thursday.
+Laptop and charger. See you Friday.
 
 Formidable Builders · Builders House

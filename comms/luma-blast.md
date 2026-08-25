@@ -4,14 +4,14 @@ Plain text for Luma's editor. Attach or embed the jury banner. Keep the prompt a
 
 ---
 
-Subject: Thursday's GTM Skillathon: how to prepare in 5 minutes
+Subject: Friday's GTM Skillathon: how to prepare in 5 minutes
 
 Hi,
 
-Thursday is the Skillathon. Here is what to expect and the small prep that makes the evening a lot easier.
+Friday is the Skillathon. Here is what to expect and the small prep that makes the evening a lot easier.
 
 When and where
-Thursday 28 August, Builders House, AFI Park 1, floor 1, above BCR.
+Friday 28 August, Builders House, AFI Park 1, floor 1, above BCR.
 17:00 doors. 17:30 intro and a live Codex demo. 18:00 build starts. 20:30 hard cutoff, then demos. 21:45 launch party.
 
 What you will do
@@ -43,6 +43,6 @@ Rules and judging: https://github.com/formidable-oss/gtm-skillathon-starter/blob
 Submissions and live board: https://github.com/formidable-oss/gtm-skillathon-submissions
 Event: https://luma.com/82q9aclg
 
-Laptop and charger. See you Thursday.
+Laptop and charger. See you Friday.
 
 Formidable Builders and Builders House
