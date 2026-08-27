@@ -1,6 +1,6 @@
 # Submissions board
 
-Updated 18:23:12 local. Live view: <https://formidable-oss.github.io/gtm-skillathon-submissions/>
+Updated 18:23:12 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
 **0 accepted** · 0 need a fix · 0 dry runs · 0 late
 

@@ -1,10 +1,10 @@
 #!/usr/bin/env node
-// Regenerates board.json, docs/board.json, and BOARD.md from the bot records on all issues.
+// Regenerates board.json and BOARD.md from the bot records on all issues.
 // Idempotent: every run rebuilds the whole board from GitHub state.
 //
 // Env: GITHUB_TOKEN (optional locally; raises the rate limit), GITHUB_REPOSITORY.
 
-import { writeFileSync, mkdirSync } from "node:fs";
+import { writeFileSync } from "node:fs";
 import { SUBMISSIONS_REPO, OPEN_AT, CLOSE_AT, loadRecords, localTime } from "./lib.mjs";
 
 const records = await loadRecords();
@@ -48,14 +48,12 @@ const counts = {
 const board = { generated_at: new Date().toISOString(), open_at: OPEN_AT, close_at: CLOSE_AT, repo: SUBMISSIONS_REPO, counts, submissions: rows };
 const json = JSON.stringify(board, null, 2) + "\n";
 writeFileSync("board.json", json);
-mkdirSync("docs", { recursive: true });
-writeFileSync("docs/board.json", json);
 
 const icon = { accepted: "✅", rejected: "❌", "dry-run": "🧪", late: "⏰" };
 const md = [
   `# Submissions board`,
   ``,
-  `Updated ${localTime(board.generated_at)} local. Live view: <https://formidable-oss.github.io/gtm-skillathon-submissions/>`,
+  `Updated ${localTime(board.generated_at)} local. Live view: <https://gtm-skillathon-jury.vercel.app/>`,
   ``,
   `**${counts.accepted} accepted** · ${counts.rejected} need a fix · ${counts["dry-run"]} dry runs · ${counts.late} late`,
   ``,

@@ -38,7 +38,7 @@ Timing: in rehearsal a small Markdown-only skill took 50–75 s with `model_reas
 
 ## Adjusting the submission window
 
-Defaults are 18:00–20:30 local (15:00–17:30 UTC), hardcoded as fallbacks. Override without a commit via repository variables (ISO UTC), then rebuild the board so clients pick the new times up:
+Defaults are 18:00–20:30 local (15:00–17:30 UTC), hardcoded as fallbacks. The jury app's `/board` page has a "Submission window" control that sets the repository variables and rebuilds the board for you. The same by hand (ISO UTC):
 
 ```bash
 gh variable set SKILLATHON_CLOSE_AT --body "2026-08-28T18:00:00Z" -R formidable-oss/gtm-skillathon-submissions
@@ -54,7 +54,7 @@ To retro-accept an issue that was marked `late` before an extension: re-run its 
 1. Every 20–30 minutes run `node .agents/skills/skillathon-jury/scripts/run.mjs`. New and resubmitted teams get cloned, smoke-tested, scanned, scored and exported; nothing else is touched.
 2. Open the jury app's `/board` page and upload the fresh `jury/export.csv`. The upload upserts by `slug`; organizer overrides, gates, and juror scores already in the app survive it.
 3. Look at the smoke column in `jury/scoreboard.md`. A `fail` or `timeout` before the cutoff is worth a quiet heads-up to the team if an organizer is nearby; the rules do not require it.
-4. The venue screen shows <https://formidable-oss.github.io/gtm-skillathon-submissions/> (countdown and accepted list). It updates itself.
+4. The venue screen shows <https://gtm-skillathon-jury.vercel.app/> (countdown and accepted list). It updates itself.
 
 ## At 20:30
 
