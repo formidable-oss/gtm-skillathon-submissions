@@ -46,6 +46,7 @@ const teams = list.map((s) => {
   if (scores?.gates?.needs_credentials && !(smoke?.fallback_present)) gates.push("needs credentials");
   const flagsOut = [];
   if (scores?.gates?.fabrication_suspected) flagsOut.push("fabrication?");
+  if (scores?.gates?.grader_manipulation) flagsOut.push("grader manipulation");
   if (scores?.gates?.needs_credentials) flagsOut.push("needs creds");
   if (validation.warnings?.length) flagsOut.push(`${validation.warnings.length} warn`);
   if (runs === "timeout+fallback") flagsOut.push("timeout, fallback");
