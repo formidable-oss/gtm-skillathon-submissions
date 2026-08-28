@@ -1,13 +1,13 @@
 # Submissions board
 
-Updated 20:11:45 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 20:12:26 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
 **25 accepted** · 2 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
+| ✅ | Tender Radar | `custom` | 20:12:06 | [`e0be4d4`](https://github.com/edwardnita/gtm-skill/tree/e0be4d4b2206007206d5359d6b35c0171130f86e) | [#91](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/91) |
 | ✅ | Peak AI | `synthetic-buyer-simulations` | 20:11:25 | [`8ff4e17`](https://github.com/DanStinga/peak-ai-buyer-proof-gap/tree/8ff4e17777f45329612c1bc69efcd0b5e4bfddbd) | [#90](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/90) |
-| ✅ | Tender Radar | `custom` | 20:10:45 | [`c5d7001`](https://github.com/edwardnita/gtm-skill/tree/c5d70013942e12ec00105460f48af3ef7f3dda54) | [#89](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/89) |
 | ✅ | Signal Obscura | `personalized-growth-engines` | 20:09:43 | [`a3b608e`](https://github.com/TudorAndrei/gtm-skill/tree/a3b608ed36d2ceb85d9f41be3639dc1824bd69c7) | [#88](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/88) |
 | ✅ | publi22 | `personalized-growth-engines` | 20:09:36 | [`24702d0`](https://github.com/mogaeduard/gtm-skillathon/tree/24702d0f4f3f02ef677f81568ffba0538ff7efad) | [#87](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/87) |
 | ✅ | Claudiu Busuioc | `personalized-growth-engines` | 20:09:36 | [`fb69868`](https://github.com/busuyoc/outreach-personalizer/tree/fb69868c39ba107ad825c2b4a887bbf46efc7856) | [#86](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/86) |

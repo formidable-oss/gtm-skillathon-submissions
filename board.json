@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:11:45.550Z",
+  "generated_at": "2026-08-28T17:12:26.538Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,23 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Tender Radar",
+      "members": [
+        "Eduard Nita"
+      ],
+      "track": "custom",
+      "repo": "edwardnita/gtm-skill",
+      "repo_url": "https://github.com/edwardnita/gtm-skill",
+      "sha": "e0be4d4b2206007206d5359d6b35c0171130f86e",
+      "status": "accepted",
+      "issue": 91,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/91",
+      "submitted_at": "2026-08-28T17:12:06Z",
+      "attempts": 9,
+      "warnings": 0,
+      "slug": "edwardnita-gtm-skill"
+    },
     {
       "team": "Peak AI",
       "members": [
@@ -26,24 +43,6 @@
       "attempts": 4,
       "warnings": 0,
       "slug": "danstinga-peak-ai-buyer-proof-gap"
-    },
-    {
-      "team": "Tender Radar",
-      "members": [
-        "Eduard Nita",
-        "Radu Minea"
-      ],
-      "track": "custom",
-      "repo": "edwardnita/gtm-skill",
-      "repo_url": "https://github.com/edwardnita/gtm-skill",
-      "sha": "c5d70013942e12ec00105460f48af3ef7f3dda54",
-      "status": "accepted",
-      "issue": 89,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/89",
-      "submitted_at": "2026-08-28T17:10:45Z",
-      "attempts": 8,
-      "warnings": 0,
-      "slug": "edwardnita-gtm-skill"
     },
     {
       "team": "Signal Obscura",
