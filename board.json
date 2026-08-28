@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T15:21:56.481Z",
+  "generated_at": "2026-08-28T15:23:02.725Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -20,10 +20,10 @@
       "repo_url": "https://github.com/AndreiChiscaru/gtm-signup-friction-scorer",
       "sha": "3c8af4b109ecbea3d0452d132ad08c6e990d3454",
       "status": "accepted",
-      "issue": 5,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/5",
-      "submitted_at": "2026-08-28T15:21:42Z",
-      "attempts": 1,
+      "issue": 6,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/6",
+      "submitted_at": "2026-08-28T15:22:44Z",
+      "attempts": 2,
       "warnings": 0,
       "slug": "andreichiscaru-gtm-signup-friction-score"
     },
