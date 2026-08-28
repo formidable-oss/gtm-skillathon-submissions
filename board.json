@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:05:11.136Z",
+  "generated_at": "2026-08-28T17:05:42.414Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,23 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Sergiu",
+      "members": [
+        "Sergiu Craioveanu"
+      ],
+      "track": "custom",
+      "repo": "the-sergiu/human-touch-copy-triage",
+      "repo_url": "https://github.com/the-sergiu/human-touch-copy-triage",
+      "sha": "23af6861fff176dfb7679bc571a98af0d0455b60",
+      "status": "accepted",
+      "issue": 79,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/79",
+      "submitted_at": "2026-08-28T17:05:22Z",
+      "attempts": 4,
+      "warnings": 0,
+      "slug": "the-sergiu-human-touch-copy-triage"
+    },
     {
       "team": "3DAPI",
       "members": [
@@ -375,23 +392,6 @@
       "attempts": 5,
       "warnings": 0,
       "slug": "andreichiscaru-gtm-signup-friction-score"
-    },
-    {
-      "team": "Sergiu",
-      "members": [
-        "Sergiu Craioveanu"
-      ],
-      "track": "custom",
-      "repo": "the-sergiu/human-touch-copy-triage",
-      "repo_url": "https://github.com/the-sergiu/human-touch-copy-triage",
-      "sha": "08953b61fc76562fa5381f359a84397a7495c9db",
-      "status": "accepted",
-      "issue": 39,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/39",
-      "submitted_at": "2026-08-28T16:29:38Z",
-      "attempts": 3,
-      "warnings": 0,
-      "slug": "the-sergiu-human-touch-copy-triage"
     },
     {
       "team": "Stock.estate",

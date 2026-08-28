@@ -1,11 +1,12 @@
 # Submissions board
 
-Updated 20:05:11 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 20:05:42 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
 **23 accepted** · 2 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
+| ✅ | Sergiu | `custom` | 20:05:22 | [`23af686`](https://github.com/the-sergiu/human-touch-copy-triage/tree/23af6861fff176dfb7679bc571a98af0d0455b60) | [#79](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/79) |
 | ✅ | 3DAPI | `custom` | 20:04:55 | [`5c9fdf3`](https://github.com/crusadev/painkiller/tree/5c9fdf36cfeda5bf3bd10f51a1c0ae88b21af81a) | [#78](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/78) |
 | ✅ | GTM Competitive Matrix | `custom` | 20:03:56 | [`8dadf97`](https://github.com/RobertaDiana/gtm-churn-signal-hunter/tree/8dadf9748c4fdd21ab9e3ac4c358755b82bbb395) | [#77](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/77) |
 | ✅ | Andrei Radulescu | `ai-search-optimization` | 20:02:38 | [`a1b222c`](https://github.com/andiradulescu/gtm-skill-missing-answer/tree/a1b222cc31618c9f1ce1138fa5724f79124e44dd) | [#76](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/76) |
@@ -27,7 +28,6 @@ Updated 20:05:11 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 | ✅ | RefineForge | `custom` | 19:34:55 | [`890cdb4`](https://github.com/andrei14922/refineforge-skillathon/tree/890cdb4fc7b6ca675dd6b5b01c5cb924affceb77) | [#48](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/48) |
 | ✅ | Fix Everywhere | `custom` | 19:34:51 | [`8147d0a`](https://github.com/rest-artt/skillathon-fix-everything/tree/8147d0a57e9014ffb3d5985a4f9838168132d85e) | [#47](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/47) |
 | ✅ | Low-Medium PLG | `plg-automation` | 19:31:30 | [`de84d6c`](https://github.com/AndreiChiscaru/gtm-signup-friction-scorer/tree/de84d6c9b5af4cfed7f6f7204ac24629bd32b5f1) | [#42](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/42) |
-| ✅ | Sergiu | `custom` | 19:29:38 | [`08953b6`](https://github.com/the-sergiu/human-touch-copy-triage/tree/08953b61fc76562fa5381f359a84397a7495c9db) | [#39](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/39) |
 | ❌ | Stock.estate | `ai-search-optimization` | 19:29:33 | — | [#38](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/38) |
 | ❌ | Granded | `ai-search-optimization` | 19:21:01 | — | [#31](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/31) |
 | ✅ | GTM OS | `ai-search-optimization` | 19:09:28 | [`0a1b45c`](https://github.com/teopaleface/gtm-os/tree/0a1b45caef84b1e264289a8622768e17c0da59b3) | [#24](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/24) |
