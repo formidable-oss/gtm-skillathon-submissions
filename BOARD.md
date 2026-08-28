@@ -1,15 +1,16 @@
 # Submissions board
 
-Updated 20:29:25 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 20:29:46 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
 **34 accepted** · 2 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
+| ✅ | Joe Bob's Hardware Supply | `custom` | 20:29:26 | [`e71b74b`](https://github.com/bcksl/roadmap-vulture/tree/e71b74b21dbef3b5c4489bb8e0787fe3c0d514d5) | [#135](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/135) |
+| ✅ | Product Detailed Page Audit for eCommerce Websites | `ai-search-optimization` | 20:29:26 | [`2e02610`](https://github.com/mmartinalexandru/pdp-answer-audit/tree/2e026106ea761963bcb6cfc1435458e14f689beb) | [#134](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/134) |
 | ✅ | OutThink GTM | `personalized-growth-engines` | 20:29:08 | [`094600d`](https://github.com/ovidiupopeti/GTM-skill/tree/094600d44736e80b13902e54dcc968f5260fb5fe) | [#133](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/133) |
 | ✅ | Missing Answer | `ai-search-optimization` | 20:28:54 | [`f4b4028`](https://github.com/andiradulescu/gtm-skill-missing-answer/tree/f4b402877b9ba9614b358ec64a7ccc763d59a541) | [#132](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/132) |
 | ✅ | 3DAPI | `custom` | 20:28:41 | [`2556c85`](https://github.com/crusadev/painkiller/tree/2556c85d47deb6c42c4ee0599f9bd49f8c868967) | [#131](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/131) |
-| ✅ | Product Detailed Page Audit for eCommerce Websites | `ai-search-optimization` | 20:28:38 | [`5afb340`](https://github.com/mmartinalexandru/pdp-answer-audit/tree/5afb34024e540618a60e7a810361b7406f1277a2) | [#130](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/130) |
 | ✅ | ArminSHaf | `custom` | 20:28:35 | [`fa430fc`](https://github.com/ArminSHaf/gtm-skillathon-account-research/tree/fa430fc697db81b672897e7136953a2eb072bee6) | [#129](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/129) |
 | ✅ | agentmarkup | `ai-search-optimization` | 20:28:09 | [`8c5b678`](https://github.com/cochinescu/agentmarkup-readiness-gap/tree/8c5b6789f2b2a9eb383c92ad4d820c7b51c6d416) | [#128](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/128) |
 | ✅ | Signal Forge | `ai-search-optimization` | 20:27:37 | [`d4918bd`](https://github.com/popusoidavid-constantin/search-visibility-gap/tree/d4918bdbc9416d72e2ca0dee52df681a2f88eba2) | [#127](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/127) |
@@ -34,7 +35,6 @@ Updated 20:29:25 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 | ✅ | Saucefox | `personalized-growth-engines` | 20:05:45 | [`ed9c565`](https://github.com/Masterpuff77/gtm-skillathon-2026/tree/ed9c5654ee71893a9991295699af6bbffd12567e) | [#80](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/80) |
 | ✅ | Trovito | `custom` | 20:01:16 | [`8a572df`](https://github.com/Trovito/gtm-hackathon/tree/8a572df0d043df2180de5e1799c4fb0f0a6d761b) | [#73](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/73) |
 | ✅ | turbo-larping | `ai-search-optimization` | 19:57:43 | [`560c139`](https://github.com/Beriu/gtm-skillathon/tree/560c13932fcbea2ab884dcd08eff4077c3a67dbb) | [#67](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/67) |
-| ✅ | Joe Bob's Hardware Supply | `custom` | 19:54:29 | [`354a127`](https://github.com/bcksl/roadmap-vulture/tree/354a12753742846292aab9a5ff0ae2054a66c1c9) | [#65](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/65) |
 | ✅ | Granded | `ai-search-optimization` | 19:44:11 | [`4dd4c0b`](https://github.com/andreilazu/GTM-skillathon/tree/4dd4c0bc540c5f6f7ecda14440217b7cee29c33a) | [#53](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/53) |
 | ✅ | Daniel Stanciulescu | `personalized-growth-engines` | 19:36:49 | [`1aad70c`](https://github.com/daniel-stanciulescu/gtm-skillathon/tree/1aad70c15f4debd8b11b7ee08208a245dda9404d) | [#49](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/49) |
 | ✅ | RefineForge | `custom` | 19:34:55 | [`890cdb4`](https://github.com/andrei14922/refineforge-skillathon/tree/890cdb4fc7b6ca675dd6b5b01c5cb924affceb77) | [#48](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/48) |

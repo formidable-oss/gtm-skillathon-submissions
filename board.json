@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:29:25.159Z",
+  "generated_at": "2026-08-28T17:29:46.516Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,40 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Joe Bob's Hardware Supply",
+      "members": [
+        "Karel"
+      ],
+      "track": "custom",
+      "repo": "bcksl/roadmap-vulture",
+      "repo_url": "https://github.com/bcksl/roadmap-vulture",
+      "sha": "e71b74b21dbef3b5c4489bb8e0787fe3c0d514d5",
+      "status": "accepted",
+      "issue": 135,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/135",
+      "submitted_at": "2026-08-28T17:29:26Z",
+      "attempts": 3,
+      "warnings": 0,
+      "slug": "bcksl-roadmap-vulture"
+    },
+    {
+      "team": "Product Detailed Page Audit for eCommerce Websites",
+      "members": [
+        "mmartinalexandru"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "mmartinalexandru/pdp-answer-audit",
+      "repo_url": "https://github.com/mmartinalexandru/pdp-answer-audit",
+      "sha": "2e026106ea761963bcb6cfc1435458e14f689beb",
+      "status": "accepted",
+      "issue": 134,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/134",
+      "submitted_at": "2026-08-28T17:29:26Z",
+      "attempts": 6,
+      "warnings": 0,
+      "slug": "mmartinalexandru-pdp-answer-audit"
+    },
     {
       "team": "OutThink GTM",
       "members": [
@@ -61,23 +95,6 @@
       "attempts": 8,
       "warnings": 0,
       "slug": "crusadev-painkiller"
-    },
-    {
-      "team": "Product Detailed Page Audit for eCommerce Websites",
-      "members": [
-        "mmartinalexandru"
-      ],
-      "track": "ai-search-optimization",
-      "repo": "mmartinalexandru/pdp-answer-audit",
-      "repo_url": "https://github.com/mmartinalexandru/pdp-answer-audit",
-      "sha": "5afb34024e540618a60e7a810361b7406f1277a2",
-      "status": "accepted",
-      "issue": 130,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/130",
-      "submitted_at": "2026-08-28T17:28:38Z",
-      "attempts": 5,
-      "warnings": 0,
-      "slug": "mmartinalexandru-pdp-answer-audit"
     },
     {
       "team": "ArminSHaf",
@@ -493,23 +510,6 @@
       "attempts": 1,
       "warnings": 0,
       "slug": "beriu-gtm-skillathon"
-    },
-    {
-      "team": "Joe Bob's Hardware Supply",
-      "members": [
-        "Karel"
-      ],
-      "track": "custom",
-      "repo": "bcksl/roadmap-vulture",
-      "repo_url": "https://github.com/bcksl/roadmap-vulture",
-      "sha": "354a12753742846292aab9a5ff0ae2054a66c1c9",
-      "status": "accepted",
-      "issue": 65,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/65",
-      "submitted_at": "2026-08-28T16:54:29Z",
-      "attempts": 2,
-      "warnings": 0,
-      "slug": "bcksl-roadmap-vulture"
     },
     {
       "team": "Granded",
