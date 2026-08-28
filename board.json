@@ -1,15 +1,32 @@
 {
-  "generated_at": "2026-08-28T17:07:43.294Z",
+  "generated_at": "2026-08-28T17:08:31.118Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
-    "accepted": 23,
+    "accepted": 24,
     "rejected": 2,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Adrian Ciubotaru",
+      "members": [
+        "Adrian Ciubotaru"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "AdrianCiubotaru/human-touch-copy-triage",
+      "repo_url": "https://github.com/AdrianCiubotaru/human-touch-copy-triage",
+      "sha": "3b0ac3f45f522eeb950fd0dd9ecf9b1c16934155",
+      "status": "accepted",
+      "issue": 82,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/82",
+      "submitted_at": "2026-08-28T17:08:11Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "adrianciubotaru-human-touch-copy-triage"
+    },
     {
       "team": "publi22",
       "members": [
