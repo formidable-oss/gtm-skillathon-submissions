@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:29:56.694Z",
+  "generated_at": "2026-08-28T16:30:50.132Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,23 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Low-Medium PLG",
+      "members": [
+        "Andrei Chiscaru"
+      ],
+      "track": "plg-automation",
+      "repo": "AndreiChiscaru/gtm-signup-friction-scorer",
+      "repo_url": "https://github.com/AndreiChiscaru/gtm-signup-friction-scorer",
+      "sha": "f4649b2f9828ca707a3588e57243155f0d5850a0",
+      "status": "accepted",
+      "issue": 40,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/40",
+      "submitted_at": "2026-08-28T16:30:32Z",
+      "attempts": 4,
+      "warnings": 0,
+      "slug": "andreichiscaru-gtm-signup-friction-score"
+    },
     {
       "team": "Sergiu",
       "members": [
@@ -184,23 +201,6 @@
       "attempts": 1,
       "warnings": 0,
       "slug": "teopaleface-gtm-os"
-    },
-    {
-      "team": "Low-Medium PLG",
-      "members": [
-        "Andrei Chiscaru"
-      ],
-      "track": "plg-automation",
-      "repo": "AndreiChiscaru/gtm-signup-friction-scorer",
-      "repo_url": "https://github.com/AndreiChiscaru/gtm-signup-friction-scorer",
-      "sha": "7e8b52623898378421123727e246a3b0e1404edc",
-      "status": "accepted",
-      "issue": 22,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/22",
-      "submitted_at": "2026-08-28T16:05:21Z",
-      "attempts": 3,
-      "warnings": 0,
-      "slug": "andreichiscaru-gtm-signup-friction-score"
     },
     {
       "team": "agentmarkup",
