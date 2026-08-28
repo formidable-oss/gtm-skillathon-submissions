@@ -1,16 +1,16 @@
 # Submissions board
 
-Updated 20:16:19 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 20:16:59 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
 **25 accepted** · 2 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
+| ✅ | Andrei Radulescu | `ai-search-optimization` | 20:16:35 | [`35961c7`](https://github.com/andiradulescu/gtm-skill-missing-answer/tree/35961c79290248e3b6da5eea7e032713fc926499) | [#97](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/97) |
 | ✅ | GTM Competitive Matrix | `custom` | 20:15:58 | [`f85654c`](https://github.com/RobertaDiana/gtm-churn-signal-hunter/tree/f85654c3c18cad8e534be8fdc5d0d9c44ab22e21) | [#96](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/96) |
 | ✅ | GTM agent graph with a bounded verification and repair loop | `multi-agent-orchestration` | 20:14:46 | [`7940a8d`](https://github.com/Matei-Oprea/gtm-graph/tree/7940a8d2867284403e8a9ec03e61f3c50cefe755) | [#95](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/95) |
 | ✅ | publi22 | `personalized-growth-engines` | 20:14:05 | [`89584c8`](https://github.com/mogaeduard/gtm-skillathon/tree/89584c81e4e0573351012ce0c687426a1662a8e4) | [#94](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/94) |
 | ✅ | Sergiu | `custom` | 20:13:35 | [`5579c43`](https://github.com/the-sergiu/human-touch-copy-triage/tree/5579c43593bf35d555a06b6aba2ba6970fbfaea0) | [#93](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/93) |
-| ✅ | Andrei Radulescu | `ai-search-optimization` | 20:12:45 | [`8dd132a`](https://github.com/andiradulescu/gtm-skill-missing-answer/tree/8dd132a89f982c1fcaa4fdddbc7ae5685c558d77) | [#92](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/92) |
 | ✅ | Tender Radar | `custom` | 20:12:06 | [`e0be4d4`](https://github.com/edwardnita/gtm-skill/tree/e0be4d4b2206007206d5359d6b35c0171130f86e) | [#91](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/91) |
 | ✅ | Peak AI | `synthetic-buyer-simulations` | 20:11:25 | [`8ff4e17`](https://github.com/DanStinga/peak-ai-buyer-proof-gap/tree/8ff4e17777f45329612c1bc69efcd0b5e4bfddbd) | [#90](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/90) |
 | ✅ | Signal Obscura | `personalized-growth-engines` | 20:09:43 | [`a3b608e`](https://github.com/TudorAndrei/gtm-skill/tree/a3b608ed36d2ceb85d9f41be3639dc1824bd69c7) | [#88](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/88) |

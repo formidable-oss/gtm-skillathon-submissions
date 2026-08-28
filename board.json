@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:16:19.907Z",
+  "generated_at": "2026-08-28T17:16:59.356Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,23 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Andrei Radulescu",
+      "members": [
+        "Andrei Radulescu"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "andiradulescu/gtm-skill-missing-answer",
+      "repo_url": "https://github.com/andiradulescu/gtm-skill-missing-answer",
+      "sha": "35961c79290248e3b6da5eea7e032713fc926499",
+      "status": "accepted",
+      "issue": 97,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/97",
+      "submitted_at": "2026-08-28T17:16:35Z",
+      "attempts": 4,
+      "warnings": 0,
+      "slug": "andiradulescu-gtm-skill-missing-answer"
+    },
     {
       "team": "GTM Competitive Matrix",
       "members": [
@@ -79,23 +96,6 @@
       "attempts": 5,
       "warnings": 0,
       "slug": "the-sergiu-human-touch-copy-triage"
-    },
-    {
-      "team": "Andrei Radulescu",
-      "members": [
-        "Andrei Radulescu"
-      ],
-      "track": "ai-search-optimization",
-      "repo": "andiradulescu/gtm-skill-missing-answer",
-      "repo_url": "https://github.com/andiradulescu/gtm-skill-missing-answer",
-      "sha": "8dd132a89f982c1fcaa4fdddbc7ae5685c558d77",
-      "status": "accepted",
-      "issue": 92,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/92",
-      "submitted_at": "2026-08-28T17:12:45Z",
-      "attempts": 3,
-      "warnings": 0,
-      "slug": "andiradulescu-gtm-skill-missing-answer"
     },
     {
       "team": "Tender Radar",
