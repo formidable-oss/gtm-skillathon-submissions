@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T15:48:51.636Z",
+  "generated_at": "2026-08-28T15:50:28.236Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,24 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "agentmarkup",
+      "members": [
+        "cochinescu",
+        "pax-k"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "cochinescu/agentmarkup-readiness-gap",
+      "repo_url": "https://github.com/cochinescu/agentmarkup-readiness-gap",
+      "sha": "a18dfae16f813cbe76f73adb511ae7e16a9e1e27",
+      "status": "accepted",
+      "issue": 12,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/12",
+      "submitted_at": "2026-08-28T15:50:11Z",
+      "attempts": 4,
+      "warnings": 0,
+      "slug": "cochinescu-agentmarkup-readiness-gap"
+    },
     {
       "team": "RefineForge",
       "members": [
@@ -44,24 +62,6 @@
       "attempts": 1,
       "warnings": 0,
       "slug": "edwardnita-gtm-skill"
-    },
-    {
-      "team": "agentmarkup",
-      "members": [
-        "cochinescu",
-        "pax-k"
-      ],
-      "track": "ai-search-optimization",
-      "repo": "cochinescu/agentmarkup-readiness-gap",
-      "repo_url": "https://github.com/cochinescu/agentmarkup-readiness-gap",
-      "sha": "63b9d9aadb35952376101a18cedb764fd2cb74ec",
-      "status": "accepted",
-      "issue": 9,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/9",
-      "submitted_at": "2026-08-28T15:43:07Z",
-      "attempts": 3,
-      "warnings": 0,
-      "slug": "cochinescu-agentmarkup-readiness-gap"
     },
     {
       "team": "Claudiu Busuioc",
