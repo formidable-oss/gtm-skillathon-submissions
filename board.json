@@ -1,15 +1,50 @@
 {
-  "generated_at": "2026-08-28T17:19:37.029Z",
+  "generated_at": "2026-08-28T17:19:47.871Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
-    "accepted": 27,
+    "accepted": 28,
     "rejected": 2,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "publi22",
+      "members": [
+        "mogaeduard",
+        "hackatonnnnn"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "mogaeduard/gtm-skillathon",
+      "repo_url": "https://github.com/mogaeduard/gtm-skillathon",
+      "sha": "0d981d0ecd7a0a676f6af0a18436e93fa74139b3",
+      "status": "accepted",
+      "issue": 106,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/106",
+      "submitted_at": "2026-08-28T17:19:29Z",
+      "attempts": 10,
+      "warnings": 0,
+      "slug": "mogaeduard-gtm-skillathon"
+    },
+    {
+      "team": "Buyer Question Coverage",
+      "members": [
+        "MZir0-0"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "MZir0-0/gtm-skillathon-2026",
+      "repo_url": "https://github.com/MZir0-0/gtm-skillathon-2026",
+      "sha": "357b4ef604c35ca8f845b3d9ac239088578bf881",
+      "status": "accepted",
+      "issue": 105,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/105",
+      "submitted_at": "2026-08-28T17:19:28Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "mzir0-0-gtm-skillathon-2026"
+    },
     {
       "team": "Brand Expansion AI",
       "members": [
@@ -130,24 +165,6 @@
       "attempts": 2,
       "warnings": 0,
       "slug": "matei-oprea-gtm-graph"
-    },
-    {
-      "team": "publi22",
-      "members": [
-        "mogaeduard",
-        "hackatonnnnn"
-      ],
-      "track": "personalized-growth-engines",
-      "repo": "mogaeduard/gtm-skillathon",
-      "repo_url": "https://github.com/mogaeduard/gtm-skillathon",
-      "sha": "89584c81e4e0573351012ce0c687426a1662a8e4",
-      "status": "accepted",
-      "issue": 94,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/94",
-      "submitted_at": "2026-08-28T17:14:05Z",
-      "attempts": 9,
-      "warnings": 0,
-      "slug": "mogaeduard-gtm-skillathon"
     },
     {
       "team": "Sergiu",
