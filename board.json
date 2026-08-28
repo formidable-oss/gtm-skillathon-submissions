@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:49:33.408Z",
+  "generated_at": "2026-08-28T16:51:11.731Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,24 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Tender Radar",
+      "members": [
+        "Eduard Nita",
+        "Radu Minea"
+      ],
+      "track": "custom",
+      "repo": "edwardnita/gtm-skill",
+      "repo_url": "https://github.com/edwardnita/gtm-skill",
+      "sha": "450e6ae681df403adfaa2c270fd4bac0a45e876f",
+      "status": "accepted",
+      "issue": 60,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/60",
+      "submitted_at": "2026-08-28T16:50:50Z",
+      "attempts": 6,
+      "warnings": 0,
+      "slug": "edwardnita-gtm-skill"
+    },
     {
       "team": "Saucefox",
       "members": [
@@ -218,24 +236,6 @@
       "attempts": 1,
       "warnings": 0,
       "slug": "bcksl-roadmap-vulture"
-    },
-    {
-      "team": "Tender Radar",
-      "members": [
-        "Eduard Nita",
-        "Radu Minea"
-      ],
-      "track": "custom",
-      "repo": "edwardnita/gtm-skill",
-      "repo_url": "https://github.com/edwardnita/gtm-skill",
-      "sha": "37717fd1076f98fa36ec8111dc79f77f771fbbf2",
-      "status": "accepted",
-      "issue": 44,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/44",
-      "submitted_at": "2026-08-28T16:32:38Z",
-      "attempts": 5,
-      "warnings": 0,
-      "slug": "edwardnita-gtm-skill"
     },
     {
       "team": "publi22",
