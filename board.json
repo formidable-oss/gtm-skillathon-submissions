@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:31:48.740Z",
+  "generated_at": "2026-08-28T16:32:55.416Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,42 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Tender Radar",
+      "members": [
+        "Eduard Nita",
+        "Radu Minea"
+      ],
+      "track": "custom",
+      "repo": "edwardnita/gtm-skill",
+      "repo_url": "https://github.com/edwardnita/gtm-skill",
+      "sha": "37717fd1076f98fa36ec8111dc79f77f771fbbf2",
+      "status": "accepted",
+      "issue": 44,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/44",
+      "submitted_at": "2026-08-28T16:32:38Z",
+      "attempts": 5,
+      "warnings": 0,
+      "slug": "edwardnita-gtm-skill"
+    },
+    {
+      "team": "publi22",
+      "members": [
+        "mogaeduard",
+        "hackatonnnnn"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "mogaeduard/gtm-skillathon",
+      "repo_url": "https://github.com/mogaeduard/gtm-skillathon",
+      "sha": "5b1fe6690c53836a231dc8d7a5b10c623bba723f",
+      "status": "accepted",
+      "issue": 43,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/43",
+      "submitted_at": "2026-08-28T16:32:38Z",
+      "attempts": 2,
+      "warnings": 0,
+      "slug": "mogaeduard-gtm-skillathon"
+    },
     {
       "team": "Low-Medium PLG",
       "members": [
@@ -100,24 +136,6 @@
       "slug": "robertadiana-gtm-churn-signal-hunter"
     },
     {
-      "team": "publi22",
-      "members": [
-        "mogaeduard",
-        "hackatonnnnn"
-      ],
-      "track": "personalized-growth-engines",
-      "repo": "mogaeduard/gtm-skillathon",
-      "repo_url": "https://github.com/mogaeduard/gtm-skillathon",
-      "sha": "49c0b8badccdcb399aa37e85db1d2c7407cc8b8d",
-      "status": "accepted",
-      "issue": 34,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/34",
-      "submitted_at": "2026-08-28T16:22:51Z",
-      "attempts": 1,
-      "warnings": 0,
-      "slug": "mogaeduard-gtm-skillathon"
-    },
-    {
       "team": "Daniel Stanciulescu",
       "members": [
         "Daniel Stanciulescu"
@@ -185,24 +203,6 @@
       "attempts": 2,
       "warnings": 0,
       "slug": "andrei14922-refineforge-skillathon"
-    },
-    {
-      "team": "Brand Expansion AI",
-      "members": [
-        "Radu",
-        "Edward Nita"
-      ],
-      "track": "personalized-growth-engines",
-      "repo": "edwardnita/gtm-skill",
-      "repo_url": "https://github.com/edwardnita/gtm-skill",
-      "sha": "5452e5a509bbbb0e651499898349c8c517f93caa",
-      "status": "accepted",
-      "issue": 27,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/27",
-      "submitted_at": "2026-08-28T16:14:35Z",
-      "attempts": 4,
-      "warnings": 0,
-      "slug": "edwardnita-gtm-skill"
     },
     {
       "team": "GTM OS",
