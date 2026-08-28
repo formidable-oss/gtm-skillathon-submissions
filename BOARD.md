@@ -1,11 +1,12 @@
 # Submissions board
 
-Updated 19:51:11 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 19:51:23 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
-**18 accepted** · 2 need a fix · 0 dry runs · 0 late
+**19 accepted** · 2 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
+| ✅ | Signal Obscura | `personalized-growth-engines` | 19:51:01 | [`7327661`](https://github.com/TudorAndrei/gtm-skill/tree/732766159883e09146b3dacd62831b6a26e1600f) | [#61](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/61) |
 | ✅ | Tender Radar | `custom` | 19:50:50 | [`450e6ae`](https://github.com/edwardnita/gtm-skill/tree/450e6ae681df403adfaa2c270fd4bac0a45e876f) | [#60](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/60) |
 | ✅ | Saucefox | `personalized-growth-engines` | 19:49:11 | [`51fc1dc`](https://github.com/Masterpuff77/gtm-skillathon-2026/tree/51fc1dc1a8456cb51b95bf8eb04c872d64ff2585) | [#59](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/59) |
 | ✅ | GTM Competitive Matrix | `custom` | 19:48:49 | [`7959eae`](https://github.com/RobertaDiana/gtm-churn-signal-hunter/tree/7959eae877ec819958d15e282b52575e85380a7d) | [#58](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/58) |
