@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:20:31.324Z",
+  "generated_at": "2026-08-28T17:20:38.189Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,41 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "3DAPI",
+      "members": [
+        "Iacob Andrei Radu",
+        "Vasilescu Alexander Iulius"
+      ],
+      "track": "custom",
+      "repo": "crusadev/painkiller",
+      "repo_url": "https://github.com/crusadev/painkiller",
+      "sha": "f554586eae7447ccac3c893e957d18eca9a783dd",
+      "status": "accepted",
+      "issue": 110,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/110",
+      "submitted_at": "2026-08-28T17:20:23Z",
+      "attempts": 7,
+      "warnings": 0,
+      "slug": "crusadev-painkiller"
+    },
+    {
+      "team": "Bucurenciu Cristian",
+      "members": [
+        "Bucurenciu Cristian"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "Bucurenciu-Cristian/gtm-skillathon-2026",
+      "repo_url": "https://github.com/Bucurenciu-Cristian/gtm-skillathon-2026",
+      "sha": "b233b5a3580ca73992ff24167125565b88bb2c99",
+      "status": "accepted",
+      "issue": 109,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/109",
+      "submitted_at": "2026-08-28T17:20:22Z",
+      "attempts": 3,
+      "warnings": 0,
+      "slug": "bucurenciu-cristian-gtm-skillathon-2026"
+    },
     {
       "team": "Signal Forge",
       "members": [
@@ -148,24 +183,6 @@
       "attempts": 13,
       "warnings": 0,
       "slug": "robertadiana-gtm-churn-signal-hunter"
-    },
-    {
-      "team": "3DAPI",
-      "members": [
-        "Iacob Andrei Radu",
-        "Vasilescu Alexander Iulius"
-      ],
-      "track": "custom",
-      "repo": "crusadev/painkiller",
-      "repo_url": "https://github.com/crusadev/painkiller",
-      "sha": "ac59baf79fb07e600f2bcae62cc691260a2c9376",
-      "status": "accepted",
-      "issue": 99,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/99",
-      "submitted_at": "2026-08-28T17:17:03Z",
-      "attempts": 6,
-      "warnings": 0,
-      "slug": "crusadev-painkiller"
     },
     {
       "team": "Andrei Radulescu",
@@ -372,23 +389,6 @@
       "attempts": 2,
       "warnings": 0,
       "slug": "bcksl-roadmap-vulture"
-    },
-    {
-      "team": "Bucurenciu Cristian",
-      "members": [
-        "Bucurenciu Cristian"
-      ],
-      "track": "ai-search-optimization",
-      "repo": "Bucurenciu-Cristian/gtm-skillathon-2026",
-      "repo_url": "https://github.com/Bucurenciu-Cristian/gtm-skillathon-2026",
-      "sha": "649528e9f875280bab37e287ed8bda3578593634",
-      "status": "accepted",
-      "issue": 56,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/56",
-      "submitted_at": "2026-08-28T16:47:03Z",
-      "attempts": 2,
-      "warnings": 0,
-      "slug": "bucurenciu-cristian-gtm-skillathon-2026"
     },
     {
       "team": "Granded",
