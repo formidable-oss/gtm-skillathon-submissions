@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:35:21.365Z",
+  "generated_at": "2026-08-28T17:36:11.915Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:40:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,24 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "agentmarkup",
+      "members": [
+        "cochinescu",
+        "pax-k"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "cochinescu/agentmarkup-readiness-gap",
+      "repo_url": "https://github.com/cochinescu/agentmarkup-readiness-gap",
+      "sha": "34fd89f39cb075d525ede2756aeeac0008e067a0",
+      "status": "accepted",
+      "issue": 138,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/138",
+      "submitted_at": "2026-08-28T17:35:49Z",
+      "attempts": 11,
+      "warnings": 0,
+      "slug": "cochinescu-agentmarkup-readiness-gap"
+    },
     {
       "team": "Skill Find a Client",
       "members": [
@@ -147,24 +165,6 @@
       "attempts": 3,
       "warnings": 0,
       "slug": "arminshaf-gtm-skillathon-account-researc"
-    },
-    {
-      "team": "agentmarkup",
-      "members": [
-        "cochinescu",
-        "pax-k"
-      ],
-      "track": "ai-search-optimization",
-      "repo": "cochinescu/agentmarkup-readiness-gap",
-      "repo_url": "https://github.com/cochinescu/agentmarkup-readiness-gap",
-      "sha": "8c5b6789f2b2a9eb383c92ad4d820c7b51c6d416",
-      "status": "accepted",
-      "issue": 128,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/128",
-      "submitted_at": "2026-08-28T17:28:09Z",
-      "attempts": 10,
-      "warnings": 0,
-      "slug": "cochinescu-agentmarkup-readiness-gap"
     },
     {
       "team": "Signal Forge",

@@ -1,11 +1,12 @@
 # Submissions board
 
-Updated 20:35:21 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 20:36:11 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
 **34 accepted** · 2 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
+| ✅ | agentmarkup | `ai-search-optimization` | 20:35:49 | [`34fd89f`](https://github.com/cochinescu/agentmarkup-readiness-gap/tree/34fd89f39cb075d525ede2756aeeac0008e067a0) | [#138](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/138) |
 | ✅ | Skill Find a Client | `personalized-growth-engines` | 20:29:56 | [`4b3edd0`](https://github.com/AlinDev/skill-find-a-client/tree/4b3edd0b21966c004d521ec1435979b6adcce5ec) | [#137](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/137) |
 | ✅ | publi22 | `personalized-growth-engines` | 20:29:37 | [`10bfa16`](https://github.com/mogaeduard/gtm-skillathon/tree/10bfa16695996c21c314e3cdce6ceb68d5bfa89d) | [#136](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/136) |
 | ✅ | Joe Bob's Hardware Supply | `custom` | 20:29:26 | [`e71b74b`](https://github.com/bcksl/roadmap-vulture/tree/e71b74b21dbef3b5c4489bb8e0787fe3c0d514d5) | [#135](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/135) |
@@ -14,7 +15,6 @@ Updated 20:35:21 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 | ✅ | Missing Answer | `ai-search-optimization` | 20:28:54 | [`f4b4028`](https://github.com/andiradulescu/gtm-skill-missing-answer/tree/f4b402877b9ba9614b358ec64a7ccc763d59a541) | [#132](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/132) |
 | ✅ | 3DAPI | `custom` | 20:28:41 | [`2556c85`](https://github.com/crusadev/painkiller/tree/2556c85d47deb6c42c4ee0599f9bd49f8c868967) | [#131](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/131) |
 | ✅ | ArminSHaf | `custom` | 20:28:35 | [`fa430fc`](https://github.com/ArminSHaf/gtm-skillathon-account-research/tree/fa430fc697db81b672897e7136953a2eb072bee6) | [#129](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/129) |
-| ✅ | agentmarkup | `ai-search-optimization` | 20:28:09 | [`8c5b678`](https://github.com/cochinescu/agentmarkup-readiness-gap/tree/8c5b6789f2b2a9eb383c92ad4d820c7b51c6d416) | [#128](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/128) |
 | ✅ | Signal Forge | `ai-search-optimization` | 20:27:37 | [`d4918bd`](https://github.com/popusoidavid-constantin/search-visibility-gap/tree/d4918bdbc9416d72e2ca0dee52df681a2f88eba2) | [#127](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/127) |
 | ✅ | Ghidob | `personalized-growth-engines` | 20:26:49 | [`976be33`](https://github.com/dobreeandrei/ghidob_growthEngine/tree/976be33e151d1489d5410cfda9194b51b5e5c341) | [#126](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/126) |
 | ✅ | GTM OS | `ai-search-optimization` | 20:25:47 | [`15c8ec7`](https://github.com/teopaleface/gtm-os/tree/15c8ec7b078d47a611a51c58fc374239c9bce430) | [#121](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/121) |
