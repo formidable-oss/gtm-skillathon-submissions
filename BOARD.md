@@ -1,11 +1,12 @@
 # Submissions board
 
-Updated 19:19:26 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 19:21:13 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
-**10 accepted** · 0 need a fix · 0 dry runs · 0 late
+**10 accepted** · 1 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
+| ❌ | Granded | `ai-search-optimization` | 19:21:01 | — | [#31](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/31) |
 | ✅ | Daniel Stanciulescu | `personalized-growth-engines` | 19:19:05 | [`c997fcf`](https://github.com/daniel-stanciulescu/gtm-skillathon/tree/c997fcfb93359092e69da0f58100cfa2f6904287) | [#30](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/30) |
 | ✅ | GTM Competitive Matrix | `custom` | 19:15:29 | [`a038402`](https://github.com/RobertaDiana/gtm-churn-signal-hunter/tree/a038402535b51ab92fb06ed6292e8a8afd486d60) | [#29](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/29) |
 | ✅ | RefineForge | `custom` | 19:15:11 | [`e1f80a5`](https://github.com/andrei14922/refineforge-skillathon/tree/e1f80a5e48083feed667aa03f843987f88f401ad) | [#28](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/28) |

@@ -1,15 +1,33 @@
 {
-  "generated_at": "2026-08-28T16:19:26.581Z",
+  "generated_at": "2026-08-28T16:21:13.318Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
     "accepted": 10,
-    "rejected": 0,
+    "rejected": 1,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Granded",
+      "members": [
+        "Andrei Chirata",
+        "Andrei Lazureanu"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "https://github.com/chirataandrei/Geo-Citation-Engineer/tree/andrei",
+      "repo_url": "https://github.com/chirataandrei/Geo-Citation-Engineer/tree/andrei",
+      "sha": null,
+      "status": "rejected",
+      "issue": 31,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/31",
+      "submitted_at": "2026-08-28T16:21:01Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "granded"
+    },
     {
       "team": "Daniel Stanciulescu",
       "members": [
