@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:15:47.259Z",
+  "generated_at": "2026-08-28T16:19:26.581Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,23 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Daniel Stanciulescu",
+      "members": [
+        "Daniel Stanciulescu"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "daniel-stanciulescu/gtm-skillathon",
+      "repo_url": "https://github.com/daniel-stanciulescu/gtm-skillathon",
+      "sha": "c997fcfb93359092e69da0f58100cfa2f6904287",
+      "status": "accepted",
+      "issue": 30,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/30",
+      "submitted_at": "2026-08-28T16:19:05Z",
+      "attempts": 2,
+      "warnings": 0,
+      "slug": "daniel-stanciulescu-gtm-skillathon"
+    },
     {
       "team": "GTM Competitive Matrix",
       "members": [
@@ -131,23 +148,6 @@
       "attempts": 1,
       "warnings": 0,
       "slug": "masterpuff77-gtm-skillathon-2026"
-    },
-    {
-      "team": "Daniel Stanciulescu",
-      "members": [
-        "Daniel Stanciulescu"
-      ],
-      "track": "personalized-growth-engines",
-      "repo": "daniel-stanciulescu/gtm-skillathon",
-      "repo_url": "https://github.com/daniel-stanciulescu/gtm-skillathon",
-      "sha": "dc2b76db3d551feb94bf0d80e07f28c48548c6a0",
-      "status": "accepted",
-      "issue": 15,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/15",
-      "submitted_at": "2026-08-28T15:55:35Z",
-      "attempts": 1,
-      "warnings": 0,
-      "slug": "daniel-stanciulescu-gtm-skillathon"
     },
     {
       "team": "Bucurenciu Cristian",
