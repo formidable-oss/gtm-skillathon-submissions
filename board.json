@@ -1,15 +1,32 @@
 {
-  "generated_at": "2026-08-28T17:17:24.339Z",
+  "generated_at": "2026-08-28T17:18:35.062Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
-    "accepted": 25,
+    "accepted": 26,
     "rejected": 2,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "ArminSHaf",
+      "members": [
+        "ArminSHaf"
+      ],
+      "track": "custom",
+      "repo": "ArminSHaf/gtm-skillathon-account-research",
+      "repo_url": "https://github.com/ArminSHaf/gtm-skillathon-account-research",
+      "sha": "795f419c2c88fe7e1ec3f6a8232de1b72a632a51",
+      "status": "accepted",
+      "issue": 101,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/101",
+      "submitted_at": "2026-08-28T17:18:20Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "arminshaf-gtm-skillathon-account-researc"
+    },
     {
       "team": "3DAPI",
       "members": [
