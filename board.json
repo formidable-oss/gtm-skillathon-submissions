@@ -1,15 +1,32 @@
 {
-  "generated_at": "2026-08-28T15:50:28.236Z",
+  "generated_at": "2026-08-28T15:51:29.999Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
-    "accepted": 5,
+    "accepted": 6,
     "rejected": 0,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "GTM Signal Hunter",
+      "members": [
+        "Project team"
+      ],
+      "track": "custom",
+      "repo": "RobertaDiana/gtm-churn-signal-hunter",
+      "repo_url": "https://github.com/RobertaDiana/gtm-churn-signal-hunter",
+      "sha": "928b7cd371e1916db6806cb3dcba6e7a2c9acbd6",
+      "status": "accepted",
+      "issue": 13,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/13",
+      "submitted_at": "2026-08-28T15:51:11Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "robertadiana-gtm-churn-signal-hunter"
+    },
     {
       "team": "agentmarkup",
       "members": [
