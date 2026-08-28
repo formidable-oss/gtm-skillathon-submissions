@@ -1,15 +1,32 @@
 {
-  "generated_at": "2026-08-28T16:24:21.272Z",
+  "generated_at": "2026-08-28T16:25:42.078Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
-    "accepted": 11,
+    "accepted": 12,
     "rejected": 1,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Sergiu",
+      "members": [
+        "Sergiu Craioveanu"
+      ],
+      "track": "custom",
+      "repo": "the-sergiu/human-touch-copy-triage",
+      "repo_url": "https://github.com/the-sergiu/human-touch-copy-triage",
+      "sha": "8ab44dace41e238330c7cf00522ac7c9adf3e117",
+      "status": "accepted",
+      "issue": 36,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/36",
+      "submitted_at": "2026-08-28T16:25:25Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "the-sergiu-human-touch-copy-triage"
+    },
     {
       "team": "GTM Competitive Matrix",
       "members": [

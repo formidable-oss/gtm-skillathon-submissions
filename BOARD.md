@@ -1,11 +1,12 @@
 # Submissions board
 
-Updated 19:24:21 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 19:25:42 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
-**11 accepted** · 1 need a fix · 0 dry runs · 0 late
+**12 accepted** · 1 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
+| ✅ | Sergiu | `custom` | 19:25:25 | [`8ab44da`](https://github.com/the-sergiu/human-touch-copy-triage/tree/8ab44dace41e238330c7cf00522ac7c9adf3e117) | [#36](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/36) |
 | ✅ | GTM Competitive Matrix | `custom` | 19:24:00 | [`8de3fa8`](https://github.com/RobertaDiana/gtm-churn-signal-hunter/tree/8de3fa8ae502700f1935c95a4785349abc0d38b0) | [#35](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/35) |
 | ✅ | publi22 | `personalized-growth-engines` | 19:22:51 | [`49c0b8b`](https://github.com/mogaeduard/gtm-skillathon/tree/49c0b8badccdcb399aa37e85db1d2c7407cc8b8d) | [#34](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/34) |
 | ✅ | Daniel Stanciulescu | `personalized-growth-engines` | 19:22:51 | [`a2a1eb1`](https://github.com/daniel-stanciulescu/gtm-skillathon/tree/a2a1eb18bd7e603133e2f2e6e51edcb22a7dfa28) | [#33](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/33) |
