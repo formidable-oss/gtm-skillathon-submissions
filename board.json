@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:29:57.196Z",
+  "generated_at": "2026-08-28T17:30:16.798Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,23 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Skill Find a Client",
+      "members": [
+        "AlinDev"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "AlinDev/skill-find-a-client",
+      "repo_url": "https://github.com/AlinDev/skill-find-a-client",
+      "sha": "4b3edd0b21966c004d521ec1435979b6adcce5ec",
+      "status": "accepted",
+      "issue": 137,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/137",
+      "submitted_at": "2026-08-28T17:29:56Z",
+      "attempts": 2,
+      "warnings": 0,
+      "slug": "alindev-skill-find-a-client"
+    },
     {
       "team": "publi22",
       "members": [
@@ -235,23 +252,6 @@
       "attempts": 5,
       "warnings": 0,
       "slug": "busuyoc-outreach-personalizer"
-    },
-    {
-      "team": "Skill Find a Client",
-      "members": [
-        "AlinDev"
-      ],
-      "track": "personalized-growth-engines",
-      "repo": "AlinDev/skill-find-a-client",
-      "repo_url": "https://github.com/AlinDev/skill-find-a-client",
-      "sha": "c077aca527bb44a705a267b7d2c674964e37a7a6",
-      "status": "accepted",
-      "issue": 118,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/118",
-      "submitted_at": "2026-08-28T17:23:41Z",
-      "attempts": 1,
-      "warnings": 0,
-      "slug": "alindev-skill-find-a-client"
     },
     {
       "team": "GTM Competitive Matrix",
