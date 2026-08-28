@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:08:31.118Z",
+  "generated_at": "2026-08-28T17:09:38.542Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,24 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "GTM Competitive Matrix",
+      "members": [
+        "Micu Roberta",
+        "Despina Mihaela"
+      ],
+      "track": "custom",
+      "repo": "RobertaDiana/gtm-churn-signal-hunter",
+      "repo_url": "https://github.com/RobertaDiana/gtm-churn-signal-hunter",
+      "sha": "de37f8fd8ce4f2c5cd896b9fd8cd4a8cc8087acd",
+      "status": "accepted",
+      "issue": 83,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/83",
+      "submitted_at": "2026-08-28T17:09:11Z",
+      "attempts": 11,
+      "warnings": 0,
+      "slug": "robertadiana-gtm-churn-signal-hunter"
+    },
     {
       "team": "Adrian Ciubotaru",
       "members": [
@@ -96,24 +114,6 @@
       "attempts": 5,
       "warnings": 0,
       "slug": "crusadev-painkiller"
-    },
-    {
-      "team": "GTM Competitive Matrix",
-      "members": [
-        "Micu Roberta",
-        "Despina Mihaela"
-      ],
-      "track": "custom",
-      "repo": "RobertaDiana/gtm-churn-signal-hunter",
-      "repo_url": "https://github.com/RobertaDiana/gtm-churn-signal-hunter",
-      "sha": "8dadf9748c4fdd21ab9e3ac4c358755b82bbb395",
-      "status": "accepted",
-      "issue": 77,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/77",
-      "submitted_at": "2026-08-28T17:03:56Z",
-      "attempts": 10,
-      "warnings": 0,
-      "slug": "robertadiana-gtm-churn-signal-hunter"
     },
     {
       "team": "Andrei Radulescu",
