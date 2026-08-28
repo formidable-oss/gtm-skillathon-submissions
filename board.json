@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:21:45.728Z",
+  "generated_at": "2026-08-28T17:21:54.202Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,24 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "agentmarkup",
+      "members": [
+        "cochinescu",
+        "pax-k"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "cochinescu/agentmarkup-readiness-gap",
+      "repo_url": "https://github.com/cochinescu/agentmarkup-readiness-gap",
+      "sha": "825ae1582e8016bd7939ec1fd1439ea042087550",
+      "status": "accepted",
+      "issue": 112,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/112",
+      "submitted_at": "2026-08-28T17:21:33Z",
+      "attempts": 8,
+      "warnings": 0,
+      "slug": "cochinescu-agentmarkup-readiness-gap"
+    },
     {
       "team": "american dream",
       "members": [
@@ -355,24 +373,6 @@
       "attempts": 1,
       "warnings": 0,
       "slug": "trovito-gtm-hackathon"
-    },
-    {
-      "team": "agentmarkup",
-      "members": [
-        "cochinescu",
-        "pax-k"
-      ],
-      "track": "ai-search-optimization",
-      "repo": "cochinescu/agentmarkup-readiness-gap",
-      "repo_url": "https://github.com/cochinescu/agentmarkup-readiness-gap",
-      "sha": "5e95904bcbf3f909f35a724a458e9206e94d7588",
-      "status": "accepted",
-      "issue": 71,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/71",
-      "submitted_at": "2026-08-28T16:59:57Z",
-      "attempts": 7,
-      "warnings": 0,
-      "slug": "cochinescu-agentmarkup-readiness-gap"
     },
     {
       "team": "turbo-larping",
