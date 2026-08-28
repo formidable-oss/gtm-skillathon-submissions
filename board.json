@@ -1,15 +1,33 @@
 {
-  "generated_at": "2026-08-28T16:47:27.096Z",
+  "generated_at": "2026-08-28T16:48:11.329Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
-    "accepted": 17,
+    "accepted": 18,
     "rejected": 2,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Signal Forge",
+      "members": [
+        "David",
+        "Lidia"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "popusoidavid-constantin/search-visibility-gap",
+      "repo_url": "https://github.com/popusoidavid-constantin/search-visibility-gap",
+      "sha": "140d1add0b481d2d5d1d4d17e64c7351aaa2231b",
+      "status": "accepted",
+      "issue": 57,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/57",
+      "submitted_at": "2026-08-28T16:47:53Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "popusoidavid-constantin-search-visibilit"
+    },
     {
       "team": "Bucurenciu Cristian",
       "members": [
