@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:21:54.202Z",
+  "generated_at": "2026-08-28T17:22:16.514Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,23 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "ArminSHaf",
+      "members": [
+        "ArminSHaf"
+      ],
+      "track": "custom",
+      "repo": "ArminSHaf/gtm-skillathon-account-research",
+      "repo_url": "https://github.com/ArminSHaf/gtm-skillathon-account-research",
+      "sha": "795f419c2c88fe7e1ec3f6a8232de1b72a632a51",
+      "status": "accepted",
+      "issue": 113,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/113",
+      "submitted_at": "2026-08-28T17:21:59Z",
+      "attempts": 2,
+      "warnings": 0,
+      "slug": "arminshaf-gtm-skillathon-account-researc"
+    },
     {
       "team": "agentmarkup",
       "members": [
@@ -184,23 +201,6 @@
       "attempts": 3,
       "warnings": 0,
       "slug": "mmartinalexandru-pdp-answer-audit"
-    },
-    {
-      "team": "ArminSHaf",
-      "members": [
-        "ArminSHaf"
-      ],
-      "track": "custom",
-      "repo": "ArminSHaf/gtm-skillathon-account-research",
-      "repo_url": "https://github.com/ArminSHaf/gtm-skillathon-account-research",
-      "sha": "795f419c2c88fe7e1ec3f6a8232de1b72a632a51",
-      "status": "accepted",
-      "issue": 101,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/101",
-      "submitted_at": "2026-08-28T17:18:20Z",
-      "attempts": 1,
-      "warnings": 0,
-      "slug": "arminshaf-gtm-skillathon-account-researc"
     },
     {
       "team": "GTM Competitive Matrix",

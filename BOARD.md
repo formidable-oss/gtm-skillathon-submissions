@@ -1,11 +1,12 @@
 # Submissions board
 
-Updated 20:21:54 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 20:22:16 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
 **29 accepted** · 2 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
+| ✅ | ArminSHaf | `custom` | 20:21:59 | [`795f419`](https://github.com/ArminSHaf/gtm-skillathon-account-research/tree/795f419c2c88fe7e1ec3f6a8232de1b72a632a51) | [#113](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/113) |
 | ✅ | agentmarkup | `ai-search-optimization` | 20:21:33 | [`825ae15`](https://github.com/cochinescu/agentmarkup-readiness-gap/tree/825ae1582e8016bd7939ec1fd1439ea042087550) | [#112](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/112) |
 | ✅ | american dream | `custom` | 20:21:30 | [`b911f74`](https://github.com/zamqq/americandream-team/tree/b911f74a7f317a34d3e87469e6af6ec9c115571f) | [#111](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/111) |
 | ✅ | 3DAPI | `custom` | 20:20:23 | [`f554586`](https://github.com/crusadev/painkiller/tree/f554586eae7447ccac3c893e957d18eca9a783dd) | [#110](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/110) |
@@ -16,7 +17,6 @@ Updated 20:21:54 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 | ✅ | Buyer Question Coverage | `ai-search-optimization` | 20:19:28 | [`357b4ef`](https://github.com/MZir0-0/gtm-skillathon-2026/tree/357b4ef604c35ca8f845b3d9ac239088578bf881) | [#105](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/105) |
 | ✅ | Brand Expansion AI | `personalized-growth-engines` | 20:19:24 | [`a38cf1a`](https://github.com/raduqq/ecomm-geo-expansion-judge/tree/a38cf1af1a04c759a2bc20f2e0f686f13d6a710b) | [#104](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/104) |
 | ✅ | Product Detailed Page Audit for eCommerce Websites | `ai-search-optimization` | 20:18:44 | [`eab82da`](https://github.com/mmartinalexandru/pdp-answer-audit/tree/eab82daa021eedb43ac0ade9e41d07120018a845) | [#102](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/102) |
-| ✅ | ArminSHaf | `custom` | 20:18:20 | [`795f419`](https://github.com/ArminSHaf/gtm-skillathon-account-research/tree/795f419c2c88fe7e1ec3f6a8232de1b72a632a51) | [#101](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/101) |
 | ✅ | GTM Competitive Matrix | `custom` | 20:18:20 | [`6a24a9f`](https://github.com/RobertaDiana/gtm-churn-signal-hunter/tree/6a24a9f66fb19fb1cdd9d981cd1d62a9c5f27408) | [#100](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/100) |
 | ✅ | Andrei Radulescu | `ai-search-optimization` | 20:16:35 | [`35961c7`](https://github.com/andiradulescu/gtm-skill-missing-answer/tree/35961c79290248e3b6da5eea7e032713fc926499) | [#97](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/97) |
 | ✅ | GTM agent graph with a bounded verification and repair loop | `multi-agent-orchestration` | 20:14:46 | [`7940a8d`](https://github.com/Matei-Oprea/gtm-graph/tree/7940a8d2867284403e8a9ec03e61f3c50cefe755) | [#95](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/95) |
