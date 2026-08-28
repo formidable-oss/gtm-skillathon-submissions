@@ -1,13 +1,638 @@
 {
-  "generated_at": "2026-08-28T17:33:42.834Z",
+  "generated_at": "2026-08-28T17:35:21.365Z",
   "open_at": "2026-08-28T15:00:00Z",
-  "close_at": "2026-08-28T17:31:00Z",
+  "close_at": "2026-08-28T17:40:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
-    "accepted": 0,
-    "rejected": 0,
+    "accepted": 34,
+    "rejected": 2,
     "dry-run": 0,
     "late": 0
   },
-  "submissions": []
+  "submissions": [
+    {
+      "team": "Skill Find a Client",
+      "members": [
+        "AlinDev"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "AlinDev/skill-find-a-client",
+      "repo_url": "https://github.com/AlinDev/skill-find-a-client",
+      "sha": "4b3edd0b21966c004d521ec1435979b6adcce5ec",
+      "status": "accepted",
+      "issue": 137,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/137",
+      "submitted_at": "2026-08-28T17:29:56Z",
+      "attempts": 2,
+      "warnings": 0,
+      "slug": "alindev-skill-find-a-client"
+    },
+    {
+      "team": "publi22",
+      "members": [
+        "mogaeduard",
+        "hackatonnnnn"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "mogaeduard/gtm-skillathon",
+      "repo_url": "https://github.com/mogaeduard/gtm-skillathon",
+      "sha": "10bfa16695996c21c314e3cdce6ceb68d5bfa89d",
+      "status": "accepted",
+      "issue": 136,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/136",
+      "submitted_at": "2026-08-28T17:29:37Z",
+      "attempts": 11,
+      "warnings": 0,
+      "slug": "mogaeduard-gtm-skillathon"
+    },
+    {
+      "team": "Joe Bob's Hardware Supply",
+      "members": [
+        "Karel"
+      ],
+      "track": "custom",
+      "repo": "bcksl/roadmap-vulture",
+      "repo_url": "https://github.com/bcksl/roadmap-vulture",
+      "sha": "e71b74b21dbef3b5c4489bb8e0787fe3c0d514d5",
+      "status": "accepted",
+      "issue": 135,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/135",
+      "submitted_at": "2026-08-28T17:29:26Z",
+      "attempts": 3,
+      "warnings": 0,
+      "slug": "bcksl-roadmap-vulture"
+    },
+    {
+      "team": "Product Detailed Page Audit for eCommerce Websites",
+      "members": [
+        "mmartinalexandru"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "mmartinalexandru/pdp-answer-audit",
+      "repo_url": "https://github.com/mmartinalexandru/pdp-answer-audit",
+      "sha": "2e026106ea761963bcb6cfc1435458e14f689beb",
+      "status": "accepted",
+      "issue": 134,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/134",
+      "submitted_at": "2026-08-28T17:29:26Z",
+      "attempts": 6,
+      "warnings": 0,
+      "slug": "mmartinalexandru-pdp-answer-audit"
+    },
+    {
+      "team": "OutThink GTM",
+      "members": [
+        "ovidiupopeti"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "ovidiupopeti/GTM-skill",
+      "repo_url": "https://github.com/ovidiupopeti/GTM-skill",
+      "sha": "094600d44736e80b13902e54dcc968f5260fb5fe",
+      "status": "accepted",
+      "issue": 133,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/133",
+      "submitted_at": "2026-08-28T17:29:08Z",
+      "attempts": 3,
+      "warnings": 0,
+      "slug": "ovidiupopeti-gtm-skill"
+    },
+    {
+      "team": "Missing Answer",
+      "members": [
+        "Andrei Radulescu"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "andiradulescu/gtm-skill-missing-answer",
+      "repo_url": "https://github.com/andiradulescu/gtm-skill-missing-answer",
+      "sha": "f4b402877b9ba9614b358ec64a7ccc763d59a541",
+      "status": "accepted",
+      "issue": 132,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/132",
+      "submitted_at": "2026-08-28T17:28:54Z",
+      "attempts": 7,
+      "warnings": 0,
+      "slug": "andiradulescu-gtm-skill-missing-answer"
+    },
+    {
+      "team": "3DAPI",
+      "members": [
+        "Iacob Andrei Radu",
+        "Vasilescu Alexander Iulius"
+      ],
+      "track": "custom",
+      "repo": "crusadev/painkiller",
+      "repo_url": "https://github.com/crusadev/painkiller",
+      "sha": "2556c85d47deb6c42c4ee0599f9bd49f8c868967",
+      "status": "accepted",
+      "issue": 131,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/131",
+      "submitted_at": "2026-08-28T17:28:41Z",
+      "attempts": 8,
+      "warnings": 0,
+      "slug": "crusadev-painkiller"
+    },
+    {
+      "team": "ArminSHaf",
+      "members": [
+        "ArminSHaf"
+      ],
+      "track": "custom",
+      "repo": "ArminSHaf/gtm-skillathon-account-research",
+      "repo_url": "https://github.com/ArminSHaf/gtm-skillathon-account-research",
+      "sha": "fa430fc697db81b672897e7136953a2eb072bee6",
+      "status": "accepted",
+      "issue": 129,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/129",
+      "submitted_at": "2026-08-28T17:28:35Z",
+      "attempts": 3,
+      "warnings": 0,
+      "slug": "arminshaf-gtm-skillathon-account-researc"
+    },
+    {
+      "team": "agentmarkup",
+      "members": [
+        "cochinescu",
+        "pax-k"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "cochinescu/agentmarkup-readiness-gap",
+      "repo_url": "https://github.com/cochinescu/agentmarkup-readiness-gap",
+      "sha": "8c5b6789f2b2a9eb383c92ad4d820c7b51c6d416",
+      "status": "accepted",
+      "issue": 128,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/128",
+      "submitted_at": "2026-08-28T17:28:09Z",
+      "attempts": 10,
+      "warnings": 0,
+      "slug": "cochinescu-agentmarkup-readiness-gap"
+    },
+    {
+      "team": "Signal Forge",
+      "members": [
+        "David",
+        "Lidia"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "popusoidavid-constantin/search-visibility-gap",
+      "repo_url": "https://github.com/popusoidavid-constantin/search-visibility-gap",
+      "sha": "d4918bdbc9416d72e2ca0dee52df681a2f88eba2",
+      "status": "accepted",
+      "issue": 127,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/127",
+      "submitted_at": "2026-08-28T17:27:37Z",
+      "attempts": 3,
+      "warnings": 0,
+      "slug": "popusoidavid-constantin-search-visibilit"
+    },
+    {
+      "team": "Ghidob",
+      "members": [
+        "Andrei Ghita",
+        "Andrei Dobre"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "dobreeandrei/ghidob_growthEngine",
+      "repo_url": "https://github.com/dobreeandrei/ghidob_growthEngine",
+      "sha": "976be33e151d1489d5410cfda9194b51b5e5c341",
+      "status": "accepted",
+      "issue": 126,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/126",
+      "submitted_at": "2026-08-28T17:26:49Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "dobreeandrei-ghidob-growthengine"
+    },
+    {
+      "team": "GTM OS",
+      "members": [
+        "Teo"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "teopaleface/gtm-os",
+      "repo_url": "https://github.com/teopaleface/gtm-os",
+      "sha": "15c8ec7b078d47a611a51c58fc374239c9bce430",
+      "status": "accepted",
+      "issue": 121,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/121",
+      "submitted_at": "2026-08-28T17:25:47Z",
+      "attempts": 2,
+      "warnings": 0,
+      "slug": "teopaleface-gtm-os"
+    },
+    {
+      "team": "Amir Mohammadi",
+      "members": [
+        "Amir Mohammadi"
+      ],
+      "track": "custom",
+      "repo": "ammiiir1/trigger-moment-miner",
+      "repo_url": "https://github.com/ammiiir1/trigger-moment-miner",
+      "sha": "2ddd7bc74a65283605b0e82516b448e23683a37a",
+      "status": "accepted",
+      "issue": 120,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/120",
+      "submitted_at": "2026-08-28T17:24:26Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "ammiiir1-trigger-moment-miner"
+    },
+    {
+      "team": "Claudiu Busuioc",
+      "members": [
+        "Claudiu Busuioc"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "busuyoc/outreach-personalizer",
+      "repo_url": "https://github.com/busuyoc/outreach-personalizer",
+      "sha": "a6b98c5acb24b117a482f1f369fd84c3b2de9780",
+      "status": "accepted",
+      "issue": 119,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/119",
+      "submitted_at": "2026-08-28T17:23:50Z",
+      "attempts": 5,
+      "warnings": 0,
+      "slug": "busuyoc-outreach-personalizer"
+    },
+    {
+      "team": "GTM Competitive Matrix",
+      "members": [
+        "Micu Roberta",
+        "Despina Mihaela"
+      ],
+      "track": "custom",
+      "repo": "RobertaDiana/gtm-churn-signal-hunter",
+      "repo_url": "https://github.com/RobertaDiana/gtm-churn-signal-hunter",
+      "sha": "f696a638107cc97af69ba72f01becd0da3bdbea8",
+      "status": "accepted",
+      "issue": 117,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/117",
+      "submitted_at": "2026-08-28T17:23:29Z",
+      "attempts": 14,
+      "warnings": 0,
+      "slug": "robertadiana-gtm-churn-signal-hunter"
+    },
+    {
+      "team": "KojuhariRoman",
+      "members": [
+        "Roman Kojuhari"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "KojuhariRoman/gtm-skillathon-2026",
+      "repo_url": "https://github.com/KojuhariRoman/gtm-skillathon-2026",
+      "sha": "35fde84dd9457c47a4539db2981533dc958475a5",
+      "status": "accepted",
+      "issue": 115,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/115",
+      "submitted_at": "2026-08-28T17:23:21Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "kojuhariroman-gtm-skillathon-2026"
+    },
+    {
+      "team": "american dream",
+      "members": [
+        "Darius Zamcu",
+        "Bogdan-Marius Alexandru"
+      ],
+      "track": "custom",
+      "repo": "zamqq/americandream-team",
+      "repo_url": "https://github.com/zamqq/americandream-team",
+      "sha": "b911f74a7f317a34d3e87469e6af6ec9c115571f",
+      "status": "accepted",
+      "issue": 111,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/111",
+      "submitted_at": "2026-08-28T17:21:30Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "zamqq-americandream-team"
+    },
+    {
+      "team": "Bucurenciu Cristian",
+      "members": [
+        "Bucurenciu Cristian"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "Bucurenciu-Cristian/gtm-skillathon-2026",
+      "repo_url": "https://github.com/Bucurenciu-Cristian/gtm-skillathon-2026",
+      "sha": "b233b5a3580ca73992ff24167125565b88bb2c99",
+      "status": "accepted",
+      "issue": 109,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/109",
+      "submitted_at": "2026-08-28T17:20:22Z",
+      "attempts": 3,
+      "warnings": 0,
+      "slug": "bucurenciu-cristian-gtm-skillathon-2026"
+    },
+    {
+      "team": "Sergiu",
+      "members": [
+        "Sergiu Craioveanu"
+      ],
+      "track": "custom",
+      "repo": "the-sergiu/human-touch-copy-triage",
+      "repo_url": "https://github.com/the-sergiu/human-touch-copy-triage",
+      "sha": "ca06aa20bcd57f3208739a8bae38c15ea92bde16",
+      "status": "accepted",
+      "issue": 107,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/107",
+      "submitted_at": "2026-08-28T17:19:53Z",
+      "attempts": 6,
+      "warnings": 0,
+      "slug": "the-sergiu-human-touch-copy-triage"
+    },
+    {
+      "team": "Buyer Question Coverage",
+      "members": [
+        "MZir0-0"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "MZir0-0/gtm-skillathon-2026",
+      "repo_url": "https://github.com/MZir0-0/gtm-skillathon-2026",
+      "sha": "357b4ef604c35ca8f845b3d9ac239088578bf881",
+      "status": "accepted",
+      "issue": 105,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/105",
+      "submitted_at": "2026-08-28T17:19:28Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "mzir0-0-gtm-skillathon-2026"
+    },
+    {
+      "team": "Brand Expansion AI",
+      "members": [
+        "Radu"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "raduqq/ecomm-geo-expansion-judge",
+      "repo_url": "https://github.com/raduqq/ecomm-geo-expansion-judge",
+      "sha": "a38cf1af1a04c759a2bc20f2e0f686f13d6a710b",
+      "status": "accepted",
+      "issue": 104,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/104",
+      "submitted_at": "2026-08-28T17:19:24Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "raduqq-ecomm-geo-expansion-judge"
+    },
+    {
+      "team": "GTM agent graph with a bounded verification and repair loop",
+      "members": [
+        "Matei Oprea"
+      ],
+      "track": "multi-agent-orchestration",
+      "repo": "Matei-Oprea/gtm-graph",
+      "repo_url": "https://github.com/Matei-Oprea/gtm-graph",
+      "sha": "7940a8d2867284403e8a9ec03e61f3c50cefe755",
+      "status": "accepted",
+      "issue": 95,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/95",
+      "submitted_at": "2026-08-28T17:14:46Z",
+      "attempts": 2,
+      "warnings": 0,
+      "slug": "matei-oprea-gtm-graph"
+    },
+    {
+      "team": "Tender Radar",
+      "members": [
+        "Eduard Nita"
+      ],
+      "track": "custom",
+      "repo": "edwardnita/gtm-skill",
+      "repo_url": "https://github.com/edwardnita/gtm-skill",
+      "sha": "e0be4d4b2206007206d5359d6b35c0171130f86e",
+      "status": "accepted",
+      "issue": 91,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/91",
+      "submitted_at": "2026-08-28T17:12:06Z",
+      "attempts": 10,
+      "warnings": 0,
+      "slug": "edwardnita-gtm-skill"
+    },
+    {
+      "team": "Peak AI",
+      "members": [
+        "Dan Stinga"
+      ],
+      "track": "synthetic-buyer-simulations",
+      "repo": "DanStinga/peak-ai-buyer-proof-gap",
+      "repo_url": "https://github.com/DanStinga/peak-ai-buyer-proof-gap",
+      "sha": "8ff4e17777f45329612c1bc69efcd0b5e4bfddbd",
+      "status": "accepted",
+      "issue": 90,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/90",
+      "submitted_at": "2026-08-28T17:11:25Z",
+      "attempts": 4,
+      "warnings": 0,
+      "slug": "danstinga-peak-ai-buyer-proof-gap"
+    },
+    {
+      "team": "Signal Obscura",
+      "members": [
+        "Stefan Stoica",
+        "Tudor-Andrei Dumitrascu"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "TudorAndrei/gtm-skill",
+      "repo_url": "https://github.com/TudorAndrei/gtm-skill",
+      "sha": "a3b608ed36d2ceb85d9f41be3639dc1824bd69c7",
+      "status": "accepted",
+      "issue": 88,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/88",
+      "submitted_at": "2026-08-28T17:09:43Z",
+      "attempts": 2,
+      "warnings": 0,
+      "slug": "tudorandrei-gtm-skill"
+    },
+    {
+      "team": "Adrian Ciubotaru",
+      "members": [
+        "Adrian Ciubotaru"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "AdrianCiubotaru/human-touch-copy-triage",
+      "repo_url": "https://github.com/AdrianCiubotaru/human-touch-copy-triage",
+      "sha": "3b0ac3f45f522eeb950fd0dd9ecf9b1c16934155",
+      "status": "accepted",
+      "issue": 82,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/82",
+      "submitted_at": "2026-08-28T17:08:11Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "adrianciubotaru-human-touch-copy-triage"
+    },
+    {
+      "team": "Saucefox",
+      "members": [
+        "Cristian Coc"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "Masterpuff77/gtm-skillathon-2026",
+      "repo_url": "https://github.com/Masterpuff77/gtm-skillathon-2026",
+      "sha": "ed9c5654ee71893a9991295699af6bbffd12567e",
+      "status": "accepted",
+      "issue": 80,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/80",
+      "submitted_at": "2026-08-28T17:05:45Z",
+      "attempts": 3,
+      "warnings": 0,
+      "slug": "masterpuff77-gtm-skillathon-2026"
+    },
+    {
+      "team": "Trovito",
+      "members": [
+        "Silvian Achim"
+      ],
+      "track": "custom",
+      "repo": "Trovito/gtm-hackathon",
+      "repo_url": "https://github.com/Trovito/gtm-hackathon",
+      "sha": "8a572df0d043df2180de5e1799c4fb0f0a6d761b",
+      "status": "accepted",
+      "issue": 73,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/73",
+      "submitted_at": "2026-08-28T17:01:16Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "trovito-gtm-hackathon"
+    },
+    {
+      "team": "turbo-larping",
+      "members": [
+        "Tiberiu Rosu"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "Beriu/gtm-skillathon",
+      "repo_url": "https://github.com/Beriu/gtm-skillathon",
+      "sha": "560c13932fcbea2ab884dcd08eff4077c3a67dbb",
+      "status": "accepted",
+      "issue": 67,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/67",
+      "submitted_at": "2026-08-28T16:57:43Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "beriu-gtm-skillathon"
+    },
+    {
+      "team": "Granded",
+      "members": [
+        "Andrei Lazureanu",
+        "Andrei Chirata"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "andreilazu/GTM-skillathon",
+      "repo_url": "https://github.com/andreilazu/GTM-skillathon",
+      "sha": "4dd4c0bc540c5f6f7ecda14440217b7cee29c33a",
+      "status": "accepted",
+      "issue": 53,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/53",
+      "submitted_at": "2026-08-28T16:44:11Z",
+      "attempts": 2,
+      "warnings": 0,
+      "slug": "andreilazu-gtm-skillathon"
+    },
+    {
+      "team": "Daniel Stanciulescu",
+      "members": [
+        "Daniel Stanciulescu"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "daniel-stanciulescu/gtm-skillathon",
+      "repo_url": "https://github.com/daniel-stanciulescu/gtm-skillathon",
+      "sha": "1aad70c15f4debd8b11b7ee08208a245dda9404d",
+      "status": "accepted",
+      "issue": 49,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/49",
+      "submitted_at": "2026-08-28T16:36:49Z",
+      "attempts": 4,
+      "warnings": 0,
+      "slug": "daniel-stanciulescu-gtm-skillathon"
+    },
+    {
+      "team": "RefineForge",
+      "members": [
+        "Andrei Macarescu"
+      ],
+      "track": "custom",
+      "repo": "andrei14922/refineforge-skillathon",
+      "repo_url": "https://github.com/andrei14922/refineforge-skillathon",
+      "sha": "890cdb4fc7b6ca675dd6b5b01c5cb924affceb77",
+      "status": "accepted",
+      "issue": 48,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/48",
+      "submitted_at": "2026-08-28T16:34:55Z",
+      "attempts": 3,
+      "warnings": 0,
+      "slug": "andrei14922-refineforge-skillathon"
+    },
+    {
+      "team": "Fix Everywhere",
+      "members": [
+        "Andreea Bogdanovici"
+      ],
+      "track": "custom",
+      "repo": "rest-artt/skillathon-fix-everything",
+      "repo_url": "https://github.com/rest-artt/skillathon-fix-everything",
+      "sha": "8147d0a57e9014ffb3d5985a4f9838168132d85e",
+      "status": "accepted",
+      "issue": 47,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/47",
+      "submitted_at": "2026-08-28T16:34:51Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "rest-artt-skillathon-fix-everything"
+    },
+    {
+      "team": "Low-Medium PLG",
+      "members": [
+        "Andrei Chiscaru",
+        "Andrei Burlacu"
+      ],
+      "track": "plg-automation",
+      "repo": "AndreiChiscaru/gtm-signup-friction-scorer",
+      "repo_url": "https://github.com/AndreiChiscaru/gtm-signup-friction-scorer",
+      "sha": "de84d6c9b5af4cfed7f6f7204ac24629bd32b5f1",
+      "status": "accepted",
+      "issue": 42,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/42",
+      "submitted_at": "2026-08-28T16:31:30Z",
+      "attempts": 5,
+      "warnings": 0,
+      "slug": "andreichiscaru-gtm-signup-friction-score"
+    },
+    {
+      "team": "Stock.estate",
+      "members": [
+        "Andrei Chirata",
+        "Andrei Lazureanu"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "chirataandrei/Geo-Citation-Engineer",
+      "repo_url": "https://github.com/chirataandrei/Geo-Citation-Engineer",
+      "sha": null,
+      "status": "rejected",
+      "issue": 38,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/38",
+      "submitted_at": "2026-08-28T16:29:33Z",
+      "attempts": 1,
+      "warnings": 1,
+      "slug": "chirataandrei-geo-citation-engineer"
+    },
+    {
+      "team": "Granded",
+      "members": [
+        "Andrei Chirata",
+        "Andrei Lazureanu"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "https://github.com/chirataandrei/Geo-Citation-Engineer/tree/andrei",
+      "repo_url": "https://github.com/chirataandrei/Geo-Citation-Engineer/tree/andrei",
+      "sha": null,
+      "status": "rejected",
+      "issue": 31,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/31",
+      "submitted_at": "2026-08-28T16:21:01Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "granded"
+    }
+  ]
 }
