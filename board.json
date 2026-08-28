@@ -1,15 +1,32 @@
 {
-  "generated_at": "2026-08-28T17:01:09.319Z",
+  "generated_at": "2026-08-28T17:01:31.471Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
-    "accepted": 22,
+    "accepted": 23,
     "rejected": 2,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Trovito",
+      "members": [
+        "Silvian Achim"
+      ],
+      "track": "custom",
+      "repo": "Trovito/gtm-hackathon",
+      "repo_url": "https://github.com/Trovito/gtm-hackathon",
+      "sha": "8a572df0d043df2180de5e1799c4fb0f0a6d761b",
+      "status": "accepted",
+      "issue": 73,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/73",
+      "submitted_at": "2026-08-28T17:01:16Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "trovito-gtm-hackathon"
+    },
     {
       "team": "Claudiu Busuioc",
       "members": [

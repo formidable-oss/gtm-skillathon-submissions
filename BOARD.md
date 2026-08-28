@@ -1,11 +1,12 @@
 # Submissions board
 
-Updated 20:01:09 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 20:01:31 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
-**22 accepted** · 2 need a fix · 0 dry runs · 0 late
+**23 accepted** · 2 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
+| ✅ | Trovito | `custom` | 20:01:16 | [`8a572df`](https://github.com/Trovito/gtm-hackathon/tree/8a572df0d043df2180de5e1799c4fb0f0a6d761b) | [#73](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/73) |
 | ✅ | Claudiu Busuioc | `personalized-growth-engines` | 20:00:50 | [`535396e`](https://github.com/busuyoc/outreach-personalizer/tree/535396e1ea8ffcc925249a21e87a44a703cfd925) | [#72](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/72) |
 | ✅ | agentmarkup | `ai-search-optimization` | 19:59:57 | [`5e95904`](https://github.com/cochinescu/agentmarkup-readiness-gap/tree/5e95904bcbf3f909f35a724a458e9206e94d7588) | [#71](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/71) |
 | ✅ | publi22 | `personalized-growth-engines` | 19:59:42 | [`b74c136`](https://github.com/mogaeduard/gtm-skillathon/tree/b74c136de8ba0384a1e6160355265ab41beeb0da) | [#70](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/70) |
