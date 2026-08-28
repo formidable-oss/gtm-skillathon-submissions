@@ -1,11 +1,12 @@
 # Submissions board
 
-Updated 20:26:46 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 20:27:18 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
-**33 accepted** · 2 need a fix · 0 dry runs · 0 late
+**34 accepted** · 2 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
+| ✅ | Ghidob | `personalized-growth-engines` | 20:26:49 | [`976be33`](https://github.com/dobreeandrei/ghidob_growthEngine/tree/976be33e151d1489d5410cfda9194b51b5e5c341) | [#126](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/126) |
 | ✅ | OutThink GTM | `personalized-growth-engines` | 20:26:23 | [`ce44222`](https://github.com/ovidiupopeti/GTM-skill/tree/ce4422243175fccd7cd779ad72746560e7ade69a) | [#125](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/125) |
 | ✅ | Missing Answer | `ai-search-optimization` | 20:26:23 | [`fbf151e`](https://github.com/andiradulescu/gtm-skill-missing-answer/tree/fbf151ed20828b862212d5342d7b81baf1e5d0bf) | [#124](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/124) |
 | ✅ | agentmarkup | `ai-search-optimization` | 20:25:51 | [`702a94d`](https://github.com/cochinescu/agentmarkup-readiness-gap/tree/702a94d31d61e4a6ff86bc73f1534737c048505a) | [#122](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/122) |

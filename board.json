@@ -1,15 +1,33 @@
 {
-  "generated_at": "2026-08-28T17:26:46.020Z",
+  "generated_at": "2026-08-28T17:27:18.396Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
-    "accepted": 33,
+    "accepted": 34,
     "rejected": 2,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Ghidob",
+      "members": [
+        "Andrei Ghita",
+        "Andrei Dobre"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "dobreeandrei/ghidob_growthEngine",
+      "repo_url": "https://github.com/dobreeandrei/ghidob_growthEngine",
+      "sha": "976be33e151d1489d5410cfda9194b51b5e5c341",
+      "status": "accepted",
+      "issue": 126,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/126",
+      "submitted_at": "2026-08-28T17:26:49Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "dobreeandrei-ghidob-growthengine"
+    },
     {
       "team": "OutThink GTM",
       "members": [
