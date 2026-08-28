@@ -1,13 +1,13 @@
 # Submissions board
 
-Updated 19:43:54 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 19:44:26 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
-**16 accepted** · 3 need a fix · 0 dry runs · 0 late
+**17 accepted** · 2 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
+| ✅ | Granded | `ai-search-optimization` | 19:44:11 | [`4dd4c0b`](https://github.com/andreilazu/GTM-skillathon/tree/4dd4c0bc540c5f6f7ecda14440217b7cee29c33a) | [#53](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/53) |
 | ✅ | 3DAPI | `custom` | 19:43:35 | [`16263c3`](https://github.com/crusadev/painkiller/tree/16263c34e9afb5362e737196a338e9c32b606fb3) | [#52](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/52) |
-| ❌ | Granded | `ai-search-optimization` | 19:39:52 | — | [#50](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/50) |
 | ✅ | Daniel Stanciulescu | `personalized-growth-engines` | 19:36:49 | [`1aad70c`](https://github.com/daniel-stanciulescu/gtm-skillathon/tree/1aad70c15f4debd8b11b7ee08208a245dda9404d) | [#49](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/49) |
 | ✅ | RefineForge | `custom` | 19:34:55 | [`890cdb4`](https://github.com/andrei14922/refineforge-skillathon/tree/890cdb4fc7b6ca675dd6b5b01c5cb924affceb77) | [#48](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/48) |
 | ✅ | Fix Everywhere | `custom` | 19:34:51 | [`8147d0a`](https://github.com/rest-artt/skillathon-fix-everything/tree/8147d0a57e9014ffb3d5985a4f9838168132d85e) | [#47](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/47) |

@@ -1,15 +1,33 @@
 {
-  "generated_at": "2026-08-28T16:43:54.968Z",
+  "generated_at": "2026-08-28T16:44:26.475Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
-    "accepted": 16,
-    "rejected": 3,
+    "accepted": 17,
+    "rejected": 2,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Granded",
+      "members": [
+        "Andrei Lazureanu",
+        "Andrei Chirata"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "andreilazu/GTM-skillathon",
+      "repo_url": "https://github.com/andreilazu/GTM-skillathon",
+      "sha": "4dd4c0bc540c5f6f7ecda14440217b7cee29c33a",
+      "status": "accepted",
+      "issue": 53,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/53",
+      "submitted_at": "2026-08-28T16:44:11Z",
+      "attempts": 2,
+      "warnings": 0,
+      "slug": "andreilazu-gtm-skillathon"
+    },
     {
       "team": "3DAPI",
       "members": [
@@ -27,24 +45,6 @@
       "attempts": 2,
       "warnings": 0,
       "slug": "crusadev-painkiller"
-    },
-    {
-      "team": "Granded",
-      "members": [
-        "Andrei Lazureanu",
-        "Andrei Chirata"
-      ],
-      "track": "ai-search-optimization",
-      "repo": "andreilazu/GTM-skillathon",
-      "repo_url": "https://github.com/andreilazu/GTM-skillathon",
-      "sha": null,
-      "status": "rejected",
-      "issue": 50,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/50",
-      "submitted_at": "2026-08-28T16:39:52Z",
-      "attempts": 1,
-      "warnings": 0,
-      "slug": "andreilazu-gtm-skillathon"
     },
     {
       "team": "Daniel Stanciulescu",
