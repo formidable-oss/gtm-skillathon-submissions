@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:00:07.122Z",
+  "generated_at": "2026-08-28T17:00:15.940Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,24 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "agentmarkup",
+      "members": [
+        "cochinescu",
+        "pax-k"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "cochinescu/agentmarkup-readiness-gap",
+      "repo_url": "https://github.com/cochinescu/agentmarkup-readiness-gap",
+      "sha": "5e95904bcbf3f909f35a724a458e9206e94d7588",
+      "status": "accepted",
+      "issue": 71,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/71",
+      "submitted_at": "2026-08-28T16:59:57Z",
+      "attempts": 7,
+      "warnings": 0,
+      "slug": "cochinescu-agentmarkup-readiness-gap"
+    },
     {
       "team": "publi22",
       "members": [
@@ -236,24 +254,6 @@
       "attempts": 3,
       "warnings": 0,
       "slug": "danstinga-peak-ai-buyer-proof-gap"
-    },
-    {
-      "team": "agentmarkup",
-      "members": [
-        "cochinescu",
-        "pax-k"
-      ],
-      "track": "ai-search-optimization",
-      "repo": "cochinescu/agentmarkup-readiness-gap",
-      "repo_url": "https://github.com/cochinescu/agentmarkup-readiness-gap",
-      "sha": "5d4abd4ac9f6405042c82b19e12e5e21948363e7",
-      "status": "accepted",
-      "issue": 54,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/54",
-      "submitted_at": "2026-08-28T16:45:08Z",
-      "attempts": 6,
-      "warnings": 0,
-      "slug": "cochinescu-agentmarkup-readiness-gap"
     },
     {
       "team": "Granded",
