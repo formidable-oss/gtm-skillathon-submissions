@@ -1,11 +1,12 @@
 # Submissions board
 
-Updated 20:22:47 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 20:23:35 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
-**29 accepted** · 3 need a fix · 0 dry runs · 0 late
+**30 accepted** · 3 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
+| ✅ | KojuhariRoman | `ai-search-optimization` | 20:23:21 | [`35fde84`](https://github.com/KojuhariRoman/gtm-skillathon-2026/tree/35fde84dd9457c47a4539db2981533dc958475a5) | [#115](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/115) |
 | ❌ | OutThink GTM | `personalized-growth-engines` | 20:22:27 | — | [#114](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/114) |
 | ✅ | ArminSHaf | `custom` | 20:21:59 | [`795f419`](https://github.com/ArminSHaf/gtm-skillathon-account-research/tree/795f419c2c88fe7e1ec3f6a8232de1b72a632a51) | [#113](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/113) |
 | ✅ | agentmarkup | `ai-search-optimization` | 20:21:33 | [`825ae15`](https://github.com/cochinescu/agentmarkup-readiness-gap/tree/825ae1582e8016bd7939ec1fd1439ea042087550) | [#112](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/112) |

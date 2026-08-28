@@ -1,15 +1,32 @@
 {
-  "generated_at": "2026-08-28T17:22:47.041Z",
+  "generated_at": "2026-08-28T17:23:35.994Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
-    "accepted": 29,
+    "accepted": 30,
     "rejected": 3,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "KojuhariRoman",
+      "members": [
+        "Roman Kojuhari"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "KojuhariRoman/gtm-skillathon-2026",
+      "repo_url": "https://github.com/KojuhariRoman/gtm-skillathon-2026",
+      "sha": "35fde84dd9457c47a4539db2981533dc958475a5",
+      "status": "accepted",
+      "issue": 115,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/115",
+      "submitted_at": "2026-08-28T17:23:21Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "kojuhariroman-gtm-skillathon-2026"
+    },
     {
       "team": "OutThink GTM",
       "members": [
