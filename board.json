@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:44:26.475Z",
+  "generated_at": "2026-08-28T16:45:39.360Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,24 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "agentmarkup",
+      "members": [
+        "cochinescu",
+        "pax-k"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "cochinescu/agentmarkup-readiness-gap",
+      "repo_url": "https://github.com/cochinescu/agentmarkup-readiness-gap",
+      "sha": "5d4abd4ac9f6405042c82b19e12e5e21948363e7",
+      "status": "accepted",
+      "issue": 54,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/54",
+      "submitted_at": "2026-08-28T16:45:08Z",
+      "attempts": 6,
+      "warnings": 0,
+      "slug": "cochinescu-agentmarkup-readiness-gap"
+    },
     {
       "team": "Granded",
       "members": [
@@ -289,24 +307,6 @@
       "attempts": 1,
       "warnings": 0,
       "slug": "teopaleface-gtm-os"
-    },
-    {
-      "team": "agentmarkup",
-      "members": [
-        "cochinescu",
-        "pax-k"
-      ],
-      "track": "ai-search-optimization",
-      "repo": "cochinescu/agentmarkup-readiness-gap",
-      "repo_url": "https://github.com/cochinescu/agentmarkup-readiness-gap",
-      "sha": "898916b1c838fd6128d83048245058a0bd4ea0f6",
-      "status": "accepted",
-      "issue": 19,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/19",
-      "submitted_at": "2026-08-28T16:03:45Z",
-      "attempts": 5,
-      "warnings": 0,
-      "slug": "cochinescu-agentmarkup-readiness-gap"
     },
     {
       "team": "Saucefox",
