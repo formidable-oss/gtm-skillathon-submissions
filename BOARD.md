@@ -1,13 +1,13 @@
 # Submissions board
 
-Updated 19:30:58 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 19:31:48 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
 **13 accepted** · 2 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
+| ✅ | Low-Medium PLG | `plg-automation` | 19:31:30 | [`de84d6c`](https://github.com/AndreiChiscaru/gtm-signup-friction-scorer/tree/de84d6c9b5af4cfed7f6f7204ac24629bd32b5f1) | [#42](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/42) |
 | ✅ | Peak AI | `synthetic-buyer-simulations` | 19:30:38 | [`bb2c323`](https://github.com/DanStinga/peak-ai-buyer-proof-gap/tree/bb2c323c7222411cd8af1633a93af430281afe42) | [#41](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/41) |
-| ✅ | Low-Medium PLG | `plg-automation` | 19:30:32 | [`f4649b2`](https://github.com/AndreiChiscaru/gtm-signup-friction-scorer/tree/f4649b2f9828ca707a3588e57243155f0d5850a0) | [#40](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/40) |
 | ✅ | Sergiu | `custom` | 19:29:38 | [`08953b6`](https://github.com/the-sergiu/human-touch-copy-triage/tree/08953b61fc76562fa5381f359a84397a7495c9db) | [#39](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/39) |
 | ❌ | Stock.estate | `ai-search-optimization` | 19:29:33 | — | [#38](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/38) |
 | ✅ | GTM Competitive Matrix | `custom` | 19:24:00 | [`8de3fa8`](https://github.com/RobertaDiana/gtm-churn-signal-hunter/tree/8de3fa8ae502700f1935c95a4785349abc0d38b0) | [#35](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/35) |

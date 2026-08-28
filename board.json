@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:30:58.464Z",
+  "generated_at": "2026-08-28T16:31:48.740Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,24 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Low-Medium PLG",
+      "members": [
+        "Andrei Chiscaru",
+        "Andrei Burlacu"
+      ],
+      "track": "plg-automation",
+      "repo": "AndreiChiscaru/gtm-signup-friction-scorer",
+      "repo_url": "https://github.com/AndreiChiscaru/gtm-signup-friction-scorer",
+      "sha": "de84d6c9b5af4cfed7f6f7204ac24629bd32b5f1",
+      "status": "accepted",
+      "issue": 42,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/42",
+      "submitted_at": "2026-08-28T16:31:30Z",
+      "attempts": 5,
+      "warnings": 0,
+      "slug": "andreichiscaru-gtm-signup-friction-score"
+    },
     {
       "team": "Peak AI",
       "members": [
@@ -27,23 +45,6 @@
       "attempts": 1,
       "warnings": 0,
       "slug": "danstinga-peak-ai-buyer-proof-gap"
-    },
-    {
-      "team": "Low-Medium PLG",
-      "members": [
-        "Andrei Chiscaru"
-      ],
-      "track": "plg-automation",
-      "repo": "AndreiChiscaru/gtm-signup-friction-scorer",
-      "repo_url": "https://github.com/AndreiChiscaru/gtm-signup-friction-scorer",
-      "sha": "f4649b2f9828ca707a3588e57243155f0d5850a0",
-      "status": "accepted",
-      "issue": 40,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/40",
-      "submitted_at": "2026-08-28T16:30:32Z",
-      "attempts": 4,
-      "warnings": 0,
-      "slug": "andreichiscaru-gtm-signup-friction-score"
     },
     {
       "team": "Sergiu",
