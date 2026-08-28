@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:28:30.730Z",
+  "generated_at": "2026-08-28T17:28:56.870Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,40 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Product Detailed Page Audit for eCommerce Websites",
+      "members": [
+        "mmartinalexandru"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "mmartinalexandru/pdp-answer-audit",
+      "repo_url": "https://github.com/mmartinalexandru/pdp-answer-audit",
+      "sha": "5afb34024e540618a60e7a810361b7406f1277a2",
+      "status": "accepted",
+      "issue": 130,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/130",
+      "submitted_at": "2026-08-28T17:28:38Z",
+      "attempts": 5,
+      "warnings": 0,
+      "slug": "mmartinalexandru-pdp-answer-audit"
+    },
+    {
+      "team": "ArminSHaf",
+      "members": [
+        "ArminSHaf"
+      ],
+      "track": "custom",
+      "repo": "ArminSHaf/gtm-skillathon-account-research",
+      "repo_url": "https://github.com/ArminSHaf/gtm-skillathon-account-research",
+      "sha": "fa430fc697db81b672897e7136953a2eb072bee6",
+      "status": "accepted",
+      "issue": 129,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/129",
+      "submitted_at": "2026-08-28T17:28:35Z",
+      "attempts": 3,
+      "warnings": 0,
+      "slug": "arminshaf-gtm-skillathon-account-researc"
+    },
     {
       "team": "agentmarkup",
       "members": [
@@ -185,23 +219,6 @@
       "slug": "robertadiana-gtm-churn-signal-hunter"
     },
     {
-      "team": "Product Detailed Page Audit for eCommerce Websites",
-      "members": [
-        "mmartinalexandru"
-      ],
-      "track": "ai-search-optimization",
-      "repo": "mmartinalexandru/pdp-answer-audit",
-      "repo_url": "https://github.com/mmartinalexandru/pdp-answer-audit",
-      "sha": "3784cdd05e76abf64d87a707829e5ab15a050ca2",
-      "status": "accepted",
-      "issue": 116,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/116",
-      "submitted_at": "2026-08-28T17:23:26Z",
-      "attempts": 4,
-      "warnings": 0,
-      "slug": "mmartinalexandru-pdp-answer-audit"
-    },
-    {
       "team": "KojuhariRoman",
       "members": [
         "Roman Kojuhari"
@@ -217,23 +234,6 @@
       "attempts": 1,
       "warnings": 0,
       "slug": "kojuhariroman-gtm-skillathon-2026"
-    },
-    {
-      "team": "ArminSHaf",
-      "members": [
-        "ArminSHaf"
-      ],
-      "track": "custom",
-      "repo": "ArminSHaf/gtm-skillathon-account-research",
-      "repo_url": "https://github.com/ArminSHaf/gtm-skillathon-account-research",
-      "sha": "795f419c2c88fe7e1ec3f6a8232de1b72a632a51",
-      "status": "accepted",
-      "issue": 113,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/113",
-      "submitted_at": "2026-08-28T17:21:59Z",
-      "attempts": 2,
-      "warnings": 0,
-      "slug": "arminshaf-gtm-skillathon-account-researc"
     },
     {
       "team": "american dream",
