@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:28:56.870Z",
+  "generated_at": "2026-08-28T17:29:04.878Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,41 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Missing Answer",
+      "members": [
+        "Andrei Radulescu"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "andiradulescu/gtm-skill-missing-answer",
+      "repo_url": "https://github.com/andiradulescu/gtm-skill-missing-answer",
+      "sha": "f4b402877b9ba9614b358ec64a7ccc763d59a541",
+      "status": "accepted",
+      "issue": 132,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/132",
+      "submitted_at": "2026-08-28T17:28:54Z",
+      "attempts": 7,
+      "warnings": 0,
+      "slug": "andiradulescu-gtm-skill-missing-answer"
+    },
+    {
+      "team": "3DAPI",
+      "members": [
+        "Iacob Andrei Radu",
+        "Vasilescu Alexander Iulius"
+      ],
+      "track": "custom",
+      "repo": "crusadev/painkiller",
+      "repo_url": "https://github.com/crusadev/painkiller",
+      "sha": "2556c85d47deb6c42c4ee0599f9bd49f8c868967",
+      "status": "accepted",
+      "issue": 131,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/131",
+      "submitted_at": "2026-08-28T17:28:41Z",
+      "attempts": 8,
+      "warnings": 0,
+      "slug": "crusadev-painkiller"
+    },
     {
       "team": "Product Detailed Page Audit for eCommerce Websites",
       "members": [
@@ -114,23 +149,6 @@
       "attempts": 2,
       "warnings": 0,
       "slug": "ovidiupopeti-gtm-skill"
-    },
-    {
-      "team": "Missing Answer",
-      "members": [
-        "Andrei Radulescu"
-      ],
-      "track": "ai-search-optimization",
-      "repo": "andiradulescu/gtm-skill-missing-answer",
-      "repo_url": "https://github.com/andiradulescu/gtm-skill-missing-answer",
-      "sha": "fbf151ed20828b862212d5342d7b81baf1e5d0bf",
-      "status": "accepted",
-      "issue": 124,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/124",
-      "submitted_at": "2026-08-28T17:26:23Z",
-      "attempts": 6,
-      "warnings": 0,
-      "slug": "andiradulescu-gtm-skill-missing-answer"
     },
     {
       "team": "GTM OS",
@@ -252,24 +270,6 @@
       "attempts": 1,
       "warnings": 0,
       "slug": "zamqq-americandream-team"
-    },
-    {
-      "team": "3DAPI",
-      "members": [
-        "Iacob Andrei Radu",
-        "Vasilescu Alexander Iulius"
-      ],
-      "track": "custom",
-      "repo": "crusadev/painkiller",
-      "repo_url": "https://github.com/crusadev/painkiller",
-      "sha": "f554586eae7447ccac3c893e957d18eca9a783dd",
-      "status": "accepted",
-      "issue": 110,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/110",
-      "submitted_at": "2026-08-28T17:20:23Z",
-      "attempts": 7,
-      "warnings": 0,
-      "slug": "crusadev-painkiller"
     },
     {
       "team": "Bucurenciu Cristian",
