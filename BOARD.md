@@ -1,15 +1,15 @@
 # Submissions board
 
-Updated 19:33:00 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 19:33:29 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
 **13 accepted** · 2 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
+| ✅ | Peak AI | `synthetic-buyer-simulations` | 19:33:12 | [`7e4db3f`](https://github.com/DanStinga/peak-ai-buyer-proof-gap/tree/7e4db3f2f5c6a4b5766c228b9ee33929fbd64eb1) | [#45](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/45) |
 | ✅ | Tender Radar | `custom` | 19:32:38 | [`37717fd`](https://github.com/edwardnita/gtm-skill/tree/37717fd1076f98fa36ec8111dc79f77f771fbbf2) | [#44](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/44) |
 | ✅ | publi22 | `personalized-growth-engines` | 19:32:38 | [`5b1fe66`](https://github.com/mogaeduard/gtm-skillathon/tree/5b1fe6690c53836a231dc8d7a5b10c623bba723f) | [#43](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/43) |
 | ✅ | Low-Medium PLG | `plg-automation` | 19:31:30 | [`de84d6c`](https://github.com/AndreiChiscaru/gtm-signup-friction-scorer/tree/de84d6c9b5af4cfed7f6f7204ac24629bd32b5f1) | [#42](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/42) |
-| ✅ | Peak AI | `synthetic-buyer-simulations` | 19:30:38 | [`bb2c323`](https://github.com/DanStinga/peak-ai-buyer-proof-gap/tree/bb2c323c7222411cd8af1633a93af430281afe42) | [#41](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/41) |
 | ✅ | Sergiu | `custom` | 19:29:38 | [`08953b6`](https://github.com/the-sergiu/human-touch-copy-triage/tree/08953b61fc76562fa5381f359a84397a7495c9db) | [#39](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/39) |
 | ❌ | Stock.estate | `ai-search-optimization` | 19:29:33 | — | [#38](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/38) |
 | ✅ | GTM Competitive Matrix | `custom` | 19:24:00 | [`8de3fa8`](https://github.com/RobertaDiana/gtm-churn-signal-hunter/tree/8de3fa8ae502700f1935c95a4785349abc0d38b0) | [#35](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/35) |

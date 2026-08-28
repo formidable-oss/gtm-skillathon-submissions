@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:33:00.825Z",
+  "generated_at": "2026-08-28T16:33:29.621Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,23 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Peak AI",
+      "members": [
+        "Dan Stinga"
+      ],
+      "track": "synthetic-buyer-simulations",
+      "repo": "DanStinga/peak-ai-buyer-proof-gap",
+      "repo_url": "https://github.com/DanStinga/peak-ai-buyer-proof-gap",
+      "sha": "7e4db3f2f5c6a4b5766c228b9ee33929fbd64eb1",
+      "status": "accepted",
+      "issue": 45,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/45",
+      "submitted_at": "2026-08-28T16:33:12Z",
+      "attempts": 2,
+      "warnings": 0,
+      "slug": "danstinga-peak-ai-buyer-proof-gap"
+    },
     {
       "team": "Tender Radar",
       "members": [
@@ -63,24 +80,6 @@
       "attempts": 5,
       "warnings": 0,
       "slug": "andreichiscaru-gtm-signup-friction-score"
-    },
-    {
-      "team": "Peak AI",
-      "members": [
-        "Dan Stinga",
-        "Sergiu Craioveanu"
-      ],
-      "track": "synthetic-buyer-simulations",
-      "repo": "DanStinga/peak-ai-buyer-proof-gap",
-      "repo_url": "https://github.com/DanStinga/peak-ai-buyer-proof-gap",
-      "sha": "bb2c323c7222411cd8af1633a93af430281afe42",
-      "status": "accepted",
-      "issue": 41,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/41",
-      "submitted_at": "2026-08-28T16:30:38Z",
-      "attempts": 1,
-      "warnings": 0,
-      "slug": "danstinga-peak-ai-buyer-proof-gap"
     },
     {
       "team": "Sergiu",
