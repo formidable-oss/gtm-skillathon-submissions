@@ -1,15 +1,32 @@
 {
-  "generated_at": "2026-08-28T15:51:29.999Z",
+  "generated_at": "2026-08-28T15:54:54.985Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
-    "accepted": 6,
+    "accepted": 7,
     "rejected": 0,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Bucurenciu Cristian",
+      "members": [
+        "Bucurenciu Cristian"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "Bucurenciu-Cristian/gtm-skillathon-2026",
+      "repo_url": "https://github.com/Bucurenciu-Cristian/gtm-skillathon-2026",
+      "sha": "651c7561def89a067b85e3bb5b40a5ddbe22e0c8",
+      "status": "accepted",
+      "issue": 14,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/14",
+      "submitted_at": "2026-08-28T15:54:38Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "bucurenciu-cristian-gtm-skillathon-2026"
+    },
     {
       "team": "GTM Signal Hunter",
       "members": [
