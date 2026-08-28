@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:35:04.779Z",
+  "generated_at": "2026-08-28T16:35:15.055Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,23 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "RefineForge",
+      "members": [
+        "Andrei Macarescu"
+      ],
+      "track": "custom",
+      "repo": "andrei14922/refineforge-skillathon",
+      "repo_url": "https://github.com/andrei14922/refineforge-skillathon",
+      "sha": "890cdb4fc7b6ca675dd6b5b01c5cb924affceb77",
+      "status": "accepted",
+      "issue": 48,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/48",
+      "submitted_at": "2026-08-28T16:34:55Z",
+      "attempts": 3,
+      "warnings": 0,
+      "slug": "andrei14922-refineforge-skillathon"
+    },
     {
       "team": "Fix Everywhere",
       "members": [
@@ -219,23 +236,6 @@
       "attempts": 1,
       "warnings": 0,
       "slug": "granded"
-    },
-    {
-      "team": "RefineForge",
-      "members": [
-        "Andrei Macarescu"
-      ],
-      "track": "custom",
-      "repo": "andrei14922/refineforge-skillathon",
-      "repo_url": "https://github.com/andrei14922/refineforge-skillathon",
-      "sha": "e1f80a5e48083feed667aa03f843987f88f401ad",
-      "status": "accepted",
-      "issue": 28,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/28",
-      "submitted_at": "2026-08-28T16:15:11Z",
-      "attempts": 2,
-      "warnings": 0,
-      "slug": "andrei14922-refineforge-skillathon"
     },
     {
       "team": "GTM OS",
