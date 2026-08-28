@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T15:42:57.090Z",
+  "generated_at": "2026-08-28T15:43:29.955Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,24 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "agentmarkup",
+      "members": [
+        "cochinescu",
+        "pax-k"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "cochinescu/agentmarkup-readiness-gap",
+      "repo_url": "https://github.com/cochinescu/agentmarkup-readiness-gap",
+      "sha": "63b9d9aadb35952376101a18cedb764fd2cb74ec",
+      "status": "accepted",
+      "issue": 9,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/9",
+      "submitted_at": "2026-08-28T15:43:07Z",
+      "attempts": 3,
+      "warnings": 0,
+      "slug": "cochinescu-agentmarkup-readiness-gap"
+    },
     {
       "team": "Claudiu Busuioc",
       "members": [
@@ -26,24 +44,6 @@
       "attempts": 1,
       "warnings": 0,
       "slug": "busuyoc-outreach-personalizer"
-    },
-    {
-      "team": "agentmarkup",
-      "members": [
-        "cochinescu",
-        "pax-k"
-      ],
-      "track": "ai-search-optimization",
-      "repo": "cochinescu/agentmarkup-readiness-gap",
-      "repo_url": "https://github.com/cochinescu/agentmarkup-readiness-gap",
-      "sha": "b9c8a031719f84e1b4f9fc9e133a24a0ee1905d2",
-      "status": "accepted",
-      "issue": 7,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/7",
-      "submitted_at": "2026-08-28T15:32:42Z",
-      "attempts": 2,
-      "warnings": 0,
-      "slug": "cochinescu-agentmarkup-readiness-gap"
     },
     {
       "team": "Low-Medium PLG",
