@@ -1,15 +1,32 @@
 {
-  "generated_at": "2026-08-28T16:08:43.683Z",
+  "generated_at": "2026-08-28T16:09:43.080Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
-    "accepted": 9,
+    "accepted": 10,
     "rejected": 0,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "GTM OS",
+      "members": [
+        "Teo"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "teopaleface/gtm-os",
+      "repo_url": "https://github.com/teopaleface/gtm-os",
+      "sha": "0a1b45caef84b1e264289a8622768e17c0da59b3",
+      "status": "accepted",
+      "issue": 24,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/24",
+      "submitted_at": "2026-08-28T16:09:28Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "teopaleface-gtm-os"
+    },
     {
       "team": "GTM Signal Hunter",
       "members": [
