@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:13:30.897Z",
+  "generated_at": "2026-08-28T16:14:51.307Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,24 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Brand Expansion AI",
+      "members": [
+        "Radu",
+        "Edward Nita"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "edwardnita/gtm-skill",
+      "repo_url": "https://github.com/edwardnita/gtm-skill",
+      "sha": "5452e5a509bbbb0e651499898349c8c517f93caa",
+      "status": "accepted",
+      "issue": 27,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/27",
+      "submitted_at": "2026-08-28T16:14:35Z",
+      "attempts": 4,
+      "warnings": 0,
+      "slug": "edwardnita-gtm-skill"
+    },
     {
       "team": "GTM Competitive Matrix",
       "members": [
@@ -61,24 +79,6 @@
       "attempts": 3,
       "warnings": 0,
       "slug": "andreichiscaru-gtm-signup-friction-score"
-    },
-    {
-      "team": "Brand Expansion AI",
-      "members": [
-        "Radu",
-        "Edward Nita"
-      ],
-      "track": "personalized-growth-engines",
-      "repo": "edwardnita/gtm-skill",
-      "repo_url": "https://github.com/edwardnita/gtm-skill",
-      "sha": "2ab2a97f9741c6a32217d30f82beb00a4c7e7acb",
-      "status": "accepted",
-      "issue": 20,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/20",
-      "submitted_at": "2026-08-28T16:04:58Z",
-      "attempts": 3,
-      "warnings": 0,
-      "slug": "edwardnita-gtm-skill"
     },
     {
       "team": "agentmarkup",
