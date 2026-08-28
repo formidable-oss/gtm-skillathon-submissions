@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:24:46.928Z",
+  "generated_at": "2026-08-28T17:26:04.331Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,41 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "agentmarkup",
+      "members": [
+        "cochinescu",
+        "pax-k"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "cochinescu/agentmarkup-readiness-gap",
+      "repo_url": "https://github.com/cochinescu/agentmarkup-readiness-gap",
+      "sha": "702a94d31d61e4a6ff86bc73f1534737c048505a",
+      "status": "accepted",
+      "issue": 122,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/122",
+      "submitted_at": "2026-08-28T17:25:51Z",
+      "attempts": 9,
+      "warnings": 0,
+      "slug": "cochinescu-agentmarkup-readiness-gap"
+    },
+    {
+      "team": "GTM OS",
+      "members": [
+        "Teo"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "teopaleface/gtm-os",
+      "repo_url": "https://github.com/teopaleface/gtm-os",
+      "sha": "15c8ec7b078d47a611a51c58fc374239c9bce430",
+      "status": "accepted",
+      "issue": 121,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/121",
+      "submitted_at": "2026-08-28T17:25:47Z",
+      "attempts": 2,
+      "warnings": 0,
+      "slug": "teopaleface-gtm-os"
+    },
     {
       "team": "Amir Mohammadi",
       "members": [
@@ -146,24 +181,6 @@
       "attempts": 2,
       "warnings": 0,
       "slug": "arminshaf-gtm-skillathon-account-researc"
-    },
-    {
-      "team": "agentmarkup",
-      "members": [
-        "cochinescu",
-        "pax-k"
-      ],
-      "track": "ai-search-optimization",
-      "repo": "cochinescu/agentmarkup-readiness-gap",
-      "repo_url": "https://github.com/cochinescu/agentmarkup-readiness-gap",
-      "sha": "825ae1582e8016bd7939ec1fd1439ea042087550",
-      "status": "accepted",
-      "issue": 112,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/112",
-      "submitted_at": "2026-08-28T17:21:33Z",
-      "attempts": 8,
-      "warnings": 0,
-      "slug": "cochinescu-agentmarkup-readiness-gap"
     },
     {
       "team": "american dream",
@@ -598,23 +615,6 @@
       "attempts": 1,
       "warnings": 0,
       "slug": "granded"
-    },
-    {
-      "team": "GTM OS",
-      "members": [
-        "Teo"
-      ],
-      "track": "ai-search-optimization",
-      "repo": "teopaleface/gtm-os",
-      "repo_url": "https://github.com/teopaleface/gtm-os",
-      "sha": "0a1b45caef84b1e264289a8622768e17c0da59b3",
-      "status": "accepted",
-      "issue": 24,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/24",
-      "submitted_at": "2026-08-28T16:09:28Z",
-      "attempts": 1,
-      "warnings": 0,
-      "slug": "teopaleface-gtm-os"
     }
   ]
 }

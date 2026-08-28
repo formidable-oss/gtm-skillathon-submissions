@@ -1,11 +1,13 @@
 # Submissions board
 
-Updated 20:24:46 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 20:26:04 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
 **32 accepted** · 3 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
+| ✅ | agentmarkup | `ai-search-optimization` | 20:25:51 | [`702a94d`](https://github.com/cochinescu/agentmarkup-readiness-gap/tree/702a94d31d61e4a6ff86bc73f1534737c048505a) | [#122](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/122) |
+| ✅ | GTM OS | `ai-search-optimization` | 20:25:47 | [`15c8ec7`](https://github.com/teopaleface/gtm-os/tree/15c8ec7b078d47a611a51c58fc374239c9bce430) | [#121](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/121) |
 | ✅ | Amir Mohammadi | `custom` | 20:24:26 | [`2ddd7bc`](https://github.com/ammiiir1/trigger-moment-miner/tree/2ddd7bc74a65283605b0e82516b448e23683a37a) | [#120](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/120) |
 | ✅ | Claudiu Busuioc | `personalized-growth-engines` | 20:23:50 | [`a6b98c5`](https://github.com/busuyoc/outreach-personalizer/tree/a6b98c5acb24b117a482f1f369fd84c3b2de9780) | [#119](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/119) |
 | ✅ | Skill Find a Client | `personalized-growth-engines` | 20:23:41 | [`c077aca`](https://github.com/AlinDev/skill-find-a-client/tree/c077aca527bb44a705a267b7d2c674964e37a7a6) | [#118](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/118) |
@@ -14,7 +16,6 @@ Updated 20:24:46 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 | ✅ | KojuhariRoman | `ai-search-optimization` | 20:23:21 | [`35fde84`](https://github.com/KojuhariRoman/gtm-skillathon-2026/tree/35fde84dd9457c47a4539db2981533dc958475a5) | [#115](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/115) |
 | ❌ | OutThink GTM | `personalized-growth-engines` | 20:22:27 | — | [#114](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/114) |
 | ✅ | ArminSHaf | `custom` | 20:21:59 | [`795f419`](https://github.com/ArminSHaf/gtm-skillathon-account-research/tree/795f419c2c88fe7e1ec3f6a8232de1b72a632a51) | [#113](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/113) |
-| ✅ | agentmarkup | `ai-search-optimization` | 20:21:33 | [`825ae15`](https://github.com/cochinescu/agentmarkup-readiness-gap/tree/825ae1582e8016bd7939ec1fd1439ea042087550) | [#112](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/112) |
 | ✅ | american dream | `custom` | 20:21:30 | [`b911f74`](https://github.com/zamqq/americandream-team/tree/b911f74a7f317a34d3e87469e6af6ec9c115571f) | [#111](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/111) |
 | ✅ | 3DAPI | `custom` | 20:20:23 | [`f554586`](https://github.com/crusadev/painkiller/tree/f554586eae7447ccac3c893e957d18eca9a783dd) | [#110](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/110) |
 | ✅ | Bucurenciu Cristian | `ai-search-optimization` | 20:20:22 | [`b233b5a`](https://github.com/Bucurenciu-Cristian/gtm-skillathon-2026/tree/b233b5a3580ca73992ff24167125565b88bb2c99) | [#109](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/109) |
@@ -40,6 +41,5 @@ Updated 20:24:46 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 | ✅ | Low-Medium PLG | `plg-automation` | 19:31:30 | [`de84d6c`](https://github.com/AndreiChiscaru/gtm-signup-friction-scorer/tree/de84d6c9b5af4cfed7f6f7204ac24629bd32b5f1) | [#42](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/42) |
 | ❌ | Stock.estate | `ai-search-optimization` | 19:29:33 | — | [#38](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/38) |
 | ❌ | Granded | `ai-search-optimization` | 19:21:01 | — | [#31](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/31) |
-| ✅ | GTM OS | `ai-search-optimization` | 19:09:28 | [`0a1b45c`](https://github.com/teopaleface/gtm-os/tree/0a1b45caef84b1e264289a8622768e17c0da59b3) | [#24](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/24) |
 
 ✅ accepted · ❌ latest attempt rejected, resubmit · 🧪 dry run before 18:00 · ⏰ after the cutoff
