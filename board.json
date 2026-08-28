@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:05:40.144Z",
+  "generated_at": "2026-08-28T16:08:43.683Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,23 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "GTM Signal Hunter",
+      "members": [
+        "Project team"
+      ],
+      "track": "custom",
+      "repo": "RobertaDiana/gtm-churn-signal-hunter",
+      "repo_url": "https://github.com/RobertaDiana/gtm-churn-signal-hunter",
+      "sha": "95fea384acc782ca1a13440e670b357c2d4b75f7",
+      "status": "accepted",
+      "issue": 23,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/23",
+      "submitted_at": "2026-08-28T16:08:23Z",
+      "attempts": 4,
+      "warnings": 0,
+      "slug": "robertadiana-gtm-churn-signal-hunter"
+    },
     {
       "team": "Low-Medium PLG",
       "members": [
@@ -26,23 +43,6 @@
       "attempts": 3,
       "warnings": 0,
       "slug": "andreichiscaru-gtm-signup-friction-score"
-    },
-    {
-      "team": "GTM Signal Hunter",
-      "members": [
-        "Project team"
-      ],
-      "track": "custom",
-      "repo": "RobertaDiana/gtm-churn-signal-hunter",
-      "repo_url": "https://github.com/RobertaDiana/gtm-churn-signal-hunter",
-      "sha": "a9a0415e1ce0cf109530e14294cd1dcc52e4346b",
-      "status": "accepted",
-      "issue": 21,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/21",
-      "submitted_at": "2026-08-28T16:05:18Z",
-      "attempts": 3,
-      "warnings": 0,
-      "slug": "robertadiana-gtm-churn-signal-hunter"
     },
     {
       "team": "Brand Expansion AI",

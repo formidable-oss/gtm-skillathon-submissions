@@ -1,13 +1,13 @@
 # Submissions board
 
-Updated 19:05:40 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 19:08:43 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
 **9 accepted** · 0 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
+| ✅ | GTM Signal Hunter | `custom` | 19:08:23 | [`95fea38`](https://github.com/RobertaDiana/gtm-churn-signal-hunter/tree/95fea384acc782ca1a13440e670b357c2d4b75f7) | [#23](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/23) |
 | ✅ | Low-Medium PLG | `plg-automation` | 19:05:21 | [`7e8b526`](https://github.com/AndreiChiscaru/gtm-signup-friction-scorer/tree/7e8b52623898378421123727e246a3b0e1404edc) | [#22](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/22) |
-| ✅ | GTM Signal Hunter | `custom` | 19:05:18 | [`a9a0415`](https://github.com/RobertaDiana/gtm-churn-signal-hunter/tree/a9a0415e1ce0cf109530e14294cd1dcc52e4346b) | [#21](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/21) |
 | ✅ | Brand Expansion AI | `personalized-growth-engines` | 19:04:58 | [`2ab2a97`](https://github.com/edwardnita/gtm-skill/tree/2ab2a97f9741c6a32217d30f82beb00a4c7e7acb) | [#20](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/20) |
 | ✅ | agentmarkup | `ai-search-optimization` | 19:03:45 | [`898916b`](https://github.com/cochinescu/agentmarkup-readiness-gap/tree/898916b1c838fd6128d83048245058a0bd4ea0f6) | [#19](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/19) |
 | ✅ | Saucefox | `personalized-growth-engines` | 18:57:52 | [`b3ac6ce`](https://github.com/Masterpuff77/gtm-skillathon-2026/tree/b3ac6cec6bd8553f6a93b073f54c97efb61f5155) | [#17](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/17) |
