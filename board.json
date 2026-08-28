@@ -1,15 +1,33 @@
 {
-  "generated_at": "2026-08-28T16:27:58.405Z",
+  "generated_at": "2026-08-28T16:29:47.049Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
     "accepted": 12,
-    "rejected": 1,
+    "rejected": 2,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Stock.estate",
+      "members": [
+        "Andrei Chirata",
+        "Andrei Lazureanu"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "chirataandrei/Geo-Citation-Engineer",
+      "repo_url": "https://github.com/chirataandrei/Geo-Citation-Engineer",
+      "sha": null,
+      "status": "rejected",
+      "issue": 38,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/38",
+      "submitted_at": "2026-08-28T16:29:33Z",
+      "attempts": 1,
+      "warnings": 1,
+      "slug": "chirataandrei-geo-citation-engineer"
+    },
     {
       "team": "Sergiu",
       "members": [
