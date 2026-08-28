@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:29:46.516Z",
+  "generated_at": "2026-08-28T17:29:52.836Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,24 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "publi22",
+      "members": [
+        "mogaeduard",
+        "hackatonnnnn"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "mogaeduard/gtm-skillathon",
+      "repo_url": "https://github.com/mogaeduard/gtm-skillathon",
+      "sha": "10bfa16695996c21c314e3cdce6ceb68d5bfa89d",
+      "status": "accepted",
+      "issue": 136,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/136",
+      "submitted_at": "2026-08-28T17:29:37Z",
+      "attempts": 11,
+      "warnings": 0,
+      "slug": "mogaeduard-gtm-skillathon"
+    },
     {
       "team": "Joe Bob's Hardware Supply",
       "members": [
@@ -321,24 +339,6 @@
       "attempts": 6,
       "warnings": 0,
       "slug": "the-sergiu-human-touch-copy-triage"
-    },
-    {
-      "team": "publi22",
-      "members": [
-        "mogaeduard",
-        "hackatonnnnn"
-      ],
-      "track": "personalized-growth-engines",
-      "repo": "mogaeduard/gtm-skillathon",
-      "repo_url": "https://github.com/mogaeduard/gtm-skillathon",
-      "sha": "0d981d0ecd7a0a676f6af0a18436e93fa74139b3",
-      "status": "accepted",
-      "issue": 106,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/106",
-      "submitted_at": "2026-08-28T17:19:29Z",
-      "attempts": 10,
-      "warnings": 0,
-      "slug": "mogaeduard-gtm-skillathon"
     },
     {
       "team": "Buyer Question Coverage",
