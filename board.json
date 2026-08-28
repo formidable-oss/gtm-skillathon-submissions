@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:14:51.307Z",
+  "generated_at": "2026-08-28T16:15:33.300Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,23 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "RefineForge",
+      "members": [
+        "Andrei Macarescu"
+      ],
+      "track": "custom",
+      "repo": "andrei14922/refineforge-skillathon",
+      "repo_url": "https://github.com/andrei14922/refineforge-skillathon",
+      "sha": "e1f80a5e48083feed667aa03f843987f88f401ad",
+      "status": "accepted",
+      "issue": 28,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/28",
+      "submitted_at": "2026-08-28T16:15:11Z",
+      "attempts": 2,
+      "warnings": 0,
+      "slug": "andrei14922-refineforge-skillathon"
+    },
     {
       "team": "Brand Expansion AI",
       "members": [
@@ -148,23 +165,6 @@
       "attempts": 1,
       "warnings": 0,
       "slug": "bucurenciu-cristian-gtm-skillathon-2026"
-    },
-    {
-      "team": "RefineForge",
-      "members": [
-        "Andrei Macarescu"
-      ],
-      "track": "custom",
-      "repo": "andrei14922/refineforge-skillathon",
-      "repo_url": "https://github.com/andrei14922/refineforge-skillathon",
-      "sha": "613bcf51db283058f8c6b7816a741c9017ae5dfc",
-      "status": "accepted",
-      "issue": 11,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/11",
-      "submitted_at": "2026-08-28T15:48:34Z",
-      "attempts": 1,
-      "warnings": 0,
-      "slug": "andrei14922-refineforge-skillathon"
     },
     {
       "team": "Claudiu Busuioc",
