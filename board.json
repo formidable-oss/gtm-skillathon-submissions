@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:14:25.593Z",
+  "generated_at": "2026-08-28T17:15:04.954Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,23 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "GTM agent graph with a bounded verification and repair loop",
+      "members": [
+        "Matei Oprea"
+      ],
+      "track": "multi-agent-orchestration",
+      "repo": "Matei-Oprea/gtm-graph",
+      "repo_url": "https://github.com/Matei-Oprea/gtm-graph",
+      "sha": "7940a8d2867284403e8a9ec03e61f3c50cefe755",
+      "status": "accepted",
+      "issue": 95,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/95",
+      "submitted_at": "2026-08-28T17:14:46Z",
+      "attempts": 2,
+      "warnings": 0,
+      "slug": "matei-oprea-gtm-graph"
+    },
     {
       "team": "publi22",
       "members": [
@@ -147,23 +164,6 @@
       "attempts": 2,
       "warnings": 0,
       "slug": "mmartinalexandru-pdp-answer-audit"
-    },
-    {
-      "team": "GTM Graph",
-      "members": [
-        "Matei Oprea"
-      ],
-      "track": "multi-agent-orchestration",
-      "repo": "Matei-Oprea/gtm-graph",
-      "repo_url": "https://github.com/Matei-Oprea/gtm-graph",
-      "sha": "12eb10f38a746bfd34582ace2216154e1268ce26",
-      "status": "accepted",
-      "issue": 84,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/84",
-      "submitted_at": "2026-08-28T17:09:24Z",
-      "attempts": 1,
-      "warnings": 0,
-      "slug": "matei-oprea-gtm-graph"
     },
     {
       "team": "GTM Competitive Matrix",

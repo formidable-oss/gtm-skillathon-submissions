@@ -1,11 +1,12 @@
 # Submissions board
 
-Updated 20:14:25 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 20:15:04 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
 **25 accepted** · 2 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
+| ✅ | GTM agent graph with a bounded verification and repair loop | `multi-agent-orchestration` | 20:14:46 | [`7940a8d`](https://github.com/Matei-Oprea/gtm-graph/tree/7940a8d2867284403e8a9ec03e61f3c50cefe755) | [#95](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/95) |
 | ✅ | publi22 | `personalized-growth-engines` | 20:14:05 | [`89584c8`](https://github.com/mogaeduard/gtm-skillathon/tree/89584c81e4e0573351012ce0c687426a1662a8e4) | [#94](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/94) |
 | ✅ | Sergiu | `custom` | 20:13:35 | [`5579c43`](https://github.com/the-sergiu/human-touch-copy-triage/tree/5579c43593bf35d555a06b6aba2ba6970fbfaea0) | [#93](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/93) |
 | ✅ | Andrei Radulescu | `ai-search-optimization` | 20:12:45 | [`8dd132a`](https://github.com/andiradulescu/gtm-skill-missing-answer/tree/8dd132a89f982c1fcaa4fdddbc7ae5685c558d77) | [#92](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/92) |
@@ -14,7 +15,6 @@ Updated 20:14:25 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 | ✅ | Signal Obscura | `personalized-growth-engines` | 20:09:43 | [`a3b608e`](https://github.com/TudorAndrei/gtm-skill/tree/a3b608ed36d2ceb85d9f41be3639dc1824bd69c7) | [#88](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/88) |
 | ✅ | Claudiu Busuioc | `personalized-growth-engines` | 20:09:36 | [`fb69868`](https://github.com/busuyoc/outreach-personalizer/tree/fb69868c39ba107ad825c2b4a887bbf46efc7856) | [#86](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/86) |
 | ✅ | Product Detailed Page Audit for eCommerce Websites | `ai-search-optimization` | 20:09:29 | [`0204b24`](https://github.com/mmartinalexandru/pdp-answer-audit/tree/0204b24ba70fbb400990100d24efaabb862a9aaa) | [#85](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/85) |
-| ✅ | GTM Graph | `multi-agent-orchestration` | 20:09:24 | [`12eb10f`](https://github.com/Matei-Oprea/gtm-graph/tree/12eb10f38a746bfd34582ace2216154e1268ce26) | [#84](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/84) |
 | ✅ | GTM Competitive Matrix | `custom` | 20:09:11 | [`de37f8f`](https://github.com/RobertaDiana/gtm-churn-signal-hunter/tree/de37f8fd8ce4f2c5cd896b9fd8cd4a8cc8087acd) | [#83](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/83) |
 | ✅ | Adrian Ciubotaru | `personalized-growth-engines` | 20:08:11 | [`3b0ac3f`](https://github.com/AdrianCiubotaru/human-touch-copy-triage/tree/3b0ac3f45f522eeb950fd0dd9ecf9b1c16934155) | [#82](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/82) |
 | ✅ | Saucefox | `personalized-growth-engines` | 20:05:45 | [`ed9c565`](https://github.com/Masterpuff77/gtm-skillathon-2026/tree/ed9c5654ee71893a9991295699af6bbffd12567e) | [#80](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/80) |
