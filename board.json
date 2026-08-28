@@ -1,15 +1,33 @@
 {
-  "generated_at": "2026-08-28T16:40:06.788Z",
+  "generated_at": "2026-08-28T16:42:05.755Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
-    "accepted": 15,
+    "accepted": 16,
     "rejected": 3,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "3DAPI",
+      "members": [
+        "Iacob Andrei Radu",
+        "Vasilescu Alexander Iulius"
+      ],
+      "track": "custom",
+      "repo": "crusadev/painkiller",
+      "repo_url": "https://github.com/crusadev/painkiller",
+      "sha": "0113e11b7fe9f62deb492151fe5ee56a3010d9e5",
+      "status": "accepted",
+      "issue": 51,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/51",
+      "submitted_at": "2026-08-28T16:41:50Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "crusadev-painkiller"
+    },
     {
       "team": "Granded",
       "members": [
