@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:01:31.471Z",
+  "generated_at": "2026-08-28T17:02:24.759Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,24 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "publi22",
+      "members": [
+        "mogaeduard",
+        "hackatonnnnn"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "mogaeduard/gtm-skillathon",
+      "repo_url": "https://github.com/mogaeduard/gtm-skillathon",
+      "sha": "2236e93cc42f3312d1ef4e077f8e94f0ab61b67d",
+      "status": "accepted",
+      "issue": 74,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/74",
+      "submitted_at": "2026-08-28T17:02:05Z",
+      "attempts": 6,
+      "warnings": 0,
+      "slug": "mogaeduard-gtm-skillathon"
+    },
     {
       "team": "Trovito",
       "members": [
@@ -61,24 +79,6 @@
       "attempts": 7,
       "warnings": 0,
       "slug": "cochinescu-agentmarkup-readiness-gap"
-    },
-    {
-      "team": "publi22",
-      "members": [
-        "mogaeduard",
-        "hackatonnnnn"
-      ],
-      "track": "personalized-growth-engines",
-      "repo": "mogaeduard/gtm-skillathon",
-      "repo_url": "https://github.com/mogaeduard/gtm-skillathon",
-      "sha": "b74c136de8ba0384a1e6160355265ab41beeb0da",
-      "status": "accepted",
-      "issue": 70,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/70",
-      "submitted_at": "2026-08-28T16:59:42Z",
-      "attempts": 5,
-      "warnings": 0,
-      "slug": "mogaeduard-gtm-skillathon"
     },
     {
       "team": "Andrei Radulescu",
