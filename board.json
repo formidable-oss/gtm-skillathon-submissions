@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:04:18.450Z",
+  "generated_at": "2026-08-28T17:05:11.136Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,24 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "3DAPI",
+      "members": [
+        "Iacob Andrei Radu",
+        "Vasilescu Alexander Iulius"
+      ],
+      "track": "custom",
+      "repo": "crusadev/painkiller",
+      "repo_url": "https://github.com/crusadev/painkiller",
+      "sha": "5c9fdf36cfeda5bf3bd10f51a1c0ae88b21af81a",
+      "status": "accepted",
+      "issue": 78,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/78",
+      "submitted_at": "2026-08-28T17:04:55Z",
+      "attempts": 5,
+      "warnings": 0,
+      "slug": "crusadev-painkiller"
+    },
     {
       "team": "GTM Competitive Matrix",
       "members": [
@@ -183,24 +201,6 @@
       "attempts": 2,
       "warnings": 0,
       "slug": "bcksl-roadmap-vulture"
-    },
-    {
-      "team": "3DAPI",
-      "members": [
-        "Iacob Andrei Radu",
-        "Vasilescu Alexander Iulius"
-      ],
-      "track": "custom",
-      "repo": "crusadev/painkiller",
-      "repo_url": "https://github.com/crusadev/painkiller",
-      "sha": "d88ae0c2b84467a9d6556f20c9e4883ed4517fcf",
-      "status": "accepted",
-      "issue": 64,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/64",
-      "submitted_at": "2026-08-28T16:53:39Z",
-      "attempts": 4,
-      "warnings": 0,
-      "slug": "crusadev-painkiller"
     },
     {
       "team": "Signal Obscura",
