@@ -1,11 +1,12 @@
 # Submissions board
 
-Updated 19:45:39 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 19:46:04 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
 **17 accepted** · 2 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
+| ✅ | Peak AI | `synthetic-buyer-simulations` | 19:45:43 | [`ff5101f`](https://github.com/DanStinga/peak-ai-buyer-proof-gap/tree/ff5101f54cd60d7b7520e7294837122741ce8f31) | [#55](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/55) |
 | ✅ | agentmarkup | `ai-search-optimization` | 19:45:08 | [`5d4abd4`](https://github.com/cochinescu/agentmarkup-readiness-gap/tree/5d4abd4ac9f6405042c82b19e12e5e21948363e7) | [#54](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/54) |
 | ✅ | Granded | `ai-search-optimization` | 19:44:11 | [`4dd4c0b`](https://github.com/andreilazu/GTM-skillathon/tree/4dd4c0bc540c5f6f7ecda14440217b7cee29c33a) | [#53](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/53) |
 | ✅ | 3DAPI | `custom` | 19:43:35 | [`16263c3`](https://github.com/crusadev/painkiller/tree/16263c34e9afb5362e737196a338e9c32b606fb3) | [#52](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/52) |
@@ -13,7 +14,6 @@ Updated 19:45:39 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 | ✅ | RefineForge | `custom` | 19:34:55 | [`890cdb4`](https://github.com/andrei14922/refineforge-skillathon/tree/890cdb4fc7b6ca675dd6b5b01c5cb924affceb77) | [#48](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/48) |
 | ✅ | Fix Everywhere | `custom` | 19:34:51 | [`8147d0a`](https://github.com/rest-artt/skillathon-fix-everything/tree/8147d0a57e9014ffb3d5985a4f9838168132d85e) | [#47](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/47) |
 | ✅ | Joe Bob's Hardware Supply | `custom` | 19:34:35 | [`c6ca35b`](https://github.com/bcksl/roadmap-vulture/tree/c6ca35ba7d61e0a0f7ecd62fd293d585b837f1f5) | [#46](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/46) |
-| ✅ | Peak AI | `synthetic-buyer-simulations` | 19:33:12 | [`7e4db3f`](https://github.com/DanStinga/peak-ai-buyer-proof-gap/tree/7e4db3f2f5c6a4b5766c228b9ee33929fbd64eb1) | [#45](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/45) |
 | ✅ | Tender Radar | `custom` | 19:32:38 | [`37717fd`](https://github.com/edwardnita/gtm-skill/tree/37717fd1076f98fa36ec8111dc79f77f771fbbf2) | [#44](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/44) |
 | ✅ | publi22 | `personalized-growth-engines` | 19:32:38 | [`5b1fe66`](https://github.com/mogaeduard/gtm-skillathon/tree/5b1fe6690c53836a231dc8d7a5b10c623bba723f) | [#43](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/43) |
 | ✅ | Low-Medium PLG | `plg-automation` | 19:31:30 | [`de84d6c`](https://github.com/AndreiChiscaru/gtm-signup-friction-scorer/tree/de84d6c9b5af4cfed7f6f7204ac24629bd32b5f1) | [#42](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/42) |
