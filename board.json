@@ -1,15 +1,32 @@
 {
-  "generated_at": "2026-08-28T16:55:00.488Z",
+  "generated_at": "2026-08-28T16:58:00.915Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
-    "accepted": 19,
+    "accepted": 20,
     "rejected": 2,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "turbo-larping",
+      "members": [
+        "Tiberiu Rosu"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "Beriu/gtm-skillathon",
+      "repo_url": "https://github.com/Beriu/gtm-skillathon",
+      "sha": "560c13932fcbea2ab884dcd08eff4077c3a67dbb",
+      "status": "accepted",
+      "issue": 67,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/67",
+      "submitted_at": "2026-08-28T16:57:43Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "beriu-gtm-skillathon"
+    },
     {
       "team": "publi22",
       "members": [
