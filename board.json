@@ -1,15 +1,32 @@
 {
-  "generated_at": "2026-08-28T15:48:15.514Z",
+  "generated_at": "2026-08-28T15:48:51.636Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
-    "accepted": 4,
+    "accepted": 5,
     "rejected": 0,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "RefineForge",
+      "members": [
+        "Andrei Macarescu"
+      ],
+      "track": "custom",
+      "repo": "andrei14922/refineforge-skillathon",
+      "repo_url": "https://github.com/andrei14922/refineforge-skillathon",
+      "sha": "613bcf51db283058f8c6b7816a741c9017ae5dfc",
+      "status": "accepted",
+      "issue": 11,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/11",
+      "submitted_at": "2026-08-28T15:48:34Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "andrei14922-refineforge-skillathon"
+    },
     {
       "team": "Tender Radar",
       "members": [
