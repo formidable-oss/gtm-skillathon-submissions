@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:35:15.055Z",
+  "generated_at": "2026-08-28T16:37:09.358Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,23 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Daniel Stanciulescu",
+      "members": [
+        "Daniel Stanciulescu"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "daniel-stanciulescu/gtm-skillathon",
+      "repo_url": "https://github.com/daniel-stanciulescu/gtm-skillathon",
+      "sha": "1aad70c15f4debd8b11b7ee08208a245dda9404d",
+      "status": "accepted",
+      "issue": 49,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/49",
+      "submitted_at": "2026-08-28T16:36:49Z",
+      "attempts": 4,
+      "warnings": 0,
+      "slug": "daniel-stanciulescu-gtm-skillathon"
+    },
     {
       "team": "RefineForge",
       "members": [
@@ -184,23 +201,6 @@
       "attempts": 8,
       "warnings": 0,
       "slug": "robertadiana-gtm-churn-signal-hunter"
-    },
-    {
-      "team": "Daniel Stanciulescu",
-      "members": [
-        "Daniel Stanciulescu"
-      ],
-      "track": "personalized-growth-engines",
-      "repo": "daniel-stanciulescu/gtm-skillathon",
-      "repo_url": "https://github.com/daniel-stanciulescu/gtm-skillathon",
-      "sha": "a2a1eb18bd7e603133e2f2e6e51edcb22a7dfa28",
-      "status": "accepted",
-      "issue": 33,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/33",
-      "submitted_at": "2026-08-28T16:22:51Z",
-      "attempts": 3,
-      "warnings": 0,
-      "slug": "daniel-stanciulescu-gtm-skillathon"
     },
     {
       "team": "Claudiu Busuioc",
