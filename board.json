@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:48:11.329Z",
+  "generated_at": "2026-08-28T16:49:06.632Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,24 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "GTM Competitive Matrix",
+      "members": [
+        "Micu Roberta",
+        "Despina Mihaela"
+      ],
+      "track": "custom",
+      "repo": "RobertaDiana/gtm-churn-signal-hunter",
+      "repo_url": "https://github.com/RobertaDiana/gtm-churn-signal-hunter",
+      "sha": "7959eae877ec819958d15e282b52575e85380a7d",
+      "status": "accepted",
+      "issue": 58,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/58",
+      "submitted_at": "2026-08-28T16:48:49Z",
+      "attempts": 9,
+      "warnings": 0,
+      "slug": "robertadiana-gtm-churn-signal-hunter"
+    },
     {
       "team": "Signal Forge",
       "members": [
@@ -272,24 +290,6 @@
       "attempts": 1,
       "warnings": 1,
       "slug": "chirataandrei-geo-citation-engineer"
-    },
-    {
-      "team": "GTM Competitive Matrix",
-      "members": [
-        "Micu Roberta",
-        "Despina Mihaela"
-      ],
-      "track": "custom",
-      "repo": "RobertaDiana/gtm-churn-signal-hunter",
-      "repo_url": "https://github.com/RobertaDiana/gtm-churn-signal-hunter",
-      "sha": "8de3fa8ae502700f1935c95a4785349abc0d38b0",
-      "status": "accepted",
-      "issue": 35,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/35",
-      "submitted_at": "2026-08-28T16:24:00Z",
-      "attempts": 8,
-      "warnings": 0,
-      "slug": "robertadiana-gtm-churn-signal-hunter"
     },
     {
       "team": "Claudiu Busuioc",
