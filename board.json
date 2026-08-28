@@ -1,15 +1,32 @@
 {
-  "generated_at": "2026-08-28T17:19:14.563Z",
+  "generated_at": "2026-08-28T17:19:37.029Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
-    "accepted": 26,
+    "accepted": 27,
     "rejected": 2,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Brand Expansion AI",
+      "members": [
+        "Radu"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "raduqq/ecomm-geo-expansion-judge",
+      "repo_url": "https://github.com/raduqq/ecomm-geo-expansion-judge",
+      "sha": "a38cf1af1a04c759a2bc20f2e0f686f13d6a710b",
+      "status": "accepted",
+      "issue": 104,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/104",
+      "submitted_at": "2026-08-28T17:19:24Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "raduqq-ecomm-geo-expansion-judge"
+    },
     {
       "team": "Product Detailed Page Audit for eCommerce Websites",
       "members": [
