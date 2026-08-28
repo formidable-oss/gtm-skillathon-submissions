@@ -1,11 +1,12 @@
 # Submissions board
 
-Updated 20:26:04 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 20:26:10 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
 **32 accepted** · 3 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
+| ✅ | Missing Answer | `ai-search-optimization` | 20:25:51 | [`fbf151e`](https://github.com/andiradulescu/gtm-skill-missing-answer/tree/fbf151ed20828b862212d5342d7b81baf1e5d0bf) | [#123](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/123) |
 | ✅ | agentmarkup | `ai-search-optimization` | 20:25:51 | [`702a94d`](https://github.com/cochinescu/agentmarkup-readiness-gap/tree/702a94d31d61e4a6ff86bc73f1534737c048505a) | [#122](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/122) |
 | ✅ | GTM OS | `ai-search-optimization` | 20:25:47 | [`15c8ec7`](https://github.com/teopaleface/gtm-os/tree/15c8ec7b078d47a611a51c58fc374239c9bce430) | [#121](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/121) |
 | ✅ | Amir Mohammadi | `custom` | 20:24:26 | [`2ddd7bc`](https://github.com/ammiiir1/trigger-moment-miner/tree/2ddd7bc74a65283605b0e82516b448e23683a37a) | [#120](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/120) |
@@ -24,7 +25,6 @@ Updated 20:26:04 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 | ✅ | publi22 | `personalized-growth-engines` | 20:19:29 | [`0d981d0`](https://github.com/mogaeduard/gtm-skillathon/tree/0d981d0ecd7a0a676f6af0a18436e93fa74139b3) | [#106](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/106) |
 | ✅ | Buyer Question Coverage | `ai-search-optimization` | 20:19:28 | [`357b4ef`](https://github.com/MZir0-0/gtm-skillathon-2026/tree/357b4ef604c35ca8f845b3d9ac239088578bf881) | [#105](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/105) |
 | ✅ | Brand Expansion AI | `personalized-growth-engines` | 20:19:24 | [`a38cf1a`](https://github.com/raduqq/ecomm-geo-expansion-judge/tree/a38cf1af1a04c759a2bc20f2e0f686f13d6a710b) | [#104](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/104) |
-| ✅ | Andrei Radulescu | `ai-search-optimization` | 20:16:35 | [`35961c7`](https://github.com/andiradulescu/gtm-skill-missing-answer/tree/35961c79290248e3b6da5eea7e032713fc926499) | [#97](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/97) |
 | ✅ | GTM agent graph with a bounded verification and repair loop | `multi-agent-orchestration` | 20:14:46 | [`7940a8d`](https://github.com/Matei-Oprea/gtm-graph/tree/7940a8d2867284403e8a9ec03e61f3c50cefe755) | [#95](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/95) |
 | ✅ | Tender Radar | `custom` | 20:12:06 | [`e0be4d4`](https://github.com/edwardnita/gtm-skill/tree/e0be4d4b2206007206d5359d6b35c0171130f86e) | [#91](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/91) |
 | ✅ | Peak AI | `synthetic-buyer-simulations` | 20:11:25 | [`8ff4e17`](https://github.com/DanStinga/peak-ai-buyer-proof-gap/tree/8ff4e17777f45329612c1bc69efcd0b5e4bfddbd) | [#90](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/90) |

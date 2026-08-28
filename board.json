@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:26:04.331Z",
+  "generated_at": "2026-08-28T17:26:10.778Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,23 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Missing Answer",
+      "members": [
+        "Andrei Radulescu"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "andiradulescu/gtm-skill-missing-answer",
+      "repo_url": "https://github.com/andiradulescu/gtm-skill-missing-answer",
+      "sha": "fbf151ed20828b862212d5342d7b81baf1e5d0bf",
+      "status": "accepted",
+      "issue": 123,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/123",
+      "submitted_at": "2026-08-28T17:25:51Z",
+      "attempts": 5,
+      "warnings": 0,
+      "slug": "andiradulescu-gtm-skill-missing-answer"
+    },
     {
       "team": "agentmarkup",
       "members": [
@@ -321,23 +338,6 @@
       "attempts": 1,
       "warnings": 0,
       "slug": "raduqq-ecomm-geo-expansion-judge"
-    },
-    {
-      "team": "Andrei Radulescu",
-      "members": [
-        "Andrei Radulescu"
-      ],
-      "track": "ai-search-optimization",
-      "repo": "andiradulescu/gtm-skill-missing-answer",
-      "repo_url": "https://github.com/andiradulescu/gtm-skill-missing-answer",
-      "sha": "35961c79290248e3b6da5eea7e032713fc926499",
-      "status": "accepted",
-      "issue": 97,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/97",
-      "submitted_at": "2026-08-28T17:16:35Z",
-      "attempts": 4,
-      "warnings": 0,
-      "slug": "andiradulescu-gtm-skill-missing-answer"
     },
     {
       "team": "GTM agent graph with a bounded verification and repair loop",
