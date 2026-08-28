@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:09:53.169Z",
+  "generated_at": "2026-08-28T17:09:58.955Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,24 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Signal Obscura",
+      "members": [
+        "Stefan Stoica",
+        "Tudor-Andrei Dumitrascu"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "TudorAndrei/gtm-skill",
+      "repo_url": "https://github.com/TudorAndrei/gtm-skill",
+      "sha": "a3b608ed36d2ceb85d9f41be3639dc1824bd69c7",
+      "status": "accepted",
+      "issue": 88,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/88",
+      "submitted_at": "2026-08-28T17:09:43Z",
+      "attempts": 2,
+      "warnings": 0,
+      "slug": "tudorandrei-gtm-skill"
+    },
     {
       "team": "publi22",
       "members": [
@@ -269,24 +287,6 @@
       "attempts": 2,
       "warnings": 0,
       "slug": "bcksl-roadmap-vulture"
-    },
-    {
-      "team": "Signal Obscura",
-      "members": [
-        "Stefan Stoica",
-        "Tudor-Andrei Dumitrascu"
-      ],
-      "track": "personalized-growth-engines",
-      "repo": "TudorAndrei/gtm-skill",
-      "repo_url": "https://github.com/TudorAndrei/gtm-skill",
-      "sha": "732766159883e09146b3dacd62831b6a26e1600f",
-      "status": "accepted",
-      "issue": 61,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/61",
-      "submitted_at": "2026-08-28T16:51:01Z",
-      "attempts": 1,
-      "warnings": 0,
-      "slug": "tudorandrei-gtm-skill"
     },
     {
       "team": "Signal Forge",
