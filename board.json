@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-08-27T15:23:12.713Z",
+  "generated_at": "2026-08-28T15:12:25.870Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
-    "accepted": 0,
+    "accepted": 1,
     "rejected": 0,
     "dry-run": 0,
     "late": 0
   },
-  "submissions": []
+  "submissions": [
+    {
+      "team": "agentmarkup",
+      "members": [
+        "cochinescu",
+        "pax-k"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "cochinescu/agentmarkup-readiness-gap",
+      "repo_url": "https://github.com/cochinescu/agentmarkup-readiness-gap",
+      "sha": "9db81e76bd5e97bbc2a74fbf6f6822ddc6841057",
+      "status": "accepted",
+      "issue": 4,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/4",
+      "submitted_at": "2026-08-28T15:12:09Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "cochinescu-agentmarkup-readiness-gap"
+    }
+  ]
 }
