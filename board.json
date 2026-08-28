@@ -1,15 +1,32 @@
 {
-  "generated_at": "2026-08-28T17:22:16.514Z",
+  "generated_at": "2026-08-28T17:22:47.041Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
     "accepted": 29,
-    "rejected": 2,
+    "rejected": 3,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "OutThink GTM",
+      "members": [
+        "ovidiupopeti"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "ovidiupopeti/GTM-skill",
+      "repo_url": "https://github.com/ovidiupopeti/GTM-skill",
+      "sha": null,
+      "status": "rejected",
+      "issue": 114,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/114",
+      "submitted_at": "2026-08-28T17:22:27Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "ovidiupopeti-gtm-skill"
+    },
     {
       "team": "ArminSHaf",
       "members": [
