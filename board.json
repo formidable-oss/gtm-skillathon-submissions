@@ -1,15 +1,32 @@
 {
-  "generated_at": "2026-08-28T16:59:18.061Z",
+  "generated_at": "2026-08-28T16:59:56.588Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
-    "accepted": 21,
+    "accepted": 22,
     "rejected": 2,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Andrei Radulescu",
+      "members": [
+        "Andrei Radulescu"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "andiradulescu/gtm-skill-missing-answer",
+      "repo_url": "https://github.com/andiradulescu/gtm-skill-missing-answer",
+      "sha": "9303c44b2c6e121243f9c79c22bda4dc6c60a42e",
+      "status": "accepted",
+      "issue": 69,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/69",
+      "submitted_at": "2026-08-28T16:59:41Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "andiradulescu-gtm-skill-missing-answer"
+    },
     {
       "team": "Martin",
       "members": [
