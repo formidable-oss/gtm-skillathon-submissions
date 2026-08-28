@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T15:58:11.421Z",
+  "generated_at": "2026-08-28T16:03:13.131Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,24 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Tender Radar",
+      "members": [
+        "Eduard Nita",
+        "Radu Minea"
+      ],
+      "track": "custom",
+      "repo": "edwardnita/gtm-skill",
+      "repo_url": "https://github.com/edwardnita/gtm-skill",
+      "sha": "ede16c180e9fb08f7cedfa207e21f76756b6ead3",
+      "status": "accepted",
+      "issue": 18,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/18",
+      "submitted_at": "2026-08-28T16:02:54Z",
+      "attempts": 2,
+      "warnings": 0,
+      "slug": "edwardnita-gtm-skill"
+    },
     {
       "team": "Saucefox",
       "members": [
@@ -112,24 +130,6 @@
       "attempts": 1,
       "warnings": 0,
       "slug": "andrei14922-refineforge-skillathon"
-    },
-    {
-      "team": "Tender Radar",
-      "members": [
-        "Eduard Nita",
-        "Radu Minea"
-      ],
-      "track": "custom",
-      "repo": "edwardnita/gtm-skill",
-      "repo_url": "https://github.com/edwardnita/gtm-skill",
-      "sha": "cf9e29a03c28d990a1cbc17df4f0894fa30ab3d7",
-      "status": "accepted",
-      "issue": 10,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/10",
-      "submitted_at": "2026-08-28T15:47:55Z",
-      "attempts": 1,
-      "warnings": 0,
-      "slug": "edwardnita-gtm-skill"
     },
     {
       "team": "Claudiu Busuioc",
