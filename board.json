@@ -1,15 +1,32 @@
 {
-  "generated_at": "2026-08-28T17:24:10.400Z",
+  "generated_at": "2026-08-28T17:24:46.928Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
-    "accepted": 31,
+    "accepted": 32,
     "rejected": 3,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Amir Mohammadi",
+      "members": [
+        "Amir Mohammadi"
+      ],
+      "track": "custom",
+      "repo": "ammiiir1/trigger-moment-miner",
+      "repo_url": "https://github.com/ammiiir1/trigger-moment-miner",
+      "sha": "2ddd7bc74a65283605b0e82516b448e23683a37a",
+      "status": "accepted",
+      "issue": 120,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/120",
+      "submitted_at": "2026-08-28T17:24:26Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "ammiiir1-trigger-moment-miner"
+    },
     {
       "team": "Claudiu Busuioc",
       "members": [

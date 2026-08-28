@@ -1,11 +1,12 @@
 # Submissions board
 
-Updated 20:24:10 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 20:24:46 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
-**31 accepted** · 3 need a fix · 0 dry runs · 0 late
+**32 accepted** · 3 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
+| ✅ | Amir Mohammadi | `custom` | 20:24:26 | [`2ddd7bc`](https://github.com/ammiiir1/trigger-moment-miner/tree/2ddd7bc74a65283605b0e82516b448e23683a37a) | [#120](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/120) |
 | ✅ | Claudiu Busuioc | `personalized-growth-engines` | 20:23:50 | [`a6b98c5`](https://github.com/busuyoc/outreach-personalizer/tree/a6b98c5acb24b117a482f1f369fd84c3b2de9780) | [#119](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/119) |
 | ✅ | Skill Find a Client | `personalized-growth-engines` | 20:23:41 | [`c077aca`](https://github.com/AlinDev/skill-find-a-client/tree/c077aca527bb44a705a267b7d2c674964e37a7a6) | [#118](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/118) |
 | ✅ | GTM Competitive Matrix | `custom` | 20:23:29 | [`f696a63`](https://github.com/RobertaDiana/gtm-churn-signal-hunter/tree/f696a638107cc97af69ba72f01becd0da3bdbea8) | [#117](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/117) |
