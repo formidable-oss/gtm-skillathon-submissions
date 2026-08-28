@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:13:55.989Z",
+  "generated_at": "2026-08-28T17:14:25.593Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,24 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "publi22",
+      "members": [
+        "mogaeduard",
+        "hackatonnnnn"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "mogaeduard/gtm-skillathon",
+      "repo_url": "https://github.com/mogaeduard/gtm-skillathon",
+      "sha": "89584c81e4e0573351012ce0c687426a1662a8e4",
+      "status": "accepted",
+      "issue": 94,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/94",
+      "submitted_at": "2026-08-28T17:14:05Z",
+      "attempts": 9,
+      "warnings": 0,
+      "slug": "mogaeduard-gtm-skillathon"
+    },
     {
       "team": "Sergiu",
       "members": [
@@ -95,24 +113,6 @@
       "attempts": 2,
       "warnings": 0,
       "slug": "tudorandrei-gtm-skill"
-    },
-    {
-      "team": "publi22",
-      "members": [
-        "mogaeduard",
-        "hackatonnnnn"
-      ],
-      "track": "personalized-growth-engines",
-      "repo": "mogaeduard/gtm-skillathon",
-      "repo_url": "https://github.com/mogaeduard/gtm-skillathon",
-      "sha": "24702d0f4f3f02ef677f81568ffba0538ff7efad",
-      "status": "accepted",
-      "issue": 87,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/87",
-      "submitted_at": "2026-08-28T17:09:36Z",
-      "attempts": 8,
-      "warnings": 0,
-      "slug": "mogaeduard-gtm-skillathon"
     },
     {
       "team": "Claudiu Busuioc",
