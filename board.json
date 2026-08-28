@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:03:13.131Z",
+  "generated_at": "2026-08-28T16:04:06.288Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,24 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "agentmarkup",
+      "members": [
+        "cochinescu",
+        "pax-k"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "cochinescu/agentmarkup-readiness-gap",
+      "repo_url": "https://github.com/cochinescu/agentmarkup-readiness-gap",
+      "sha": "898916b1c838fd6128d83048245058a0bd4ea0f6",
+      "status": "accepted",
+      "issue": 19,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/19",
+      "submitted_at": "2026-08-28T16:03:45Z",
+      "attempts": 5,
+      "warnings": 0,
+      "slug": "cochinescu-agentmarkup-readiness-gap"
+    },
     {
       "team": "Tender Radar",
       "members": [
@@ -95,24 +113,6 @@
       "attempts": 1,
       "warnings": 0,
       "slug": "bucurenciu-cristian-gtm-skillathon-2026"
-    },
-    {
-      "team": "agentmarkup",
-      "members": [
-        "cochinescu",
-        "pax-k"
-      ],
-      "track": "ai-search-optimization",
-      "repo": "cochinescu/agentmarkup-readiness-gap",
-      "repo_url": "https://github.com/cochinescu/agentmarkup-readiness-gap",
-      "sha": "a18dfae16f813cbe76f73adb511ae7e16a9e1e27",
-      "status": "accepted",
-      "issue": 12,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/12",
-      "submitted_at": "2026-08-28T15:50:11Z",
-      "attempts": 4,
-      "warnings": 0,
-      "slug": "cochinescu-agentmarkup-readiness-gap"
     },
     {
       "team": "RefineForge",
