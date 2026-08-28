@@ -1,15 +1,32 @@
 {
-  "generated_at": "2026-08-28T17:26:17.042Z",
+  "generated_at": "2026-08-28T17:26:39.331Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
-    "accepted": 32,
-    "rejected": 3,
+    "accepted": 33,
+    "rejected": 2,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "OutThink GTM",
+      "members": [
+        "ovidiupopeti"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "ovidiupopeti/GTM-skill",
+      "repo_url": "https://github.com/ovidiupopeti/GTM-skill",
+      "sha": "ce4422243175fccd7cd779ad72746560e7ade69a",
+      "status": "accepted",
+      "issue": 125,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/125",
+      "submitted_at": "2026-08-28T17:26:23Z",
+      "attempts": 2,
+      "warnings": 0,
+      "slug": "ovidiupopeti-gtm-skill"
+    },
     {
       "team": "Missing Answer",
       "members": [
@@ -20,10 +37,10 @@
       "repo_url": "https://github.com/andiradulescu/gtm-skill-missing-answer",
       "sha": "fbf151ed20828b862212d5342d7b81baf1e5d0bf",
       "status": "accepted",
-      "issue": 123,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/123",
-      "submitted_at": "2026-08-28T17:25:51Z",
-      "attempts": 5,
+      "issue": 124,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/124",
+      "submitted_at": "2026-08-28T17:26:23Z",
+      "attempts": 6,
       "warnings": 0,
       "slug": "andiradulescu-gtm-skill-missing-answer"
     },
@@ -164,23 +181,6 @@
       "attempts": 1,
       "warnings": 0,
       "slug": "kojuhariroman-gtm-skillathon-2026"
-    },
-    {
-      "team": "OutThink GTM",
-      "members": [
-        "ovidiupopeti"
-      ],
-      "track": "personalized-growth-engines",
-      "repo": "ovidiupopeti/GTM-skill",
-      "repo_url": "https://github.com/ovidiupopeti/GTM-skill",
-      "sha": null,
-      "status": "rejected",
-      "issue": 114,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/114",
-      "submitted_at": "2026-08-28T17:22:27Z",
-      "attempts": 1,
-      "warnings": 0,
-      "slug": "ovidiupopeti-gtm-skill"
     },
     {
       "team": "ArminSHaf",

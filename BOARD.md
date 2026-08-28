@@ -1,12 +1,13 @@
 # Submissions board
 
-Updated 20:26:17 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 20:26:39 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
-**32 accepted** · 3 need a fix · 0 dry runs · 0 late
+**33 accepted** · 2 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
-| ✅ | Missing Answer | `ai-search-optimization` | 20:25:51 | [`fbf151e`](https://github.com/andiradulescu/gtm-skill-missing-answer/tree/fbf151ed20828b862212d5342d7b81baf1e5d0bf) | [#123](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/123) |
+| ✅ | OutThink GTM | `personalized-growth-engines` | 20:26:23 | [`ce44222`](https://github.com/ovidiupopeti/GTM-skill/tree/ce4422243175fccd7cd779ad72746560e7ade69a) | [#125](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/125) |
+| ✅ | Missing Answer | `ai-search-optimization` | 20:26:23 | [`fbf151e`](https://github.com/andiradulescu/gtm-skill-missing-answer/tree/fbf151ed20828b862212d5342d7b81baf1e5d0bf) | [#124](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/124) |
 | ✅ | agentmarkup | `ai-search-optimization` | 20:25:51 | [`702a94d`](https://github.com/cochinescu/agentmarkup-readiness-gap/tree/702a94d31d61e4a6ff86bc73f1534737c048505a) | [#122](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/122) |
 | ✅ | GTM OS | `ai-search-optimization` | 20:25:47 | [`15c8ec7`](https://github.com/teopaleface/gtm-os/tree/15c8ec7b078d47a611a51c58fc374239c9bce430) | [#121](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/121) |
 | ✅ | Amir Mohammadi | `custom` | 20:24:26 | [`2ddd7bc`](https://github.com/ammiiir1/trigger-moment-miner/tree/2ddd7bc74a65283605b0e82516b448e23683a37a) | [#120](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/120) |
@@ -15,7 +16,6 @@ Updated 20:26:17 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 | ✅ | GTM Competitive Matrix | `custom` | 20:23:29 | [`f696a63`](https://github.com/RobertaDiana/gtm-churn-signal-hunter/tree/f696a638107cc97af69ba72f01becd0da3bdbea8) | [#117](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/117) |
 | ✅ | Product Detailed Page Audit for eCommerce Websites | `ai-search-optimization` | 20:23:26 | [`3784cdd`](https://github.com/mmartinalexandru/pdp-answer-audit/tree/3784cdd05e76abf64d87a707829e5ab15a050ca2) | [#116](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/116) |
 | ✅ | KojuhariRoman | `ai-search-optimization` | 20:23:21 | [`35fde84`](https://github.com/KojuhariRoman/gtm-skillathon-2026/tree/35fde84dd9457c47a4539db2981533dc958475a5) | [#115](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/115) |
-| ❌ | OutThink GTM | `personalized-growth-engines` | 20:22:27 | — | [#114](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/114) |
 | ✅ | ArminSHaf | `custom` | 20:21:59 | [`795f419`](https://github.com/ArminSHaf/gtm-skillathon-account-research/tree/795f419c2c88fe7e1ec3f6a8232de1b72a632a51) | [#113](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/113) |
 | ✅ | american dream | `custom` | 20:21:30 | [`b911f74`](https://github.com/zamqq/americandream-team/tree/b911f74a7f317a34d3e87469e6af6ec9c115571f) | [#111](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/111) |
 | ✅ | 3DAPI | `custom` | 20:20:23 | [`f554586`](https://github.com/crusadev/painkiller/tree/f554586eae7447ccac3c893e957d18eca9a783dd) | [#110](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/110) |
