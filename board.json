@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:24:03.112Z",
+  "generated_at": "2026-08-28T17:24:10.400Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,23 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Claudiu Busuioc",
+      "members": [
+        "Claudiu Busuioc"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "busuyoc/outreach-personalizer",
+      "repo_url": "https://github.com/busuyoc/outreach-personalizer",
+      "sha": "a6b98c5acb24b117a482f1f369fd84c3b2de9780",
+      "status": "accepted",
+      "issue": 119,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/119",
+      "submitted_at": "2026-08-28T17:23:50Z",
+      "attempts": 5,
+      "warnings": 0,
+      "slug": "busuyoc-outreach-personalizer"
+    },
     {
       "team": "Skill Find a Client",
       "members": [
@@ -356,23 +373,6 @@
       "attempts": 2,
       "warnings": 0,
       "slug": "tudorandrei-gtm-skill"
-    },
-    {
-      "team": "Claudiu Busuioc",
-      "members": [
-        "Claudiu Busuioc"
-      ],
-      "track": "personalized-growth-engines",
-      "repo": "busuyoc/outreach-personalizer",
-      "repo_url": "https://github.com/busuyoc/outreach-personalizer",
-      "sha": "fb69868c39ba107ad825c2b4a887bbf46efc7856",
-      "status": "accepted",
-      "issue": 86,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/86",
-      "submitted_at": "2026-08-28T17:09:36Z",
-      "attempts": 4,
-      "warnings": 0,
-      "slug": "busuyoc-outreach-personalizer"
     },
     {
       "team": "Adrian Ciubotaru",
