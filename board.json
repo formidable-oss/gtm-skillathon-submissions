@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:29:47.049Z",
+  "generated_at": "2026-08-28T16:29:56.694Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,23 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Sergiu",
+      "members": [
+        "Sergiu Craioveanu"
+      ],
+      "track": "custom",
+      "repo": "the-sergiu/human-touch-copy-triage",
+      "repo_url": "https://github.com/the-sergiu/human-touch-copy-triage",
+      "sha": "08953b61fc76562fa5381f359a84397a7495c9db",
+      "status": "accepted",
+      "issue": 39,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/39",
+      "submitted_at": "2026-08-28T16:29:38Z",
+      "attempts": 3,
+      "warnings": 0,
+      "slug": "the-sergiu-human-touch-copy-triage"
+    },
     {
       "team": "Stock.estate",
       "members": [
@@ -27,23 +44,6 @@
       "attempts": 1,
       "warnings": 1,
       "slug": "chirataandrei-geo-citation-engineer"
-    },
-    {
-      "team": "Sergiu",
-      "members": [
-        "Sergiu Craioveanu"
-      ],
-      "track": "custom",
-      "repo": "the-sergiu/human-touch-copy-triage",
-      "repo_url": "https://github.com/the-sergiu/human-touch-copy-triage",
-      "sha": "af764f7c11be21d70fd1d795e77a5547ee326669",
-      "status": "accepted",
-      "issue": 37,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/37",
-      "submitted_at": "2026-08-28T16:27:35Z",
-      "attempts": 2,
-      "warnings": 0,
-      "slug": "the-sergiu-human-touch-copy-triage"
     },
     {
       "team": "GTM Competitive Matrix",
