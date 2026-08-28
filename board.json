@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:11:02.535Z",
+  "generated_at": "2026-08-28T17:11:45.550Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,23 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Peak AI",
+      "members": [
+        "Dan Stinga"
+      ],
+      "track": "synthetic-buyer-simulations",
+      "repo": "DanStinga/peak-ai-buyer-proof-gap",
+      "repo_url": "https://github.com/DanStinga/peak-ai-buyer-proof-gap",
+      "sha": "8ff4e17777f45329612c1bc69efcd0b5e4bfddbd",
+      "status": "accepted",
+      "issue": 90,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/90",
+      "submitted_at": "2026-08-28T17:11:25Z",
+      "attempts": 4,
+      "warnings": 0,
+      "slug": "danstinga-peak-ai-buyer-proof-gap"
+    },
     {
       "team": "Tender Radar",
       "members": [
@@ -322,23 +339,6 @@
       "attempts": 2,
       "warnings": 0,
       "slug": "bucurenciu-cristian-gtm-skillathon-2026"
-    },
-    {
-      "team": "Peak AI",
-      "members": [
-        "Dan Stinga"
-      ],
-      "track": "synthetic-buyer-simulations",
-      "repo": "DanStinga/peak-ai-buyer-proof-gap",
-      "repo_url": "https://github.com/DanStinga/peak-ai-buyer-proof-gap",
-      "sha": "ff5101f54cd60d7b7520e7294837122741ce8f31",
-      "status": "accepted",
-      "issue": 55,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/55",
-      "submitted_at": "2026-08-28T16:45:43Z",
-      "attempts": 3,
-      "warnings": 0,
-      "slug": "danstinga-peak-ai-buyer-proof-gap"
     },
     {
       "team": "Granded",
