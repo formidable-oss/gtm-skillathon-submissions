@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:53:58.138Z",
+  "generated_at": "2026-08-28T16:54:47.181Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,23 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Joe Bob's Hardware Supply",
+      "members": [
+        "Karel"
+      ],
+      "track": "custom",
+      "repo": "bcksl/roadmap-vulture",
+      "repo_url": "https://github.com/bcksl/roadmap-vulture",
+      "sha": "354a12753742846292aab9a5ff0ae2054a66c1c9",
+      "status": "accepted",
+      "issue": 65,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/65",
+      "submitted_at": "2026-08-28T16:54:29Z",
+      "attempts": 2,
+      "warnings": 0,
+      "slug": "bcksl-roadmap-vulture"
+    },
     {
       "team": "3DAPI",
       "members": [
@@ -255,23 +272,6 @@
       "attempts": 1,
       "warnings": 0,
       "slug": "rest-artt-skillathon-fix-everything"
-    },
-    {
-      "team": "Joe Bob's Hardware Supply",
-      "members": [
-        "Karel"
-      ],
-      "track": "custom",
-      "repo": "bcksl/roadmap-vulture",
-      "repo_url": "https://github.com/bcksl/roadmap-vulture",
-      "sha": "c6ca35ba7d61e0a0f7ecd62fd293d585b837f1f5",
-      "status": "accepted",
-      "issue": 46,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/46",
-      "submitted_at": "2026-08-28T16:34:35Z",
-      "attempts": 1,
-      "warnings": 0,
-      "slug": "bcksl-roadmap-vulture"
     },
     {
       "team": "Low-Medium PLG",
