@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:04:06.288Z",
+  "generated_at": "2026-08-28T16:05:17.833Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,24 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Brand Expansion AI",
+      "members": [
+        "Radu",
+        "Edward Nita"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "edwardnita/gtm-skill",
+      "repo_url": "https://github.com/edwardnita/gtm-skill",
+      "sha": "2ab2a97f9741c6a32217d30f82beb00a4c7e7acb",
+      "status": "accepted",
+      "issue": 20,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/20",
+      "submitted_at": "2026-08-28T16:04:58Z",
+      "attempts": 3,
+      "warnings": 0,
+      "slug": "edwardnita-gtm-skill"
+    },
     {
       "team": "agentmarkup",
       "members": [
@@ -27,24 +45,6 @@
       "attempts": 5,
       "warnings": 0,
       "slug": "cochinescu-agentmarkup-readiness-gap"
-    },
-    {
-      "team": "Tender Radar",
-      "members": [
-        "Eduard Nita",
-        "Radu Minea"
-      ],
-      "track": "custom",
-      "repo": "edwardnita/gtm-skill",
-      "repo_url": "https://github.com/edwardnita/gtm-skill",
-      "sha": "ede16c180e9fb08f7cedfa207e21f76756b6ead3",
-      "status": "accepted",
-      "issue": 18,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/18",
-      "submitted_at": "2026-08-28T16:02:54Z",
-      "attempts": 2,
-      "warnings": 0,
-      "slug": "edwardnita-gtm-skill"
     },
     {
       "team": "Saucefox",
