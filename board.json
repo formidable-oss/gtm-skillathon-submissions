@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:00:15.940Z",
+  "generated_at": "2026-08-28T17:01:09.319Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,23 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Claudiu Busuioc",
+      "members": [
+        "Claudiu Busuioc"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "busuyoc/outreach-personalizer",
+      "repo_url": "https://github.com/busuyoc/outreach-personalizer",
+      "sha": "535396e1ea8ffcc925249a21e87a44a703cfd925",
+      "status": "accepted",
+      "issue": 72,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/72",
+      "submitted_at": "2026-08-28T17:00:50Z",
+      "attempts": 3,
+      "warnings": 0,
+      "slug": "busuyoc-outreach-personalizer"
+    },
     {
       "team": "agentmarkup",
       "members": [
@@ -376,23 +393,6 @@
       "attempts": 1,
       "warnings": 1,
       "slug": "chirataandrei-geo-citation-engineer"
-    },
-    {
-      "team": "Claudiu Busuioc",
-      "members": [
-        "Claudiu Busuioc"
-      ],
-      "track": "personalized-growth-engines",
-      "repo": "busuyoc/outreach-personalizer",
-      "repo_url": "https://github.com/busuyoc/outreach-personalizer",
-      "sha": "b5445fd7e41c69782f3603509f5e55da92be2d2c",
-      "status": "accepted",
-      "issue": 32,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/32",
-      "submitted_at": "2026-08-28T16:22:40Z",
-      "attempts": 2,
-      "warnings": 0,
-      "slug": "busuyoc-outreach-personalizer"
     },
     {
       "team": "Granded",

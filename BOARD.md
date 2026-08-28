@@ -1,11 +1,12 @@
 # Submissions board
 
-Updated 20:00:15 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 20:01:09 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
 **22 accepted** · 2 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
+| ✅ | Claudiu Busuioc | `personalized-growth-engines` | 20:00:50 | [`535396e`](https://github.com/busuyoc/outreach-personalizer/tree/535396e1ea8ffcc925249a21e87a44a703cfd925) | [#72](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/72) |
 | ✅ | agentmarkup | `ai-search-optimization` | 19:59:57 | [`5e95904`](https://github.com/cochinescu/agentmarkup-readiness-gap/tree/5e95904bcbf3f909f35a724a458e9206e94d7588) | [#71](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/71) |
 | ✅ | publi22 | `personalized-growth-engines` | 19:59:42 | [`b74c136`](https://github.com/mogaeduard/gtm-skillathon/tree/b74c136de8ba0384a1e6160355265ab41beeb0da) | [#70](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/70) |
 | ✅ | Andrei Radulescu | `ai-search-optimization` | 19:59:41 | [`9303c44`](https://github.com/andiradulescu/gtm-skill-missing-answer/tree/9303c44b2c6e121243f9c79c22bda4dc6c60a42e) | [#69](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/69) |
@@ -27,7 +28,6 @@ Updated 20:00:15 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 | ✅ | Low-Medium PLG | `plg-automation` | 19:31:30 | [`de84d6c`](https://github.com/AndreiChiscaru/gtm-signup-friction-scorer/tree/de84d6c9b5af4cfed7f6f7204ac24629bd32b5f1) | [#42](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/42) |
 | ✅ | Sergiu | `custom` | 19:29:38 | [`08953b6`](https://github.com/the-sergiu/human-touch-copy-triage/tree/08953b61fc76562fa5381f359a84397a7495c9db) | [#39](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/39) |
 | ❌ | Stock.estate | `ai-search-optimization` | 19:29:33 | — | [#38](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/38) |
-| ✅ | Claudiu Busuioc | `personalized-growth-engines` | 19:22:40 | [`b5445fd`](https://github.com/busuyoc/outreach-personalizer/tree/b5445fd7e41c69782f3603509f5e55da92be2d2c) | [#32](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/32) |
 | ❌ | Granded | `ai-search-optimization` | 19:21:01 | — | [#31](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/31) |
 | ✅ | GTM OS | `ai-search-optimization` | 19:09:28 | [`0a1b45c`](https://github.com/teopaleface/gtm-os/tree/0a1b45caef84b1e264289a8622768e17c0da59b3) | [#24](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/24) |
 
