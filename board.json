@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:15:04.954Z",
+  "generated_at": "2026-08-28T17:16:19.907Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,24 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "GTM Competitive Matrix",
+      "members": [
+        "Micu Roberta",
+        "Despina Mihaela"
+      ],
+      "track": "custom",
+      "repo": "RobertaDiana/gtm-churn-signal-hunter",
+      "repo_url": "https://github.com/RobertaDiana/gtm-churn-signal-hunter",
+      "sha": "f85654c3c18cad8e534be8fdc5d0d9c44ab22e21",
+      "status": "accepted",
+      "issue": 96,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/96",
+      "submitted_at": "2026-08-28T17:15:58Z",
+      "attempts": 12,
+      "warnings": 0,
+      "slug": "robertadiana-gtm-churn-signal-hunter"
+    },
     {
       "team": "GTM agent graph with a bounded verification and repair loop",
       "members": [
@@ -164,24 +182,6 @@
       "attempts": 2,
       "warnings": 0,
       "slug": "mmartinalexandru-pdp-answer-audit"
-    },
-    {
-      "team": "GTM Competitive Matrix",
-      "members": [
-        "Micu Roberta",
-        "Despina Mihaela"
-      ],
-      "track": "custom",
-      "repo": "RobertaDiana/gtm-churn-signal-hunter",
-      "repo_url": "https://github.com/RobertaDiana/gtm-churn-signal-hunter",
-      "sha": "de37f8fd8ce4f2c5cd896b9fd8cd4a8cc8087acd",
-      "status": "accepted",
-      "issue": 83,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/83",
-      "submitted_at": "2026-08-28T17:09:11Z",
-      "attempts": 11,
-      "warnings": 0,
-      "slug": "robertadiana-gtm-churn-signal-hunter"
     },
     {
       "team": "Adrian Ciubotaru",
