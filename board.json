@@ -1,15 +1,33 @@
 {
-  "generated_at": "2026-08-28T17:20:44.315Z",
+  "generated_at": "2026-08-28T17:21:45.728Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
-    "accepted": 28,
+    "accepted": 29,
     "rejected": 2,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "american dream",
+      "members": [
+        "Darius Zamcu",
+        "Bogdan-Marius Alexandru"
+      ],
+      "track": "custom",
+      "repo": "zamqq/americandream-team",
+      "repo_url": "https://github.com/zamqq/americandream-team",
+      "sha": "b911f74a7f317a34d3e87469e6af6ec9c115571f",
+      "status": "accepted",
+      "issue": 111,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/111",
+      "submitted_at": "2026-08-28T17:21:30Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "zamqq-americandream-team"
+    },
     {
       "team": "3DAPI",
       "members": [
