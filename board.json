@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:49:06.632Z",
+  "generated_at": "2026-08-28T16:49:33.408Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
@@ -10,6 +10,23 @@
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Saucefox",
+      "members": [
+        "Cristian Coc"
+      ],
+      "track": "personalized-growth-engines",
+      "repo": "Masterpuff77/gtm-skillathon-2026",
+      "repo_url": "https://github.com/Masterpuff77/gtm-skillathon-2026",
+      "sha": "51fc1dc1a8456cb51b95bf8eb04c872d64ff2585",
+      "status": "accepted",
+      "issue": 59,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/59",
+      "submitted_at": "2026-08-28T16:49:11Z",
+      "attempts": 2,
+      "warnings": 0,
+      "slug": "masterpuff77-gtm-skillathon-2026"
+    },
     {
       "team": "GTM Competitive Matrix",
       "members": [
@@ -342,23 +359,6 @@
       "attempts": 1,
       "warnings": 0,
       "slug": "teopaleface-gtm-os"
-    },
-    {
-      "team": "Saucefox",
-      "members": [
-        "Cristian Coc"
-      ],
-      "track": "personalized-growth-engines",
-      "repo": "Masterpuff77/gtm-skillathon-2026",
-      "repo_url": "https://github.com/Masterpuff77/gtm-skillathon-2026",
-      "sha": "b3ac6cec6bd8553f6a93b073f54c97efb61f5155",
-      "status": "accepted",
-      "issue": 17,
-      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/17",
-      "submitted_at": "2026-08-28T15:57:52Z",
-      "attempts": 1,
-      "warnings": 0,
-      "slug": "masterpuff77-gtm-skillathon-2026"
     }
   ]
 }
