@@ -1,15 +1,33 @@
 {
-  "generated_at": "2026-08-28T16:37:09.358Z",
+  "generated_at": "2026-08-28T16:40:06.788Z",
   "open_at": "2026-08-28T15:00:00Z",
   "close_at": "2026-08-28T17:30:00Z",
   "repo": "formidable-oss/gtm-skillathon-submissions",
   "counts": {
     "accepted": 15,
-    "rejected": 2,
+    "rejected": 3,
     "dry-run": 0,
     "late": 0
   },
   "submissions": [
+    {
+      "team": "Granded",
+      "members": [
+        "Andrei Lazureanu",
+        "Andrei Chirata"
+      ],
+      "track": "ai-search-optimization",
+      "repo": "andreilazu/GTM-skillathon",
+      "repo_url": "https://github.com/andreilazu/GTM-skillathon",
+      "sha": null,
+      "status": "rejected",
+      "issue": 50,
+      "issue_url": "https://github.com/formidable-oss/gtm-skillathon-submissions/issues/50",
+      "submitted_at": "2026-08-28T16:39:52Z",
+      "attempts": 1,
+      "warnings": 0,
+      "slug": "andreilazu-gtm-skillathon"
+    },
     {
       "team": "Daniel Stanciulescu",
       "members": [
