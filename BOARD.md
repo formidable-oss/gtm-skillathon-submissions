@@ -1,11 +1,12 @@
 # Submissions board
 
-Updated 19:51:56 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
+Updated 19:52:45 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 
 **19 accepted** · 2 need a fix · 0 dry runs · 0 late
 
 | | Team | Track | Submitted | Commit | Issue |
 | --- | --- | --- | --- | --- | --- |
+| ✅ | 3DAPI | `custom` | 19:52:28 | [`fd3b403`](https://github.com/crusadev/painkiller/tree/fd3b4037b720224c2af123b21f82c1394b426865) | [#63](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/63) |
 | ✅ | publi22 | `personalized-growth-engines` | 19:51:30 | [`8e3049d`](https://github.com/mogaeduard/gtm-skillathon/tree/8e3049d1c2973cd7a64f24b9a273db177159cd12) | [#62](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/62) |
 | ✅ | Signal Obscura | `personalized-growth-engines` | 19:51:01 | [`7327661`](https://github.com/TudorAndrei/gtm-skill/tree/732766159883e09146b3dacd62831b6a26e1600f) | [#61](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/61) |
 | ✅ | Tender Radar | `custom` | 19:50:50 | [`450e6ae`](https://github.com/edwardnita/gtm-skill/tree/450e6ae681df403adfaa2c270fd4bac0a45e876f) | [#60](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/60) |
@@ -16,7 +17,6 @@ Updated 19:51:56 local. Live view: <https://gtm-skillathon-jury.vercel.app/>
 | ✅ | Peak AI | `synthetic-buyer-simulations` | 19:45:43 | [`ff5101f`](https://github.com/DanStinga/peak-ai-buyer-proof-gap/tree/ff5101f54cd60d7b7520e7294837122741ce8f31) | [#55](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/55) |
 | ✅ | agentmarkup | `ai-search-optimization` | 19:45:08 | [`5d4abd4`](https://github.com/cochinescu/agentmarkup-readiness-gap/tree/5d4abd4ac9f6405042c82b19e12e5e21948363e7) | [#54](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/54) |
 | ✅ | Granded | `ai-search-optimization` | 19:44:11 | [`4dd4c0b`](https://github.com/andreilazu/GTM-skillathon/tree/4dd4c0bc540c5f6f7ecda14440217b7cee29c33a) | [#53](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/53) |
-| ✅ | 3DAPI | `custom` | 19:43:35 | [`16263c3`](https://github.com/crusadev/painkiller/tree/16263c34e9afb5362e737196a338e9c32b606fb3) | [#52](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/52) |
 | ✅ | Daniel Stanciulescu | `personalized-growth-engines` | 19:36:49 | [`1aad70c`](https://github.com/daniel-stanciulescu/gtm-skillathon/tree/1aad70c15f4debd8b11b7ee08208a245dda9404d) | [#49](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/49) |
 | ✅ | RefineForge | `custom` | 19:34:55 | [`890cdb4`](https://github.com/andrei14922/refineforge-skillathon/tree/890cdb4fc7b6ca675dd6b5b01c5cb924affceb77) | [#48](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/48) |
 | ✅ | Fix Everywhere | `custom` | 19:34:51 | [`8147d0a`](https://github.com/rest-artt/skillathon-fix-everything/tree/8147d0a57e9014ffb3d5985a4f9838168132d85e) | [#47](https://github.com/formidable-oss/gtm-skillathon-submissions/issues/47) |
